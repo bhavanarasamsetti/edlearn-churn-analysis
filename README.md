@@ -10,6 +10,7 @@ The dashboard provides actionable insights that help understand user engagement,
 
 The goal of this project is to build a complete data analytics workflow using:
 
+- **SQL** (- Wrote SQL queries to validate churn calculations, revenue totals, and customer counts using joins and aggregations)
 - **Excel** (data cleaning, column creation, pivot checks)
 - **Power BI** (interactive dashboards & business insights)
 - **DAX** (basic calculations)
