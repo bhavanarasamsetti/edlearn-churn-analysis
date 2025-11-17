@@ -132,6 +132,26 @@ The project contains a **4-page interactive dashboard**:
 - **Visualization Best Practices**
 
 ---
+SQL Validation Queries 
+
+Although the final dashboard was built in Excel + Power BI, SQL was used to validate key metrics during analysis.
+-- Total customers
+SELECT COUNT(*) FROM customers;
+
+-- Monthly revenue
+SELECT strftime('%Y-%m', date) AS month,
+       SUM(amount) AS revenue
+FROM payments
+GROUP BY month
+ORDER BY month;
+
+-- Churn by month
+SELECT strftime('%Y-%m', end_date) AS month,
+       COUNT(*) AS churned_customers
+FROM subscriptions
+WHERE end_date < DATE('now')
+GROUP BY month;
+
 
 ## 📂 Project Structure
 edlearn-churn-analysis/
