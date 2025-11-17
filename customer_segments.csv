@@ -1,0 +1,3001 @@
+"customer_id","signup_date","gender","age_group","city","acquisition_channel"
+C100000,"2023-10-17",Male,"13-15",Rajahmundry,Google Ads
+C100001,"2022-04-25",Female,"16-18",Rajahmundry,Organic
+C100002,"2022-01-26",Female,"10-12",Hyderabad,Google Ads
+C100003,"2024-01-30",Female,"13-15",Chennai,Organic
+C100004,"2022-10-09",Male,"13-15",Chennai,Referral
+C100005,"2022-09-08",Male,"16-18",Hyderabad,FB Ads
+C100006,"2022-08-17",Male,"16-18",Bengaluru,Google Ads
+C100007,"2022-05-23",Female,"10-12",Rajahmundry,Organic
+C100008,"2024-01-25",Female,"13-15",Rajahmundry,Google Ads
+C100009,"2022-04-15",Female,"10-12",Hyderabad,Google Ads
+C100010,"2023-11-24",Male,"13-15",Hyderabad,FB Ads
+C100011,"2024-01-29",Other,"10-12",Bengaluru,Google Ads
+C100012,"2023-07-13",Female,"13-15",Delhi,FB Ads
+C100013,"2022-03-31",Male,"13-15",Chennai,Referral
+C100014,"2023-08-28",Male,"13-15",Vijayawada,FB Ads
+C100015,"2023-03-09",Male,"13-15",Delhi,Referral
+C100016,"2022-02-02",Male,"13-15",Chennai,Referral
+C100017,"2022-01-31",Female,"13-15",Rajahmundry,FB Ads
+C100018,"2022-04-06",Male,"10-12",Delhi,Organic
+C100019,"2022-08-12",Male,"16-18",Hyderabad,FB Ads
+C100020,"2022-08-27",Female,"10-12",Bengaluru,Referral
+C100021,"2023-06-02",Male,"13-15",Chennai,Organic
+C100022,"2023-09-09",Male,"13-15",Bengaluru,FB Ads
+C100023,"2022-01-28",Male,"13-15",Chennai,Referral
+C100024,"2023-07-29",Male,"10-12",Delhi,FB Ads
+C100025,"2022-07-23",Female,"13-15",Rajahmundry,Google Ads
+C100026,"2024-01-04",Male,"16-18",Vijayawada,Organic
+C100027,"2023-10-28",Female,"13-15",Bengaluru,Organic
+C100028,"2023-12-20",Female,"13-15",Bengaluru,Google Ads
+C100029,"2023-07-13",Male,"13-15",Vijayawada,Organic
+C100030,"2023-03-06",Female,"10-12",Bengaluru,Organic
+C100031,"2022-08-14",Male,"13-15",Bengaluru,Referral
+C100032,"2023-04-05",Male,"16-18",Chennai,Organic
+C100033,"2023-08-27",Female,"10-12",Chennai,School Partnership
+C100034,"2022-10-12",Other,"10-12",Vijayawada,School Partnership
+C100035,"2024-04-08",Female,"10-12",Rajahmundry,Organic
+C100036,"2024-06-09",Male,"13-15",Delhi,Organic
+C100037,"2022-01-07",Male,"16-18",Delhi,Google Ads
+C100038,"2024-02-17",Female,"10-12",Bengaluru,FB Ads
+C100039,"2024-04-05",Male,"13-15",Rajahmundry,Organic
+C100040,"2022-06-13",Male,"10-12",Vijayawada,Google Ads
+C100041,"2023-12-16",Female,"16-18",Vijayawada,Organic
+C100042,"2023-03-09",Male,"10-12",Chennai,Referral
+C100043,"2022-12-15",Female,"13-15",Bengaluru,Organic
+C100044,"2022-10-12",Male,"13-15",Hyderabad,Organic
+C100045,"2022-06-09",Female,"13-15",Vijayawada,Organic
+C100046,"2022-08-09",Male,"13-15",Bengaluru,School Partnership
+C100047,"2024-02-21",Female,"13-15",Rajahmundry,Google Ads
+C100048,"2022-12-11",Female,"13-15",Chennai,Referral
+C100049,"2022-04-15",Male,"10-12",Delhi,FB Ads
+C100050,"2022-04-05",Other,"10-12",Rajahmundry,Organic
+C100051,"2023-01-25",Female,"13-15",Vijayawada,Organic
+C100052,"2022-04-10",Female,"10-12",Vijayawada,FB Ads
+C100053,"2023-01-03",Female,"10-12",Rajahmundry,FB Ads
+C100054,"2024-05-17",Female,"13-15",Vijayawada,Google Ads
+C100055,"2022-12-19",Female,"16-18",Bengaluru,Organic
+C100056,"2023-09-11",Male,"13-15",Vijayawada,School Partnership
+C100057,"2022-09-28",Male,"10-12",Chennai,Organic
+C100058,"2024-04-06",Male,"10-12",Bengaluru,School Partnership
+C100059,"2022-02-14",Male,"16-18",Hyderabad,Organic
+C100060,"2024-01-18",Male,"10-12",Vijayawada,FB Ads
+C100061,"2023-04-16",Male,"10-12",Vijayawada,Organic
+C100062,"2023-07-04",Female,"13-15",Chennai,FB Ads
+C100063,"2022-05-08",Male,"13-15",Chennai,FB Ads
+C100064,"2023-01-23",Male,"13-15",Delhi,FB Ads
+C100065,"2022-03-22",Female,"10-12",Rajahmundry,FB Ads
+C100066,"2023-07-20",Male,"10-12",Rajahmundry,Google Ads
+C100067,"2022-10-28",Female,"16-18",Rajahmundry,Google Ads
+C100068,"2024-04-29",Male,"10-12",Chennai,Referral
+C100069,"2023-10-06",Other,"13-15",Rajahmundry,Organic
+C100070,"2023-09-26",Female,"13-15",Rajahmundry,Google Ads
+C100071,"2024-06-01",Male,"13-15",Hyderabad,FB Ads
+C100072,"2023-01-06",Male,"13-15",Rajahmundry,FB Ads
+C100073,"2023-08-15",Female,"10-12",Vijayawada,FB Ads
+C100074,"2022-07-16",Female,"13-15",Delhi,Organic
+C100075,"2023-12-23",Female,"16-18",Chennai,Organic
+C100076,"2022-03-13",Female,"16-18",Bengaluru,Organic
+C100077,"2022-02-16",Male,"10-12",Delhi,Organic
+C100078,"2023-11-09",Male,"10-12",Hyderabad,Google Ads
+C100079,"2022-08-22",Male,"16-18",Chennai,Google Ads
+C100080,"2024-03-02",Female,"13-15",Chennai,School Partnership
+C100081,"2022-10-24",Female,"16-18",Vijayawada,Google Ads
+C100082,"2022-03-23",Male,"10-12",Delhi,Organic
+C100083,"2024-05-25",Male,"13-15",Delhi,Referral
+C100084,"2022-08-27",Male,"13-15",Rajahmundry,Referral
+C100085,"2024-06-06",Male,"13-15",Vijayawada,FB Ads
+C100086,"2022-04-14",Female,"13-15",Rajahmundry,FB Ads
+C100087,"2023-01-25",Female,"10-12",Rajahmundry,School Partnership
+C100088,"2022-10-12",Female,"13-15",Chennai,FB Ads
+C100089,"2023-04-10",Male,"10-12",Delhi,School Partnership
+C100090,"2023-10-13",Male,"13-15",Rajahmundry,Organic
+C100091,"2024-05-04",Female,"16-18",Hyderabad,Organic
+C100092,"2023-01-09",Female,"13-15",Hyderabad,FB Ads
+C100093,"2022-06-16",Female,"16-18",Delhi,FB Ads
+C100094,"2023-01-15",Female,"10-12",Hyderabad,Referral
+C100095,"2022-12-30",Female,"13-15",Chennai,School Partnership
+C100096,"2022-08-03",Female,"16-18",Vijayawada,FB Ads
+C100097,"2023-11-18",Male,"10-12",Bengaluru,Organic
+C100098,"2022-10-01",Male,"10-12",Rajahmundry,Referral
+C100099,"2023-12-20",Male,"13-15",Bengaluru,Google Ads
+C100100,"2023-12-01",Male,"10-12",Vijayawada,Organic
+C100101,"2023-10-26",Female,"13-15",Vijayawada,FB Ads
+C100102,"2022-03-15",Male,"16-18",Chennai,Google Ads
+C100103,"2023-09-16",Female,"13-15",Hyderabad,Google Ads
+C100104,"2023-10-13",Female,"10-12",Hyderabad,FB Ads
+C100105,"2022-06-25",Male,"13-15",Vijayawada,Organic
+C100106,"2023-07-01",Male,"13-15",Chennai,School Partnership
+C100107,"2024-01-17",Female,"10-12",Chennai,Google Ads
+C100108,"2022-09-08",Male,"13-15",Delhi,FB Ads
+C100109,"2022-06-17",Male,"13-15",Rajahmundry,Organic
+C100110,"2023-04-19",Male,"13-15",Hyderabad,Google Ads
+C100111,"2023-01-24",Male,"10-12",Vijayawada,Organic
+C100112,"2022-10-04",Female,"13-15",Delhi,Organic
+C100113,"2023-10-18",Female,"10-12",Bengaluru,FB Ads
+C100114,"2023-12-06",Female,"10-12",Hyderabad,Organic
+C100115,"2023-07-25",Female,"16-18",Rajahmundry,Google Ads
+C100116,"2022-08-13",Female,"13-15",Chennai,Organic
+C100117,"2023-12-03",Male,"10-12",Vijayawada,Google Ads
+C100118,"2022-11-29",Female,"10-12",Hyderabad,Organic
+C100119,"2024-05-13",Female,"10-12",Bengaluru,Organic
+C100120,"2024-02-26",Female,"10-12",Rajahmundry,Organic
+C100121,"2024-03-05",Female,"10-12",Rajahmundry,School Partnership
+C100122,"2022-02-27",Male,"10-12",Delhi,Referral
+C100123,"2022-08-23",Male,"13-15",Hyderabad,Organic
+C100124,"2024-04-21",Male,"13-15",Bengaluru,Google Ads
+C100125,"2022-02-02",Male,"13-15",Rajahmundry,Google Ads
+C100126,"2024-04-04",Female,"13-15",Vijayawada,School Partnership
+C100127,"2022-11-20",Female,"10-12",Rajahmundry,FB Ads
+C100128,"2023-02-15",Male,"16-18",Bengaluru,Google Ads
+C100129,"2022-10-02",Female,"16-18",Chennai,Organic
+C100130,"2022-03-09",Male,"16-18",Chennai,FB Ads
+C100131,"2022-08-05",Male,"16-18",Delhi,School Partnership
+C100132,"2023-08-04",Male,"16-18",Hyderabad,FB Ads
+C100133,"2024-06-16",Male,"13-15",Bengaluru,Organic
+C100134,"2024-01-06",Female,"10-12",Delhi,Organic
+C100135,"2022-11-19",Male,"13-15",Rajahmundry,Google Ads
+C100136,"2022-08-06",Female,"13-15",Rajahmundry,Google Ads
+C100137,"2023-11-03",Female,"13-15",Chennai,FB Ads
+C100138,"2023-05-27",Male,"13-15",Delhi,School Partnership
+C100139,"2023-02-10",Other,"10-12",Chennai,Organic
+C100140,"2023-10-21",Other,"13-15",Vijayawada,Organic
+C100141,"2023-04-15",Male,"16-18",Chennai,School Partnership
+C100142,"2022-05-27",Female,"13-15",Vijayawada,Organic
+C100143,"2022-09-29",Male,"13-15",Rajahmundry,Organic
+C100144,"2022-05-23",Male,"10-12",Delhi,FB Ads
+C100145,"2022-09-10",Male,"13-15",Vijayawada,Referral
+C100146,"2024-02-02",Female,"16-18",Delhi,Organic
+C100147,"2023-07-29",Female,"13-15",Delhi,School Partnership
+C100148,"2023-07-06",Male,"16-18",Vijayawada,Google Ads
+C100149,"2022-09-27",Male,"13-15",Hyderabad,Organic
+C100150,"2024-02-04",Female,"13-15",Chennai,Google Ads
+C100151,"2023-08-22",Male,"10-12",Vijayawada,FB Ads
+C100152,"2023-03-15",Male,"13-15",Rajahmundry,FB Ads
+C100153,"2023-08-21",Female,"13-15",Delhi,Google Ads
+C100154,"2023-02-13",Other,"13-15",Bengaluru,School Partnership
+C100155,"2023-01-06",Male,"13-15",Vijayawada,Organic
+C100156,"2022-08-13",Female,"16-18",Chennai,FB Ads
+C100157,"2022-05-22",Female,"10-12",Delhi,FB Ads
+C100158,"2023-06-06",Male,"16-18",Hyderabad,FB Ads
+C100159,"2023-05-21",Female,"10-12",Rajahmundry,FB Ads
+C100160,"2022-04-04",Male,"13-15",Hyderabad,Organic
+C100161,"2024-02-13",Female,"10-12",Bengaluru,Google Ads
+C100162,"2022-02-18",Female,"13-15",Vijayawada,FB Ads
+C100163,"2024-05-31",Female,"13-15",Delhi,Organic
+C100164,"2022-04-23",Male,"10-12",Vijayawada,Referral
+C100165,"2022-06-06",Female,"13-15",Chennai,Referral
+C100166,"2023-10-05",Male,"16-18",Vijayawada,FB Ads
+C100167,"2022-06-13",Male,"10-12",Rajahmundry,Organic
+C100168,"2024-03-22",Male,"16-18",Bengaluru,Google Ads
+C100169,"2023-11-28",Female,"13-15",Hyderabad,Organic
+C100170,"2023-03-09",Female,"13-15",Bengaluru,Organic
+C100171,"2023-09-03",Male,"10-12",Delhi,Google Ads
+C100172,"2022-03-07",Female,"10-12",Vijayawada,Organic
+C100173,"2023-01-30",Male,"10-12",Delhi,Organic
+C100174,"2023-01-26",Female,"10-12",Hyderabad,Organic
+C100175,"2023-09-03",Male,"10-12",Delhi,Organic
+C100176,"2023-04-25",Female,"13-15",Chennai,Organic
+C100177,"2023-06-26",Male,"16-18",Bengaluru,School Partnership
+C100178,"2022-09-15",Female,"16-18",Hyderabad,Organic
+C100179,"2023-07-21",Male,"13-15",Hyderabad,Organic
+C100180,"2024-05-31",Male,"10-12",Hyderabad,Organic
+C100181,"2022-01-12",Male,"10-12",Rajahmundry,School Partnership
+C100182,"2023-11-28",Female,"13-15",Bengaluru,FB Ads
+C100183,"2024-01-09",Female,"10-12",Delhi,FB Ads
+C100184,"2022-04-28",Male,"13-15",Hyderabad,Referral
+C100185,"2023-11-30",Female,"13-15",Bengaluru,FB Ads
+C100186,"2023-07-04",Female,"13-15",Hyderabad,Organic
+C100187,"2024-02-08",Female,"13-15",Chennai,Organic
+C100188,"2022-10-01",Female,"16-18",Chennai,FB Ads
+C100189,"2024-02-27",Male,"16-18",Chennai,Organic
+C100190,"2023-10-19",Male,"13-15",Vijayawada,Google Ads
+C100191,"2022-12-15",Female,"16-18",Hyderabad,Organic
+C100192,"2022-04-25",Female,"16-18",Vijayawada,FB Ads
+C100193,"2022-10-28",Female,"13-15",Bengaluru,Organic
+C100194,"2023-03-22",Male,"13-15",Vijayawada,Organic
+C100195,"2022-06-11",Male,"13-15",Bengaluru,FB Ads
+C100196,"2023-04-10",Female,"16-18",Bengaluru,School Partnership
+C100197,"2022-01-04",Female,"16-18",Bengaluru,FB Ads
+C100198,"2024-01-10",Female,"10-12",Delhi,Google Ads
+C100199,"2024-06-15",Female,"13-15",Vijayawada,Organic
+C100200,"2024-01-07",Female,"13-15",Delhi,Organic
+C100201,"2022-09-27",Male,"13-15",Hyderabad,Organic
+C100202,"2023-05-28",Male,"10-12",Vijayawada,Organic
+C100203,"2024-02-20",Female,"16-18",Hyderabad,Organic
+C100204,"2022-07-02",Female,"13-15",Hyderabad,Organic
+C100205,"2023-06-04",Male,"16-18",Bengaluru,Google Ads
+C100206,"2022-04-19",Male,"16-18",Vijayawada,Organic
+C100207,"2024-06-10",Female,"13-15",Hyderabad,FB Ads
+C100208,"2023-10-03",Male,"13-15",Chennai,FB Ads
+C100209,"2022-11-02",Male,"13-15",Hyderabad,FB Ads
+C100210,"2024-05-11",Female,"10-12",Chennai,FB Ads
+C100211,"2023-10-17",Female,"13-15",Vijayawada,Organic
+C100212,"2023-06-04",Female,"10-12",Delhi,Organic
+C100213,"2023-09-16",Male,"13-15",Vijayawada,Google Ads
+C100214,"2022-07-23",Female,"10-12",Delhi,Referral
+C100215,"2022-06-06",Male,"10-12",Delhi,Organic
+C100216,"2023-01-18",Male,"10-12",Vijayawada,Organic
+C100217,"2024-02-20",Female,"10-12",Hyderabad,Referral
+C100218,"2022-06-15",Female,"13-15",Rajahmundry,Organic
+C100219,"2023-07-07",Female,"13-15",Hyderabad,FB Ads
+C100220,"2024-03-08",Female,"13-15",Hyderabad,FB Ads
+C100221,"2023-06-28",Female,"10-12",Bengaluru,Organic
+C100222,"2022-01-01",Male,"10-12",Bengaluru,FB Ads
+C100223,"2023-09-06",Male,"10-12",Hyderabad,FB Ads
+C100224,"2022-11-28",Male,"10-12",Chennai,Organic
+C100225,"2023-05-16",Male,"16-18",Delhi,FB Ads
+C100226,"2022-01-20",Other,"10-12",Bengaluru,Google Ads
+C100227,"2022-04-25",Male,"13-15",Hyderabad,FB Ads
+C100228,"2023-01-07",Female,"10-12",Rajahmundry,Organic
+C100229,"2024-06-18",Female,"10-12",Chennai,FB Ads
+C100230,"2024-05-01",Female,"13-15",Vijayawada,Google Ads
+C100231,"2024-04-06",Female,"13-15",Hyderabad,Google Ads
+C100232,"2022-11-11",Female,"10-12",Hyderabad,Google Ads
+C100233,"2022-09-03",Female,"10-12",Delhi,Organic
+C100234,"2022-03-01",Male,"13-15",Chennai,Google Ads
+C100235,"2022-09-04",Female,"10-12",Bengaluru,Google Ads
+C100236,"2024-06-18",Male,"10-12",Bengaluru,Organic
+C100237,"2023-08-04",Male,"16-18",Bengaluru,FB Ads
+C100238,"2022-03-22",Female,"13-15",Vijayawada,Organic
+C100239,"2022-03-29",Male,"13-15",Chennai,Google Ads
+C100240,"2024-01-20",Female,"13-15",Chennai,Organic
+C100241,"2023-05-13",Female,"13-15",Bengaluru,FB Ads
+C100242,"2024-04-15",Female,"13-15",Bengaluru,School Partnership
+C100243,"2022-03-12",Male,"13-15",Delhi,Google Ads
+C100244,"2024-02-18",Male,"13-15",Rajahmundry,School Partnership
+C100245,"2023-06-30",Female,"10-12",Rajahmundry,School Partnership
+C100246,"2024-02-24",Male,"13-15",Hyderabad,Organic
+C100247,"2022-05-09",Other,"13-15",Hyderabad,Google Ads
+C100248,"2022-05-12",Other,"16-18",Chennai,FB Ads
+C100249,"2023-11-07",Female,"13-15",Chennai,Referral
+C100250,"2023-05-02",Male,"13-15",Vijayawada,Organic
+C100251,"2023-07-17",Male,"10-12",Vijayawada,School Partnership
+C100252,"2022-06-19",Female,"13-15",Rajahmundry,Google Ads
+C100253,"2022-09-29",Male,"10-12",Hyderabad,Google Ads
+C100254,"2023-06-25",Male,"13-15",Rajahmundry,Organic
+C100255,"2024-06-12",Female,"10-12",Rajahmundry,Organic
+C100256,"2023-09-14",Female,"13-15",Hyderabad,Google Ads
+C100257,"2023-03-10",Female,"10-12",Vijayawada,Organic
+C100258,"2022-08-05",Female,"13-15",Delhi,Referral
+C100259,"2023-07-07",Male,"16-18",Delhi,Organic
+C100260,"2024-02-13",Female,"10-12",Delhi,Google Ads
+C100261,"2024-01-18",Other,"13-15",Hyderabad,FB Ads
+C100262,"2023-12-08",Male,"13-15",Bengaluru,Google Ads
+C100263,"2022-07-25",Female,"10-12",Bengaluru,Google Ads
+C100264,"2024-01-01",Female,"16-18",Bengaluru,Organic
+C100265,"2022-11-16",Female,"10-12",Chennai,Organic
+C100266,"2023-02-13",Female,"13-15",Vijayawada,Organic
+C100267,"2023-11-19",Female,"13-15",Vijayawada,FB Ads
+C100268,"2023-10-28",Male,"13-15",Chennai,FB Ads
+C100269,"2023-01-18",Male,"13-15",Rajahmundry,Google Ads
+C100270,"2023-03-25",Female,"10-12",Delhi,FB Ads
+C100271,"2023-06-14",Female,"10-12",Bengaluru,FB Ads
+C100272,"2023-04-08",Female,"13-15",Delhi,FB Ads
+C100273,"2022-05-04",Female,"13-15",Bengaluru,Organic
+C100274,"2022-09-11",Female,"16-18",Delhi,Organic
+C100275,"2022-08-19",Female,"16-18",Rajahmundry,School Partnership
+C100276,"2022-03-07",Female,"16-18",Delhi,Referral
+C100277,"2022-12-13",Female,"13-15",Delhi,Organic
+C100278,"2022-01-22",Female,"13-15",Hyderabad,FB Ads
+C100279,"2023-08-26",Female,"16-18",Delhi,Referral
+C100280,"2023-07-22",Female,"13-15",Hyderabad,FB Ads
+C100281,"2022-08-24",Male,"10-12",Vijayawada,Organic
+C100282,"2023-08-26",Male,"16-18",Chennai,Organic
+C100283,"2022-08-14",Male,"16-18",Delhi,FB Ads
+C100284,"2022-01-08",Female,"13-15",Vijayawada,School Partnership
+C100285,"2022-03-14",Male,"10-12",Hyderabad,Google Ads
+C100286,"2023-12-26",Male,"13-15",Delhi,Organic
+C100287,"2023-10-09",Female,"16-18",Delhi,Organic
+C100288,"2022-03-02",Male,"16-18",Rajahmundry,Google Ads
+C100289,"2022-08-23",Female,"10-12",Vijayawada,Referral
+C100290,"2022-03-11",Male,"10-12",Bengaluru,Google Ads
+C100291,"2022-02-02",Male,"16-18",Bengaluru,Google Ads
+C100292,"2024-05-30",Female,"13-15",Rajahmundry,Organic
+C100293,"2022-12-05",Male,"13-15",Hyderabad,Referral
+C100294,"2022-03-14",Male,"16-18",Bengaluru,Google Ads
+C100295,"2023-06-11",Female,"10-12",Bengaluru,Organic
+C100296,"2022-09-01",Female,"13-15",Chennai,Google Ads
+C100297,"2022-10-13",Male,"10-12",Vijayawada,Organic
+C100298,"2023-11-17",Female,"13-15",Hyderabad,Organic
+C100299,"2023-05-13",Male,"16-18",Delhi,Organic
+C100300,"2022-08-08",Male,"13-15",Vijayawada,Organic
+C100301,"2023-07-07",Female,"16-18",Hyderabad,Organic
+C100302,"2022-05-16",Female,"13-15",Bengaluru,FB Ads
+C100303,"2024-01-11",Female,"13-15",Chennai,FB Ads
+C100304,"2023-08-08",Female,"10-12",Vijayawada,FB Ads
+C100305,"2023-08-14",Other,"13-15",Bengaluru,Organic
+C100306,"2023-04-30",Female,"13-15",Hyderabad,Organic
+C100307,"2022-09-06",Male,"10-12",Vijayawada,Google Ads
+C100308,"2024-03-14",Female,"13-15",Delhi,FB Ads
+C100309,"2023-04-30",Male,"13-15",Vijayawada,Organic
+C100310,"2024-04-06",Male,"13-15",Bengaluru,Referral
+C100311,"2023-02-21",Male,"13-15",Vijayawada,Google Ads
+C100312,"2022-07-14",Male,"13-15",Delhi,Referral
+C100313,"2022-04-07",Other,"10-12",Chennai,FB Ads
+C100314,"2022-04-10",Female,"10-12",Chennai,Organic
+C100315,"2023-11-06",Female,"13-15",Bengaluru,Google Ads
+C100316,"2023-03-18",Male,"13-15",Hyderabad,Organic
+C100317,"2022-12-29",Male,"10-12",Bengaluru,FB Ads
+C100318,"2023-03-10",Male,"16-18",Chennai,Organic
+C100319,"2023-02-25",Male,"16-18",Rajahmundry,Referral
+C100320,"2023-04-24",Female,"13-15",Rajahmundry,Organic
+C100321,"2024-06-03",Female,"10-12",Vijayawada,School Partnership
+C100322,"2024-01-17",Female,"16-18",Delhi,Referral
+C100323,"2022-02-25",Male,"13-15",Vijayawada,FB Ads
+C100324,"2023-11-21",Female,"16-18",Rajahmundry,Google Ads
+C100325,"2023-11-01",Female,"16-18",Chennai,Google Ads
+C100326,"2023-10-24",Female,"16-18",Vijayawada,Referral
+C100327,"2022-04-11",Female,"13-15",Bengaluru,FB Ads
+C100328,"2022-03-04",Male,"10-12",Delhi,Google Ads
+C100329,"2023-02-17",Male,"13-15",Bengaluru,FB Ads
+C100330,"2024-01-16",Male,"13-15",Delhi,School Partnership
+C100331,"2022-12-14",Female,"13-15",Chennai,FB Ads
+C100332,"2024-03-30",Male,"10-12",Vijayawada,FB Ads
+C100333,"2024-06-01",Male,"10-12",Delhi,Google Ads
+C100334,"2022-04-22",Male,"16-18",Bengaluru,Referral
+C100335,"2022-09-12",Male,"13-15",Vijayawada,FB Ads
+C100336,"2022-07-16",Female,"16-18",Vijayawada,Organic
+C100337,"2022-07-14",Female,"16-18",Bengaluru,FB Ads
+C100338,"2023-07-04",Male,"13-15",Rajahmundry,School Partnership
+C100339,"2023-04-05",Male,"13-15",Delhi,Google Ads
+C100340,"2022-05-24",Female,"16-18",Bengaluru,Referral
+C100341,"2023-03-09",Male,"13-15",Chennai,Organic
+C100342,"2022-07-07",Male,"13-15",Hyderabad,FB Ads
+C100343,"2022-10-13",Male,"10-12",Bengaluru,Google Ads
+C100344,"2023-04-19",Male,"13-15",Vijayawada,Referral
+C100345,"2022-09-13",Female,"13-15",Vijayawada,Organic
+C100346,"2024-06-14",Female,"10-12",Bengaluru,Referral
+C100347,"2022-03-19",Male,"10-12",Hyderabad,FB Ads
+C100348,"2023-03-30",Male,"13-15",Bengaluru,Organic
+C100349,"2024-04-07",Female,"10-12",Hyderabad,Organic
+C100350,"2024-06-01",Female,"10-12",Hyderabad,Organic
+C100351,"2024-05-26",Female,"13-15",Chennai,FB Ads
+C100352,"2023-07-18",Female,"16-18",Delhi,Organic
+C100353,"2022-04-11",Male,"13-15",Vijayawada,Organic
+C100354,"2022-02-21",Male,"10-12",Vijayawada,Referral
+C100355,"2023-10-30",Female,"10-12",Hyderabad,Organic
+C100356,"2023-07-08",Male,"13-15",Vijayawada,Organic
+C100357,"2024-05-06",Female,"13-15",Rajahmundry,FB Ads
+C100358,"2022-01-16",Female,"16-18",Hyderabad,FB Ads
+C100359,"2022-04-06",Female,"13-15",Vijayawada,Google Ads
+C100360,"2024-02-11",Male,"16-18",Rajahmundry,FB Ads
+C100361,"2024-05-19",Female,"10-12",Chennai,Google Ads
+C100362,"2022-08-31",Male,"13-15",Vijayawada,Google Ads
+C100363,"2022-06-20",Female,"10-12",Rajahmundry,Organic
+C100364,"2023-02-21",Female,"16-18",Bengaluru,Organic
+C100365,"2023-05-13",Male,"13-15",Delhi,FB Ads
+C100366,"2023-05-08",Other,"13-15",Bengaluru,FB Ads
+C100367,"2022-08-07",Female,"10-12",Rajahmundry,Google Ads
+C100368,"2024-06-04",Male,"10-12",Hyderabad,FB Ads
+C100369,"2023-02-15",Male,"13-15",Hyderabad,FB Ads
+C100370,"2022-03-02",Male,"10-12",Vijayawada,Organic
+C100371,"2022-06-18",Male,"13-15",Bengaluru,Organic
+C100372,"2023-01-24",Male,"10-12",Hyderabad,FB Ads
+C100373,"2022-01-03",Female,"13-15",Hyderabad,FB Ads
+C100374,"2023-02-04",Male,"16-18",Bengaluru,FB Ads
+C100375,"2022-09-29",Male,"16-18",Chennai,Organic
+C100376,"2024-03-13",Female,"16-18",Hyderabad,Google Ads
+C100377,"2024-03-14",Male,"10-12",Delhi,Referral
+C100378,"2023-04-11",Female,"10-12",Rajahmundry,Organic
+C100379,"2022-10-20",Male,"13-15",Vijayawada,FB Ads
+C100380,"2023-03-10",Male,"13-15",Hyderabad,School Partnership
+C100381,"2023-12-15",Female,"13-15",Delhi,Organic
+C100382,"2024-01-19",Female,"10-12",Delhi,FB Ads
+C100383,"2024-03-13",Female,"10-12",Hyderabad,Organic
+C100384,"2023-07-24",Female,"10-12",Chennai,Google Ads
+C100385,"2023-11-09",Female,"16-18",Rajahmundry,Organic
+C100386,"2024-01-06",Male,"10-12",Vijayawada,School Partnership
+C100387,"2023-05-14",Male,"13-15",Hyderabad,Google Ads
+C100388,"2022-06-08",Female,"10-12",Vijayawada,Google Ads
+C100389,"2022-07-14",Female,"13-15",Bengaluru,Google Ads
+C100390,"2022-10-31",Other,"13-15",Delhi,FB Ads
+C100391,"2022-08-11",Male,"16-18",Delhi,FB Ads
+C100392,"2022-03-01",Male,"16-18",Hyderabad,Referral
+C100393,"2023-08-17",Female,"13-15",Hyderabad,School Partnership
+C100394,"2024-01-24",Male,"16-18",Bengaluru,FB Ads
+C100395,"2023-07-10",Female,"16-18",Chennai,School Partnership
+C100396,"2022-03-04",Female,"16-18",Hyderabad,FB Ads
+C100397,"2024-02-05",Male,"16-18",Delhi,FB Ads
+C100398,"2022-11-18",Female,"10-12",Vijayawada,FB Ads
+C100399,"2022-02-28",Female,"13-15",Rajahmundry,Organic
+C100400,"2022-02-21",Male,"10-12",Vijayawada,Organic
+C100401,"2023-08-22",Female,"10-12",Chennai,Organic
+C100402,"2023-05-04",Female,"16-18",Rajahmundry,FB Ads
+C100403,"2023-05-30",Female,"13-15",Vijayawada,FB Ads
+C100404,"2024-05-23",Male,"13-15",Vijayawada,FB Ads
+C100405,"2023-06-28",Female,"16-18",Bengaluru,School Partnership
+C100406,"2022-06-11",Male,"16-18",Chennai,FB Ads
+C100407,"2022-02-28",Male,"16-18",Delhi,FB Ads
+C100408,"2023-06-05",Female,"10-12",Bengaluru,Organic
+C100409,"2022-03-24",Male,"10-12",Rajahmundry,Organic
+C100410,"2024-05-21",Male,"13-15",Delhi,Google Ads
+C100411,"2022-07-10",Female,"10-12",Bengaluru,FB Ads
+C100412,"2022-03-12",Female,"10-12",Chennai,Google Ads
+C100413,"2023-09-02",Female,"13-15",Hyderabad,Organic
+C100414,"2022-03-11",Female,"16-18",Hyderabad,FB Ads
+C100415,"2023-11-23",Male,"13-15",Rajahmundry,Organic
+C100416,"2024-06-01",Male,"13-15",Hyderabad,Organic
+C100417,"2022-08-29",Male,"13-15",Bengaluru,Organic
+C100418,"2023-02-18",Female,"10-12",Rajahmundry,Organic
+C100419,"2022-05-03",Female,"10-12",Delhi,Organic
+C100420,"2023-08-07",Female,"16-18",Chennai,Organic
+C100421,"2022-09-10",Female,"13-15",Rajahmundry,School Partnership
+C100422,"2023-08-16",Male,"16-18",Delhi,Organic
+C100423,"2023-09-01",Female,"10-12",Rajahmundry,Organic
+C100424,"2022-02-10",Male,"16-18",Vijayawada,Organic
+C100425,"2023-09-27",Female,"13-15",Vijayawada,FB Ads
+C100426,"2022-03-25",Male,"13-15",Rajahmundry,Organic
+C100427,"2023-03-06",Female,"13-15",Hyderabad,Referral
+C100428,"2023-11-05",Male,"16-18",Vijayawada,School Partnership
+C100429,"2023-08-21",Male,"13-15",Chennai,Organic
+C100430,"2023-08-02",Male,"13-15",Delhi,FB Ads
+C100431,"2023-06-20",Female,"16-18",Bengaluru,Organic
+C100432,"2022-11-20",Female,"16-18",Vijayawada,Google Ads
+C100433,"2022-09-25",Male,"13-15",Rajahmundry,FB Ads
+C100434,"2022-07-29",Male,"13-15",Hyderabad,Organic
+C100435,"2023-11-17",Female,"13-15",Bengaluru,Organic
+C100436,"2024-01-04",Male,"10-12",Delhi,Google Ads
+C100437,"2022-11-18",Female,"13-15",Delhi,FB Ads
+C100438,"2022-09-02",Female,"16-18",Vijayawada,Organic
+C100439,"2022-09-29",Male,"16-18",Delhi,Google Ads
+C100440,"2023-02-10",Male,"13-15",Delhi,FB Ads
+C100441,"2022-05-15",Other,"13-15",Hyderabad,Referral
+C100442,"2023-11-19",Male,"10-12",Hyderabad,Organic
+C100443,"2023-10-23",Male,"16-18",Hyderabad,Google Ads
+C100444,"2022-11-04",Female,"16-18",Rajahmundry,Google Ads
+C100445,"2023-04-14",Female,"13-15",Delhi,Organic
+C100446,"2022-11-20",Other,"16-18",Delhi,Google Ads
+C100447,"2024-02-09",Female,"13-15",Delhi,FB Ads
+C100448,"2022-03-16",Male,"13-15",Chennai,School Partnership
+C100449,"2022-01-10",Male,"10-12",Hyderabad,Organic
+C100450,"2023-04-15",Female,"13-15",Bengaluru,Google Ads
+C100451,"2023-09-29",Female,"13-15",Vijayawada,FB Ads
+C100452,"2023-07-31",Male,"13-15",Bengaluru,School Partnership
+C100453,"2022-04-13",Female,"13-15",Rajahmundry,Organic
+C100454,"2022-03-17",Male,"16-18",Rajahmundry,School Partnership
+C100455,"2023-07-05",Female,"10-12",Delhi,School Partnership
+C100456,"2022-08-07",Male,"13-15",Bengaluru,Organic
+C100457,"2023-06-03",Male,"13-15",Delhi,Referral
+C100458,"2022-09-29",Male,"13-15",Chennai,School Partnership
+C100459,"2022-05-16",Male,"13-15",Rajahmundry,Organic
+C100460,"2022-12-24",Male,"10-12",Rajahmundry,FB Ads
+C100461,"2022-03-12",Female,"10-12",Bengaluru,FB Ads
+C100462,"2024-06-19",Female,"13-15",Rajahmundry,Organic
+C100463,"2022-09-08",Female,"13-15",Chennai,Organic
+C100464,"2023-01-14",Other,"10-12",Chennai,Organic
+C100465,"2022-10-19",Male,"13-15",Chennai,Organic
+C100466,"2022-06-11",Male,"13-15",Vijayawada,FB Ads
+C100467,"2023-03-25",Female,"13-15",Chennai,Organic
+C100468,"2024-05-03",Male,"16-18",Chennai,Referral
+C100469,"2023-07-11",Other,"10-12",Vijayawada,Google Ads
+C100470,"2023-12-22",Male,"10-12",Delhi,Organic
+C100471,"2022-11-06",Other,"16-18",Hyderabad,Google Ads
+C100472,"2023-09-19",Male,"13-15",Rajahmundry,Google Ads
+C100473,"2024-04-06",Female,"13-15",Chennai,School Partnership
+C100474,"2023-11-01",Female,"16-18",Rajahmundry,Organic
+C100475,"2023-06-26",Other,"16-18",Bengaluru,Organic
+C100476,"2022-01-09",Male,"16-18",Rajahmundry,School Partnership
+C100477,"2023-11-15",Female,"13-15",Delhi,School Partnership
+C100478,"2024-04-16",Other,"13-15",Vijayawada,Google Ads
+C100479,"2023-07-22",Female,"13-15",Rajahmundry,Google Ads
+C100480,"2022-11-03",Female,"10-12",Rajahmundry,Organic
+C100481,"2023-11-11",Female,"13-15",Rajahmundry,FB Ads
+C100482,"2022-04-17",Male,"10-12",Hyderabad,Organic
+C100483,"2024-06-18",Female,"16-18",Hyderabad,Organic
+C100484,"2022-05-18",Female,"13-15",Bengaluru,Referral
+C100485,"2022-09-28",Female,"13-15",Vijayawada,Organic
+C100486,"2022-04-29",Male,"13-15",Rajahmundry,FB Ads
+C100487,"2022-04-20",Male,"10-12",Rajahmundry,School Partnership
+C100488,"2024-01-31",Female,"10-12",Rajahmundry,Organic
+C100489,"2023-07-21",Female,"13-15",Rajahmundry,School Partnership
+C100490,"2022-06-09",Male,"10-12",Hyderabad,School Partnership
+C100491,"2022-10-06",Female,"13-15",Delhi,FB Ads
+C100492,"2022-10-16",Male,"16-18",Delhi,Organic
+C100493,"2023-09-12",Male,"16-18",Bengaluru,Organic
+C100494,"2022-08-04",Male,"13-15",Chennai,FB Ads
+C100495,"2024-01-05",Male,"10-12",Vijayawada,Organic
+C100496,"2022-12-18",Female,"16-18",Delhi,Organic
+C100497,"2022-07-28",Male,"16-18",Rajahmundry,School Partnership
+C100498,"2023-12-05",Other,"10-12",Delhi,Organic
+C100499,"2023-10-12",Other,"13-15",Bengaluru,Google Ads
+C100500,"2024-05-23",Female,"10-12",Chennai,Organic
+C100501,"2022-09-28",Female,"16-18",Delhi,FB Ads
+C100502,"2023-06-02",Male,"16-18",Bengaluru,School Partnership
+C100503,"2023-05-16",Female,"10-12",Hyderabad,Organic
+C100504,"2022-09-15",Female,"16-18",Chennai,Organic
+C100505,"2024-05-16",Male,"13-15",Bengaluru,Google Ads
+C100506,"2022-02-22",Female,"16-18",Delhi,Google Ads
+C100507,"2022-04-05",Female,"13-15",Hyderabad,Google Ads
+C100508,"2023-10-12",Female,"16-18",Bengaluru,Organic
+C100509,"2023-03-10",Female,"10-12",Bengaluru,Organic
+C100510,"2024-04-29",Female,"13-15",Delhi,School Partnership
+C100511,"2022-10-11",Male,"10-12",Chennai,School Partnership
+C100512,"2022-02-15",Female,"16-18",Hyderabad,FB Ads
+C100513,"2022-01-04",Female,"16-18",Rajahmundry,Referral
+C100514,"2022-12-08",Male,"16-18",Vijayawada,FB Ads
+C100515,"2024-02-29",Male,"16-18",Chennai,FB Ads
+C100516,"2022-05-14",Male,"10-12",Hyderabad,Organic
+C100517,"2023-10-15",Female,"13-15",Bengaluru,FB Ads
+C100518,"2022-09-26",Other,"10-12",Hyderabad,FB Ads
+C100519,"2022-06-15",Male,"10-12",Vijayawada,Organic
+C100520,"2024-01-30",Female,"10-12",Delhi,FB Ads
+C100521,"2023-03-29",Male,"13-15",Vijayawada,Google Ads
+C100522,"2023-07-19",Other,"10-12",Rajahmundry,Google Ads
+C100523,"2023-12-24",Female,"10-12",Rajahmundry,Google Ads
+C100524,"2023-03-14",Female,"10-12",Vijayawada,School Partnership
+C100525,"2023-07-29",Male,"10-12",Chennai,Organic
+C100526,"2022-01-10",Male,"16-18",Chennai,FB Ads
+C100527,"2022-04-25",Male,"16-18",Bengaluru,Google Ads
+C100528,"2022-03-19",Male,"16-18",Rajahmundry,FB Ads
+C100529,"2023-12-09",Female,"13-15",Bengaluru,Organic
+C100530,"2022-06-02",Female,"10-12",Rajahmundry,Organic
+C100531,"2023-07-13",Other,"16-18",Vijayawada,Referral
+C100532,"2022-02-06",Other,"13-15",Chennai,FB Ads
+C100533,"2024-05-04",Female,"10-12",Chennai,Referral
+C100534,"2023-01-14",Female,"10-12",Vijayawada,FB Ads
+C100535,"2023-08-20",Female,"10-12",Bengaluru,Google Ads
+C100536,"2023-07-20",Female,"10-12",Bengaluru,Referral
+C100537,"2022-06-01",Male,"13-15",Hyderabad,Google Ads
+C100538,"2023-03-17",Male,"13-15",Rajahmundry,FB Ads
+C100539,"2022-05-11",Male,"10-12",Bengaluru,FB Ads
+C100540,"2022-02-12",Female,"10-12",Vijayawada,Referral
+C100541,"2022-11-12",Female,"16-18",Bengaluru,FB Ads
+C100542,"2023-01-09",Male,"10-12",Chennai,FB Ads
+C100543,"2024-03-26",Female,"13-15",Rajahmundry,Organic
+C100544,"2024-05-31",Female,"16-18",Delhi,School Partnership
+C100545,"2022-02-10",Male,"10-12",Hyderabad,Organic
+C100546,"2023-01-02",Male,"10-12",Rajahmundry,Google Ads
+C100547,"2022-08-04",Female,"13-15",Chennai,FB Ads
+C100548,"2023-11-30",Female,"13-15",Chennai,FB Ads
+C100549,"2022-09-13",Female,"13-15",Chennai,Google Ads
+C100550,"2023-11-14",Female,"16-18",Chennai,Organic
+C100551,"2022-04-16",Female,"10-12",Vijayawada,FB Ads
+C100552,"2022-12-29",Female,"13-15",Hyderabad,Google Ads
+C100553,"2024-03-09",Female,"13-15",Delhi,Referral
+C100554,"2023-07-28",Female,"10-12",Chennai,Organic
+C100555,"2024-06-14",Male,"13-15",Chennai,Referral
+C100556,"2023-02-21",Male,"10-12",Bengaluru,Google Ads
+C100557,"2023-09-28",Male,"13-15",Hyderabad,Referral
+C100558,"2024-02-07",Female,"10-12",Rajahmundry,FB Ads
+C100559,"2022-06-08",Female,"13-15",Hyderabad,FB Ads
+C100560,"2022-08-31",Female,"13-15",Hyderabad,School Partnership
+C100561,"2024-06-04",Male,"16-18",Delhi,Referral
+C100562,"2022-06-16",Male,"10-12",Hyderabad,FB Ads
+C100563,"2024-03-30",Male,"13-15",Delhi,Organic
+C100564,"2024-04-10",Male,"13-15",Chennai,FB Ads
+C100565,"2022-07-01",Female,"13-15",Chennai,FB Ads
+C100566,"2023-02-27",Male,"13-15",Vijayawada,Organic
+C100567,"2022-01-26",Male,"13-15",Delhi,Organic
+C100568,"2022-07-03",Female,"16-18",Delhi,Referral
+C100569,"2024-01-25",Male,"16-18",Rajahmundry,Organic
+C100570,"2022-12-07",Female,"13-15",Bengaluru,Google Ads
+C100571,"2024-03-12",Female,"13-15",Hyderabad,Organic
+C100572,"2023-02-26",Male,"16-18",Rajahmundry,Organic
+C100573,"2024-04-01",Female,"16-18",Delhi,Organic
+C100574,"2023-11-17",Female,"16-18",Rajahmundry,Organic
+C100575,"2024-06-03",Female,"13-15",Vijayawada,Google Ads
+C100576,"2024-01-23",Male,"10-12",Bengaluru,Referral
+C100577,"2024-04-10",Female,"13-15",Delhi,Organic
+C100578,"2022-09-12",Female,"13-15",Delhi,FB Ads
+C100579,"2022-10-01",Male,"13-15",Hyderabad,FB Ads
+C100580,"2022-06-13",Male,"13-15",Bengaluru,Referral
+C100581,"2024-03-17",Other,"16-18",Vijayawada,Google Ads
+C100582,"2023-12-20",Female,"13-15",Chennai,FB Ads
+C100583,"2022-04-21",Male,"16-18",Rajahmundry,Google Ads
+C100584,"2023-01-27",Female,"13-15",Hyderabad,Referral
+C100585,"2024-06-12",Male,"13-15",Delhi,Organic
+C100586,"2022-02-09",Male,"13-15",Chennai,FB Ads
+C100587,"2024-05-29",Male,"16-18",Vijayawada,School Partnership
+C100588,"2023-04-27",Male,"10-12",Bengaluru,Google Ads
+C100589,"2022-08-16",Male,"10-12",Rajahmundry,FB Ads
+C100590,"2022-07-24",Male,"16-18",Hyderabad,FB Ads
+C100591,"2024-04-16",Female,"10-12",Delhi,Organic
+C100592,"2023-04-17",Male,"13-15",Delhi,FB Ads
+C100593,"2022-12-25",Male,"13-15",Chennai,Google Ads
+C100594,"2022-11-09",Female,"13-15",Chennai,FB Ads
+C100595,"2024-04-20",Male,"13-15",Rajahmundry,Google Ads
+C100596,"2024-03-25",Female,"10-12",Bengaluru,Referral
+C100597,"2024-06-11",Male,"13-15",Vijayawada,Organic
+C100598,"2022-08-22",Male,"13-15",Bengaluru,FB Ads
+C100599,"2022-08-17",Male,"13-15",Bengaluru,FB Ads
+C100600,"2022-01-25",Male,"10-12",Bengaluru,Google Ads
+C100601,"2023-11-07",Male,"13-15",Rajahmundry,Organic
+C100602,"2022-07-17",Male,"10-12",Rajahmundry,Google Ads
+C100603,"2023-02-13",Male,"10-12",Vijayawada,Referral
+C100604,"2022-12-03",Male,"10-12",Bengaluru,FB Ads
+C100605,"2022-10-13",Male,"10-12",Rajahmundry,School Partnership
+C100606,"2024-06-04",Male,"16-18",Vijayawada,School Partnership
+C100607,"2022-03-13",Male,"10-12",Delhi,Organic
+C100608,"2024-03-02",Female,"16-18",Vijayawada,Organic
+C100609,"2022-10-13",Female,"16-18",Bengaluru,School Partnership
+C100610,"2022-12-26",Male,"13-15",Hyderabad,School Partnership
+C100611,"2023-10-19",Female,"10-12",Bengaluru,Organic
+C100612,"2023-06-06",Female,"13-15",Hyderabad,Organic
+C100613,"2023-02-14",Male,"16-18",Vijayawada,Organic
+C100614,"2023-11-27",Female,"13-15",Delhi,School Partnership
+C100615,"2024-05-13",Female,"10-12",Delhi,Organic
+C100616,"2023-07-04",Male,"13-15",Rajahmundry,FB Ads
+C100617,"2022-12-06",Male,"16-18",Delhi,Referral
+C100618,"2022-01-29",Female,"16-18",Chennai,Organic
+C100619,"2022-04-29",Female,"10-12",Vijayawada,Google Ads
+C100620,"2024-06-17",Male,"13-15",Rajahmundry,Organic
+C100621,"2022-09-25",Male,"10-12",Delhi,Referral
+C100622,"2022-07-02",Male,"10-12",Vijayawada,Organic
+C100623,"2023-08-18",Female,"16-18",Bengaluru,Google Ads
+C100624,"2022-09-29",Female,"10-12",Delhi,Google Ads
+C100625,"2022-02-09",Male,"10-12",Hyderabad,Organic
+C100626,"2022-04-22",Male,"10-12",Vijayawada,Organic
+C100627,"2023-09-03",Female,"16-18",Rajahmundry,FB Ads
+C100628,"2023-03-21",Male,"16-18",Bengaluru,Organic
+C100629,"2022-12-20",Male,"13-15",Chennai,Referral
+C100630,"2024-01-17",Female,"16-18",Bengaluru,Referral
+C100631,"2024-03-16",Female,"10-12",Delhi,FB Ads
+C100632,"2022-11-18",Female,"13-15",Hyderabad,Google Ads
+C100633,"2023-03-23",Female,"13-15",Bengaluru,Google Ads
+C100634,"2023-09-13",Male,"10-12",Chennai,Referral
+C100635,"2023-06-08",Male,"13-15",Rajahmundry,FB Ads
+C100636,"2022-04-29",Female,"16-18",Vijayawada,Organic
+C100637,"2023-01-30",Male,"10-12",Hyderabad,Organic
+C100638,"2023-08-14",Male,"10-12",Chennai,FB Ads
+C100639,"2022-07-14",Male,"10-12",Delhi,FB Ads
+C100640,"2022-09-18",Male,"10-12",Delhi,FB Ads
+C100641,"2022-02-15",Male,"16-18",Delhi,Organic
+C100642,"2023-12-27",Male,"13-15",Hyderabad,Google Ads
+C100643,"2023-03-23",Male,"13-15",Bengaluru,Organic
+C100644,"2022-01-02",Male,"16-18",Hyderabad,Organic
+C100645,"2023-06-17",Female,"10-12",Delhi,FB Ads
+C100646,"2024-04-05",Female,"13-15",Chennai,Organic
+C100647,"2023-07-06",Female,"13-15",Vijayawada,FB Ads
+C100648,"2023-12-05",Female,"13-15",Vijayawada,FB Ads
+C100649,"2024-01-07",Female,"16-18",Hyderabad,FB Ads
+C100650,"2024-01-30",Male,"16-18",Delhi,FB Ads
+C100651,"2024-01-25",Female,"13-15",Rajahmundry,Organic
+C100652,"2023-11-18",Female,"16-18",Hyderabad,Organic
+C100653,"2022-07-21",Female,"10-12",Delhi,Referral
+C100654,"2023-01-08",Male,"10-12",Bengaluru,FB Ads
+C100655,"2023-03-18",Male,"10-12",Vijayawada,FB Ads
+C100656,"2022-03-13",Male,"13-15",Vijayawada,Organic
+C100657,"2023-11-12",Male,"13-15",Vijayawada,FB Ads
+C100658,"2022-12-05",Female,"13-15",Rajahmundry,FB Ads
+C100659,"2023-10-01",Female,"16-18",Delhi,FB Ads
+C100660,"2022-11-18",Male,"13-15",Delhi,Google Ads
+C100661,"2023-11-11",Other,"13-15",Delhi,Organic
+C100662,"2024-05-18",Female,"10-12",Delhi,Organic
+C100663,"2022-05-08",Male,"10-12",Rajahmundry,Referral
+C100664,"2024-01-08",Male,"13-15",Chennai,School Partnership
+C100665,"2022-11-04",Male,"13-15",Hyderabad,Organic
+C100666,"2023-06-04",Male,"16-18",Hyderabad,FB Ads
+C100667,"2022-11-13",Male,"10-12",Delhi,Organic
+C100668,"2023-11-14",Male,"10-12",Bengaluru,Organic
+C100669,"2023-02-23",Male,"13-15",Vijayawada,Organic
+C100670,"2022-12-01",Male,"10-12",Rajahmundry,Organic
+C100671,"2023-02-17",Female,"10-12",Bengaluru,Google Ads
+C100672,"2023-12-15",Male,"13-15",Bengaluru,FB Ads
+C100673,"2022-10-30",Female,"10-12",Delhi,Organic
+C100674,"2023-07-22",Male,"13-15",Rajahmundry,Organic
+C100675,"2022-05-11",Other,"10-12",Hyderabad,Referral
+C100676,"2022-07-16",Male,"10-12",Vijayawada,Organic
+C100677,"2023-03-07",Male,"13-15",Hyderabad,Google Ads
+C100678,"2023-11-12",Other,"16-18",Bengaluru,Organic
+C100679,"2023-01-24",Female,"13-15",Vijayawada,FB Ads
+C100680,"2023-11-25",Female,"16-18",Chennai,Organic
+C100681,"2024-02-06",Male,"10-12",Bengaluru,Organic
+C100682,"2022-06-28",Male,"16-18",Hyderabad,Organic
+C100683,"2023-09-23",Female,"10-12",Hyderabad,Organic
+C100684,"2023-08-06",Female,"13-15",Delhi,FB Ads
+C100685,"2022-11-05",Female,"13-15",Hyderabad,Google Ads
+C100686,"2023-02-20",Female,"16-18",Rajahmundry,Organic
+C100687,"2023-07-16",Male,"13-15",Bengaluru,Organic
+C100688,"2024-05-03",Female,"10-12",Vijayawada,FB Ads
+C100689,"2022-01-01",Male,"10-12",Hyderabad,Google Ads
+C100690,"2022-11-08",Male,"16-18",Delhi,School Partnership
+C100691,"2022-10-21",Male,"13-15",Delhi,FB Ads
+C100692,"2022-08-04",Female,"16-18",Hyderabad,FB Ads
+C100693,"2023-03-17",Male,"10-12",Rajahmundry,FB Ads
+C100694,"2024-03-15",Male,"13-15",Delhi,School Partnership
+C100695,"2023-08-17",Female,"10-12",Vijayawada,Referral
+C100696,"2023-09-14",Male,"16-18",Bengaluru,Organic
+C100697,"2023-11-02",Female,"13-15",Chennai,Organic
+C100698,"2022-11-26",Male,"16-18",Rajahmundry,Organic
+C100699,"2023-04-22",Female,"10-12",Delhi,FB Ads
+C100700,"2023-03-29",Female,"13-15",Bengaluru,Google Ads
+C100701,"2023-03-29",Male,"13-15",Chennai,FB Ads
+C100702,"2023-11-23",Male,"13-15",Hyderabad,Organic
+C100703,"2022-08-07",Male,"16-18",Hyderabad,Google Ads
+C100704,"2023-06-08",Male,"16-18",Vijayawada,Referral
+C100705,"2023-04-30",Other,"16-18",Chennai,Organic
+C100706,"2024-03-23",Male,"13-15",Hyderabad,Google Ads
+C100707,"2024-03-26",Female,"10-12",Hyderabad,FB Ads
+C100708,"2024-01-24",Male,"10-12",Delhi,Referral
+C100709,"2022-06-23",Female,"16-18",Vijayawada,Referral
+C100710,"2023-11-06",Female,"10-12",Bengaluru,FB Ads
+C100711,"2022-03-28",Female,"13-15",Hyderabad,Google Ads
+C100712,"2022-10-18",Male,"13-15",Rajahmundry,Referral
+C100713,"2023-06-12",Male,"13-15",Rajahmundry,FB Ads
+C100714,"2023-11-11",Male,"16-18",Bengaluru,Organic
+C100715,"2023-10-11",Female,"13-15",Chennai,Google Ads
+C100716,"2023-09-27",Female,"13-15",Vijayawada,Organic
+C100717,"2022-12-10",Other,"10-12",Delhi,FB Ads
+C100718,"2022-04-06",Male,"13-15",Rajahmundry,Referral
+C100719,"2024-04-18",Female,"10-12",Rajahmundry,Google Ads
+C100720,"2024-02-09",Female,"13-15",Bengaluru,FB Ads
+C100721,"2022-08-29",Male,"16-18",Chennai,Organic
+C100722,"2023-11-20",Male,"16-18",Chennai,FB Ads
+C100723,"2022-11-14",Female,"10-12",Bengaluru,Organic
+C100724,"2022-08-19",Female,"13-15",Rajahmundry,Organic
+C100725,"2024-04-05",Female,"16-18",Vijayawada,Google Ads
+C100726,"2022-07-23",Male,"10-12",Rajahmundry,Organic
+C100727,"2022-05-31",Female,"10-12",Chennai,FB Ads
+C100728,"2022-01-26",Male,"10-12",Delhi,FB Ads
+C100729,"2022-02-17",Male,"13-15",Rajahmundry,School Partnership
+C100730,"2022-09-08",Male,"10-12",Vijayawada,FB Ads
+C100731,"2023-05-02",Female,"16-18",Hyderabad,Organic
+C100732,"2023-09-18",Female,"13-15",Rajahmundry,Organic
+C100733,"2024-05-20",Female,"13-15",Bengaluru,FB Ads
+C100734,"2024-02-26",Male,"10-12",Hyderabad,FB Ads
+C100735,"2022-03-16",Female,"13-15",Bengaluru,FB Ads
+C100736,"2023-04-12",Male,"13-15",Bengaluru,FB Ads
+C100737,"2023-03-01",Female,"16-18",Bengaluru,Organic
+C100738,"2023-10-07",Male,"16-18",Rajahmundry,FB Ads
+C100739,"2023-08-13",Male,"13-15",Chennai,FB Ads
+C100740,"2022-07-19",Male,"16-18",Hyderabad,Organic
+C100741,"2024-01-06",Male,"16-18",Vijayawada,Organic
+C100742,"2023-12-15",Female,"16-18",Chennai,Organic
+C100743,"2023-01-29",Female,"10-12",Rajahmundry,Organic
+C100744,"2023-05-22",Male,"10-12",Bengaluru,Google Ads
+C100745,"2023-02-14",Female,"10-12",Vijayawada,Organic
+C100746,"2022-09-07",Male,"13-15",Hyderabad,Organic
+C100747,"2022-06-01",Female,"13-15",Chennai,Organic
+C100748,"2023-11-03",Female,"13-15",Delhi,School Partnership
+C100749,"2023-12-06",Female,"16-18",Chennai,Referral
+C100750,"2022-01-06",Male,"16-18",Vijayawada,Organic
+C100751,"2024-02-08",Female,"16-18",Rajahmundry,Organic
+C100752,"2024-05-31",Female,"13-15",Hyderabad,Organic
+C100753,"2024-02-28",Male,"13-15",Vijayawada,FB Ads
+C100754,"2022-04-20",Male,"10-12",Bengaluru,Organic
+C100755,"2024-03-08",Female,"10-12",Hyderabad,Google Ads
+C100756,"2023-03-12",Female,"10-12",Chennai,FB Ads
+C100757,"2022-08-13",Female,"13-15",Vijayawada,Referral
+C100758,"2022-06-30",Female,"13-15",Chennai,Organic
+C100759,"2024-04-03",Female,"16-18",Chennai,Referral
+C100760,"2023-12-14",Male,"10-12",Chennai,Google Ads
+C100761,"2023-06-15",Male,"13-15",Rajahmundry,Organic
+C100762,"2023-04-21",Male,"13-15",Chennai,FB Ads
+C100763,"2022-02-21",Female,"10-12",Bengaluru,Organic
+C100764,"2023-07-25",Male,"13-15",Bengaluru,Organic
+C100765,"2022-09-13",Female,"10-12",Hyderabad,Organic
+C100766,"2024-05-18",Female,"13-15",Delhi,FB Ads
+C100767,"2022-05-05",Female,"13-15",Chennai,FB Ads
+C100768,"2023-04-13",Male,"10-12",Chennai,School Partnership
+C100769,"2022-05-17",Female,"10-12",Vijayawada,Organic
+C100770,"2024-03-31",Male,"13-15",Rajahmundry,School Partnership
+C100771,"2023-04-21",Female,"16-18",Delhi,Organic
+C100772,"2023-11-15",Male,"13-15",Hyderabad,Google Ads
+C100773,"2023-06-28",Male,"13-15",Delhi,Organic
+C100774,"2023-07-27",Female,"13-15",Chennai,Organic
+C100775,"2023-09-02",Male,"16-18",Vijayawada,Referral
+C100776,"2022-11-21",Male,"16-18",Rajahmundry,Organic
+C100777,"2024-02-13",Female,"13-15",Hyderabad,Google Ads
+C100778,"2023-03-30",Female,"13-15",Delhi,FB Ads
+C100779,"2023-09-20",Female,"16-18",Hyderabad,FB Ads
+C100780,"2024-04-14",Female,"13-15",Chennai,FB Ads
+C100781,"2024-01-07",Female,"13-15",Hyderabad,Google Ads
+C100782,"2023-06-01",Male,"10-12",Vijayawada,Organic
+C100783,"2023-03-13",Male,"16-18",Hyderabad,Google Ads
+C100784,"2024-04-30",Male,"16-18",Bengaluru,Referral
+C100785,"2023-07-16",Female,"10-12",Vijayawada,Organic
+C100786,"2023-04-02",Female,"13-15",Delhi,Organic
+C100787,"2022-06-12",Male,"13-15",Rajahmundry,Google Ads
+C100788,"2024-02-01",Male,"10-12",Rajahmundry,FB Ads
+C100789,"2024-06-01",Female,"16-18",Chennai,FB Ads
+C100790,"2023-05-02",Male,"10-12",Chennai,Organic
+C100791,"2023-04-06",Female,"10-12",Bengaluru,FB Ads
+C100792,"2022-09-23",Female,"13-15",Delhi,Organic
+C100793,"2024-02-09",Female,"13-15",Rajahmundry,FB Ads
+C100794,"2022-09-11",Male,"10-12",Rajahmundry,Google Ads
+C100795,"2024-05-10",Female,"13-15",Rajahmundry,Organic
+C100796,"2023-10-15",Female,"13-15",Rajahmundry,FB Ads
+C100797,"2022-10-11",Female,"10-12",Hyderabad,School Partnership
+C100798,"2024-02-24",Female,"10-12",Delhi,Google Ads
+C100799,"2024-03-07",Female,"13-15",Vijayawada,Referral
+C100800,"2023-06-18",Female,"10-12",Vijayawada,FB Ads
+C100801,"2023-05-12",Male,"16-18",Bengaluru,Google Ads
+C100802,"2023-10-04",Female,"16-18",Hyderabad,Organic
+C100803,"2022-09-02",Female,"16-18",Rajahmundry,Organic
+C100804,"2022-10-09",Male,"10-12",Rajahmundry,Organic
+C100805,"2023-03-27",Female,"16-18",Chennai,FB Ads
+C100806,"2022-03-21",Female,"13-15",Chennai,Referral
+C100807,"2024-01-01",Female,"13-15",Bengaluru,Organic
+C100808,"2022-10-20",Male,"10-12",Rajahmundry,Google Ads
+C100809,"2022-08-29",Male,"10-12",Bengaluru,Google Ads
+C100810,"2022-10-06",Other,"13-15",Hyderabad,FB Ads
+C100811,"2022-12-10",Female,"13-15",Vijayawada,FB Ads
+C100812,"2022-11-24",Male,"10-12",Rajahmundry,FB Ads
+C100813,"2023-07-08",Female,"13-15",Delhi,Organic
+C100814,"2022-03-24",Female,"10-12",Hyderabad,Organic
+C100815,"2022-05-22",Female,"13-15",Rajahmundry,School Partnership
+C100816,"2022-06-04",Female,"13-15",Delhi,Organic
+C100817,"2022-08-25",Male,"16-18",Chennai,Organic
+C100818,"2023-01-28",Male,"16-18",Bengaluru,Referral
+C100819,"2023-12-12",Male,"13-15",Chennai,Organic
+C100820,"2022-06-06",Female,"13-15",Vijayawada,Google Ads
+C100821,"2023-12-25",Male,"13-15",Chennai,Organic
+C100822,"2022-08-08",Male,"16-18",Rajahmundry,FB Ads
+C100823,"2022-03-07",Male,"13-15",Delhi,Organic
+C100824,"2023-03-01",Female,"10-12",Chennai,Organic
+C100825,"2023-02-22",Female,"10-12",Rajahmundry,FB Ads
+C100826,"2022-12-05",Male,"13-15",Vijayawada,Google Ads
+C100827,"2023-07-10",Male,"13-15",Delhi,FB Ads
+C100828,"2023-04-23",Female,"16-18",Chennai,School Partnership
+C100829,"2023-03-02",Male,"10-12",Bengaluru,Organic
+C100830,"2022-03-05",Male,"13-15",Bengaluru,FB Ads
+C100831,"2022-07-31",Male,"16-18",Delhi,FB Ads
+C100832,"2024-05-02",Male,"16-18",Bengaluru,School Partnership
+C100833,"2023-03-07",Male,"13-15",Chennai,Organic
+C100834,"2023-02-03",Female,"13-15",Chennai,FB Ads
+C100835,"2024-02-28",Male,"13-15",Delhi,Referral
+C100836,"2023-08-22",Female,"16-18",Chennai,Organic
+C100837,"2023-12-14",Male,"10-12",Rajahmundry,Referral
+C100838,"2022-01-21",Female,"16-18",Vijayawada,Organic
+C100839,"2024-05-27",Female,"13-15",Bengaluru,Google Ads
+C100840,"2024-02-23",Male,"13-15",Rajahmundry,School Partnership
+C100841,"2023-08-13",Female,"10-12",Delhi,Google Ads
+C100842,"2023-01-25",Male,"13-15",Bengaluru,FB Ads
+C100843,"2023-05-04",Other,"13-15",Rajahmundry,Organic
+C100844,"2022-01-07",Male,"10-12",Chennai,School Partnership
+C100845,"2022-12-27",Male,"13-15",Delhi,FB Ads
+C100846,"2022-11-02",Male,"16-18",Delhi,Organic
+C100847,"2024-02-11",Other,"13-15",Bengaluru,Google Ads
+C100848,"2023-02-04",Female,"13-15",Chennai,FB Ads
+C100849,"2024-05-23",Female,"10-12",Bengaluru,Organic
+C100850,"2024-05-05",Male,"13-15",Hyderabad,Organic
+C100851,"2023-03-06",Female,"10-12",Rajahmundry,Organic
+C100852,"2023-07-06",Male,"13-15",Hyderabad,FB Ads
+C100853,"2024-02-05",Female,"16-18",Rajahmundry,Google Ads
+C100854,"2024-01-23",Male,"13-15",Vijayawada,FB Ads
+C100855,"2023-07-14",Male,"10-12",Delhi,Referral
+C100856,"2024-03-30",Male,"13-15",Bengaluru,Referral
+C100857,"2023-09-10",Male,"13-15",Vijayawada,Google Ads
+C100858,"2022-08-14",Female,"13-15",Vijayawada,Organic
+C100859,"2023-05-15",Male,"16-18",Delhi,Google Ads
+C100860,"2022-08-13",Female,"16-18",Delhi,FB Ads
+C100861,"2022-10-07",Male,"13-15",Rajahmundry,FB Ads
+C100862,"2023-03-23",Female,"13-15",Hyderabad,Google Ads
+C100863,"2023-05-13",Male,"10-12",Chennai,FB Ads
+C100864,"2022-01-30",Male,"10-12",Rajahmundry,School Partnership
+C100865,"2023-02-03",Female,"13-15",Chennai,Organic
+C100866,"2022-12-11",Male,"13-15",Vijayawada,Google Ads
+C100867,"2023-11-16",Male,"13-15",Chennai,Organic
+C100868,"2023-11-27",Female,"13-15",Hyderabad,School Partnership
+C100869,"2024-03-28",Female,"10-12",Rajahmundry,Organic
+C100870,"2023-02-19",Male,"13-15",Delhi,Organic
+C100871,"2024-01-12",Male,"10-12",Hyderabad,Organic
+C100872,"2022-06-19",Female,"10-12",Hyderabad,FB Ads
+C100873,"2024-05-10",Male,"16-18",Rajahmundry,Organic
+C100874,"2023-04-24",Male,"10-12",Delhi,FB Ads
+C100875,"2022-05-11",Male,"13-15",Hyderabad,FB Ads
+C100876,"2023-09-30",Female,"10-12",Delhi,Organic
+C100877,"2023-07-01",Female,"16-18",Bengaluru,Organic
+C100878,"2022-01-28",Male,"13-15",Bengaluru,Referral
+C100879,"2023-02-08",Male,"10-12",Bengaluru,Google Ads
+C100880,"2023-08-30",Male,"13-15",Chennai,Google Ads
+C100881,"2023-08-01",Female,"13-15",Hyderabad,Google Ads
+C100882,"2023-11-10",Male,"16-18",Rajahmundry,Organic
+C100883,"2022-01-28",Male,"10-12",Rajahmundry,Organic
+C100884,"2022-03-27",Female,"16-18",Chennai,Organic
+C100885,"2023-10-21",Male,"16-18",Rajahmundry,Referral
+C100886,"2023-03-15",Female,"16-18",Bengaluru,School Partnership
+C100887,"2022-05-19",Male,"13-15",Hyderabad,FB Ads
+C100888,"2024-06-06",Male,"13-15",Rajahmundry,Organic
+C100889,"2023-04-18",Male,"13-15",Rajahmundry,Organic
+C100890,"2022-07-06",Female,"16-18",Vijayawada,Organic
+C100891,"2022-02-21",Female,"13-15",Vijayawada,FB Ads
+C100892,"2022-09-24",Female,"13-15",Vijayawada,Organic
+C100893,"2023-01-24",Male,"13-15",Hyderabad,School Partnership
+C100894,"2022-12-02",Female,"13-15",Bengaluru,FB Ads
+C100895,"2022-08-05",Male,"16-18",Delhi,School Partnership
+C100896,"2023-04-11",Male,"10-12",Bengaluru,Google Ads
+C100897,"2022-12-01",Female,"16-18",Bengaluru,Google Ads
+C100898,"2022-12-12",Male,"13-15",Hyderabad,Google Ads
+C100899,"2024-02-19",Male,"16-18",Hyderabad,Google Ads
+C100900,"2024-06-19",Male,"13-15",Vijayawada,Google Ads
+C100901,"2023-01-24",Male,"13-15",Rajahmundry,Google Ads
+C100902,"2022-10-12",Male,"16-18",Chennai,FB Ads
+C100903,"2024-02-10",Female,"10-12",Chennai,School Partnership
+C100904,"2024-05-01",Male,"16-18",Delhi,Google Ads
+C100905,"2023-03-08",Female,"13-15",Rajahmundry,Google Ads
+C100906,"2022-09-16",Female,"13-15",Delhi,Referral
+C100907,"2024-05-04",Male,"13-15",Vijayawada,Organic
+C100908,"2022-03-25",Male,"13-15",Delhi,Organic
+C100909,"2023-04-27",Male,"13-15",Rajahmundry,FB Ads
+C100910,"2022-01-20",Female,"10-12",Rajahmundry,FB Ads
+C100911,"2024-02-07",Male,"10-12",Chennai,Referral
+C100912,"2023-07-07",Female,"10-12",Vijayawada,FB Ads
+C100913,"2022-02-23",Male,"16-18",Hyderabad,FB Ads
+C100914,"2022-12-25",Female,"16-18",Delhi,FB Ads
+C100915,"2022-08-18",Male,"13-15",Chennai,Organic
+C100916,"2023-10-28",Male,"13-15",Delhi,Google Ads
+C100917,"2022-03-12",Female,"13-15",Delhi,Referral
+C100918,"2024-03-10",Female,"13-15",Hyderabad,Organic
+C100919,"2023-10-30",Male,"16-18",Vijayawada,FB Ads
+C100920,"2022-02-11",Female,"16-18",Rajahmundry,FB Ads
+C100921,"2024-02-12",Female,"13-15",Bengaluru,Organic
+C100922,"2022-02-01",Female,"16-18",Delhi,Organic
+C100923,"2022-09-11",Female,"10-12",Bengaluru,School Partnership
+C100924,"2022-07-24",Male,"16-18",Vijayawada,FB Ads
+C100925,"2024-05-09",Male,"10-12",Bengaluru,Organic
+C100926,"2022-01-21",Male,"13-15",Delhi,Organic
+C100927,"2023-09-29",Female,"13-15",Hyderabad,Google Ads
+C100928,"2022-06-06",Female,"13-15",Bengaluru,Google Ads
+C100929,"2022-09-02",Male,"10-12",Vijayawada,Google Ads
+C100930,"2022-05-10",Male,"16-18",Vijayawada,Organic
+C100931,"2023-04-30",Female,"10-12",Hyderabad,Referral
+C100932,"2023-11-17",Other,"13-15",Bengaluru,FB Ads
+C100933,"2022-04-28",Female,"10-12",Bengaluru,Organic
+C100934,"2023-08-01",Male,"13-15",Rajahmundry,FB Ads
+C100935,"2022-08-12",Male,"13-15",Chennai,FB Ads
+C100936,"2023-04-22",Male,"13-15",Vijayawada,Referral
+C100937,"2023-12-18",Female,"10-12",Rajahmundry,School Partnership
+C100938,"2022-09-20",Male,"10-12",Vijayawada,Organic
+C100939,"2024-02-25",Female,"13-15",Rajahmundry,Referral
+C100940,"2023-01-13",Male,"16-18",Chennai,Google Ads
+C100941,"2022-06-21",Female,"16-18",Rajahmundry,School Partnership
+C100942,"2023-09-13",Female,"10-12",Vijayawada,Organic
+C100943,"2023-09-14",Female,"13-15",Bengaluru,FB Ads
+C100944,"2024-02-05",Male,"10-12",Vijayawada,Organic
+C100945,"2024-01-06",Male,"10-12",Delhi,Referral
+C100946,"2022-04-28",Male,"13-15",Hyderabad,Organic
+C100947,"2024-03-07",Female,"13-15",Hyderabad,FB Ads
+C100948,"2024-04-18",Female,"10-12",Delhi,Organic
+C100949,"2022-06-17",Female,"10-12",Hyderabad,Organic
+C100950,"2022-11-15",Female,"10-12",Hyderabad,Google Ads
+C100951,"2022-04-21",Female,"16-18",Chennai,Referral
+C100952,"2023-08-16",Male,"16-18",Bengaluru,Google Ads
+C100953,"2022-01-27",Female,"10-12",Bengaluru,Referral
+C100954,"2022-11-16",Male,"10-12",Vijayawada,Organic
+C100955,"2023-08-13",Male,"16-18",Delhi,FB Ads
+C100956,"2023-11-25",Female,"16-18",Rajahmundry,FB Ads
+C100957,"2023-01-20",Male,"13-15",Vijayawada,Organic
+C100958,"2023-02-11",Male,"10-12",Vijayawada,FB Ads
+C100959,"2024-01-03",Female,"10-12",Vijayawada,Google Ads
+C100960,"2022-07-23",Male,"13-15",Vijayawada,FB Ads
+C100961,"2022-03-19",Female,"13-15",Bengaluru,Google Ads
+C100962,"2023-08-30",Male,"10-12",Rajahmundry,FB Ads
+C100963,"2023-12-09",Male,"13-15",Vijayawada,Organic
+C100964,"2024-04-30",Male,"10-12",Bengaluru,Organic
+C100965,"2023-10-05",Male,"16-18",Vijayawada,FB Ads
+C100966,"2022-09-06",Female,"13-15",Hyderabad,Organic
+C100967,"2022-04-15",Male,"10-12",Vijayawada,Organic
+C100968,"2023-12-15",Female,"13-15",Delhi,FB Ads
+C100969,"2024-03-02",Male,"13-15",Delhi,FB Ads
+C100970,"2022-11-05",Female,"16-18",Vijayawada,Organic
+C100971,"2024-05-20",Female,"13-15",Chennai,Google Ads
+C100972,"2023-12-02",Female,"10-12",Hyderabad,Google Ads
+C100973,"2023-09-07",Male,"13-15",Rajahmundry,Organic
+C100974,"2024-04-04",Male,"10-12",Vijayawada,Google Ads
+C100975,"2022-05-04",Male,"16-18",Rajahmundry,Google Ads
+C100976,"2024-03-26",Female,"13-15",Hyderabad,Google Ads
+C100977,"2023-08-03",Male,"13-15",Vijayawada,FB Ads
+C100978,"2024-03-12",Female,"10-12",Chennai,Organic
+C100979,"2022-02-12",Female,"13-15",Bengaluru,Google Ads
+C100980,"2022-12-22",Male,"16-18",Chennai,FB Ads
+C100981,"2023-06-30",Female,"16-18",Chennai,School Partnership
+C100982,"2023-03-15",Male,"10-12",Bengaluru,Referral
+C100983,"2023-11-09",Male,"10-12",Bengaluru,FB Ads
+C100984,"2023-01-15",Female,"16-18",Delhi,Organic
+C100985,"2022-03-12",Female,"16-18",Bengaluru,Organic
+C100986,"2023-06-03",Female,"10-12",Vijayawada,Organic
+C100987,"2023-10-26",Male,"13-15",Rajahmundry,FB Ads
+C100988,"2022-12-16",Male,"13-15",Delhi,Organic
+C100989,"2022-01-13",Female,"16-18",Delhi,FB Ads
+C100990,"2024-05-19",Female,"10-12",Rajahmundry,Organic
+C100991,"2023-03-07",Female,"10-12",Delhi,School Partnership
+C100992,"2024-04-22",Male,"16-18",Bengaluru,Organic
+C100993,"2023-05-17",Female,"10-12",Chennai,School Partnership
+C100994,"2022-04-19",Male,"13-15",Hyderabad,School Partnership
+C100995,"2023-03-20",Male,"13-15",Bengaluru,FB Ads
+C100996,"2023-01-06",Female,"13-15",Chennai,Google Ads
+C100997,"2023-10-13",Male,"13-15",Chennai,FB Ads
+C100998,"2024-04-28",Female,"13-15",Delhi,Google Ads
+C100999,"2023-04-16",Male,"10-12",Vijayawada,Organic
+C101000,"2023-12-26",Male,"13-15",Vijayawada,Organic
+C101001,"2022-06-06",Female,"16-18",Delhi,FB Ads
+C101002,"2023-03-22",Female,"16-18",Delhi,FB Ads
+C101003,"2022-06-30",Female,"10-12",Rajahmundry,FB Ads
+C101004,"2024-01-22",Female,"10-12",Rajahmundry,Organic
+C101005,"2023-06-19",Female,"10-12",Hyderabad,FB Ads
+C101006,"2023-10-29",Female,"13-15",Hyderabad,Organic
+C101007,"2022-10-04",Female,"13-15",Hyderabad,Organic
+C101008,"2023-09-23",Male,"13-15",Hyderabad,Organic
+C101009,"2024-04-07",Female,"10-12",Chennai,Organic
+C101010,"2023-07-06",Male,"10-12",Chennai,Organic
+C101011,"2024-03-04",Other,"13-15",Rajahmundry,Referral
+C101012,"2023-05-11",Female,"13-15",Vijayawada,Organic
+C101013,"2023-04-22",Male,"10-12",Delhi,Google Ads
+C101014,"2023-03-23",Female,"13-15",Vijayawada,Organic
+C101015,"2024-04-25",Female,"10-12",Bengaluru,Referral
+C101016,"2024-01-19",Male,"16-18",Chennai,FB Ads
+C101017,"2023-08-30",Female,"16-18",Hyderabad,Organic
+C101018,"2022-10-02",Female,"10-12",Hyderabad,FB Ads
+C101019,"2022-11-27",Male,"10-12",Bengaluru,FB Ads
+C101020,"2024-05-22",Female,"13-15",Vijayawada,FB Ads
+C101021,"2022-09-09",Male,"10-12",Hyderabad,Organic
+C101022,"2024-04-30",Female,"13-15",Vijayawada,School Partnership
+C101023,"2022-03-30",Other,"16-18",Delhi,FB Ads
+C101024,"2022-10-13",Female,"13-15",Bengaluru,Organic
+C101025,"2023-04-07",Male,"16-18",Vijayawada,Google Ads
+C101026,"2022-09-07",Female,"13-15",Delhi,FB Ads
+C101027,"2024-02-08",Female,"10-12",Vijayawada,Referral
+C101028,"2023-04-21",Male,"13-15",Vijayawada,FB Ads
+C101029,"2023-08-07",Female,"13-15",Hyderabad,Google Ads
+C101030,"2023-09-17",Male,"13-15",Rajahmundry,Organic
+C101031,"2023-11-16",Female,"10-12",Chennai,Referral
+C101032,"2023-01-24",Male,"10-12",Vijayawada,Google Ads
+C101033,"2022-12-11",Male,"16-18",Vijayawada,Organic
+C101034,"2022-01-30",Male,"10-12",Vijayawada,Organic
+C101035,"2023-05-22",Female,"16-18",Rajahmundry,Organic
+C101036,"2024-05-21",Male,"16-18",Delhi,School Partnership
+C101037,"2022-11-29",Female,"16-18",Bengaluru,Organic
+C101038,"2022-07-06",Male,"13-15",Hyderabad,FB Ads
+C101039,"2023-05-15",Male,"13-15",Rajahmundry,Organic
+C101040,"2022-08-06",Female,"16-18",Delhi,FB Ads
+C101041,"2022-12-30",Female,"10-12",Vijayawada,FB Ads
+C101042,"2024-03-27",Male,"13-15",Delhi,School Partnership
+C101043,"2022-09-22",Female,"13-15",Rajahmundry,FB Ads
+C101044,"2022-12-15",Female,"13-15",Rajahmundry,Referral
+C101045,"2022-10-14",Female,"13-15",Rajahmundry,FB Ads
+C101046,"2023-09-03",Male,"13-15",Bengaluru,Organic
+C101047,"2023-12-20",Male,"13-15",Chennai,Organic
+C101048,"2022-10-10",Female,"16-18",Hyderabad,FB Ads
+C101049,"2023-07-24",Male,"10-12",Bengaluru,School Partnership
+C101050,"2022-01-11",Female,"16-18",Bengaluru,Referral
+C101051,"2023-06-14",Female,"13-15",Chennai,Organic
+C101052,"2022-07-15",Female,"16-18",Bengaluru,Organic
+C101053,"2022-03-29",Female,"13-15",Rajahmundry,Organic
+C101054,"2022-09-05",Other,"16-18",Rajahmundry,School Partnership
+C101055,"2024-01-08",Male,"10-12",Delhi,Referral
+C101056,"2023-02-21",Female,"16-18",Vijayawada,Google Ads
+C101057,"2023-05-16",Male,"10-12",Bengaluru,FB Ads
+C101058,"2023-07-23",Male,"16-18",Vijayawada,FB Ads
+C101059,"2024-02-16",Female,"16-18",Hyderabad,FB Ads
+C101060,"2022-09-04",Female,"10-12",Rajahmundry,Organic
+C101061,"2023-12-09",Other,"10-12",Delhi,FB Ads
+C101062,"2023-05-03",Female,"16-18",Hyderabad,Organic
+C101063,"2023-10-24",Male,"10-12",Delhi,Organic
+C101064,"2023-12-30",Male,"16-18",Chennai,Referral
+C101065,"2023-05-18",Female,"10-12",Rajahmundry,Google Ads
+C101066,"2023-04-04",Male,"10-12",Hyderabad,FB Ads
+C101067,"2024-03-22",Male,"16-18",Chennai,FB Ads
+C101068,"2022-01-18",Male,"13-15",Hyderabad,FB Ads
+C101069,"2022-04-06",Male,"16-18",Delhi,Google Ads
+C101070,"2022-10-29",Male,"13-15",Chennai,Google Ads
+C101071,"2022-08-15",Male,"13-15",Chennai,Google Ads
+C101072,"2023-02-19",Male,"13-15",Rajahmundry,Google Ads
+C101073,"2023-12-10",Male,"13-15",Vijayawada,Organic
+C101074,"2022-09-07",Other,"13-15",Delhi,Organic
+C101075,"2022-11-10",Male,"13-15",Delhi,FB Ads
+C101076,"2023-11-11",Male,"13-15",Chennai,Organic
+C101077,"2023-08-19",Female,"10-12",Chennai,Google Ads
+C101078,"2023-01-13",Male,"16-18",Rajahmundry,Organic
+C101079,"2023-04-30",Female,"10-12",Vijayawada,Organic
+C101080,"2023-07-21",Female,"13-15",Delhi,FB Ads
+C101081,"2023-06-28",Male,"10-12",Bengaluru,School Partnership
+C101082,"2022-12-19",Male,"13-15",Bengaluru,Organic
+C101083,"2023-03-12",Female,"13-15",Vijayawada,Google Ads
+C101084,"2024-02-03",Female,"10-12",Hyderabad,FB Ads
+C101085,"2023-07-18",Male,"10-12",Rajahmundry,Organic
+C101086,"2022-12-05",Female,"10-12",Vijayawada,FB Ads
+C101087,"2022-12-27",Male,"13-15",Bengaluru,Google Ads
+C101088,"2023-12-21",Other,"16-18",Chennai,FB Ads
+C101089,"2023-04-10",Male,"10-12",Bengaluru,Referral
+C101090,"2022-10-05",Female,"13-15",Chennai,Organic
+C101091,"2022-11-10",Female,"13-15",Rajahmundry,Organic
+C101092,"2022-09-15",Female,"13-15",Chennai,School Partnership
+C101093,"2022-08-25",Female,"16-18",Vijayawada,FB Ads
+C101094,"2022-05-04",Male,"13-15",Chennai,FB Ads
+C101095,"2024-01-09",Male,"13-15",Hyderabad,Google Ads
+C101096,"2022-07-17",Male,"10-12",Vijayawada,Organic
+C101097,"2022-11-20",Male,"10-12",Rajahmundry,Google Ads
+C101098,"2022-05-03",Female,"10-12",Vijayawada,Organic
+C101099,"2024-01-31",Male,"10-12",Hyderabad,Organic
+C101100,"2023-07-03",Male,"13-15",Rajahmundry,Organic
+C101101,"2024-02-20",Other,"13-15",Bengaluru,Referral
+C101102,"2023-12-08",Female,"13-15",Hyderabad,Organic
+C101103,"2022-07-09",Female,"10-12",Rajahmundry,Google Ads
+C101104,"2022-07-16",Other,"10-12",Chennai,School Partnership
+C101105,"2022-08-10",Male,"13-15",Vijayawada,FB Ads
+C101106,"2024-01-27",Male,"16-18",Rajahmundry,FB Ads
+C101107,"2023-05-11",Female,"10-12",Vijayawada,FB Ads
+C101108,"2022-10-11",Female,"16-18",Chennai,Organic
+C101109,"2024-01-12",Male,"13-15",Rajahmundry,FB Ads
+C101110,"2023-08-27",Female,"13-15",Bengaluru,Google Ads
+C101111,"2024-02-18",Male,"13-15",Hyderabad,School Partnership
+C101112,"2023-06-22",Male,"10-12",Rajahmundry,School Partnership
+C101113,"2023-09-04",Female,"10-12",Chennai,Referral
+C101114,"2022-10-17",Female,"13-15",Rajahmundry,Referral
+C101115,"2022-04-13",Female,"13-15",Vijayawada,FB Ads
+C101116,"2024-05-02",Male,"16-18",Delhi,Google Ads
+C101117,"2022-07-18",Female,"13-15",Rajahmundry,Referral
+C101118,"2022-10-31",Male,"10-12",Bengaluru,FB Ads
+C101119,"2022-08-21",Male,"13-15",Rajahmundry,School Partnership
+C101120,"2023-01-05",Female,"10-12",Hyderabad,FB Ads
+C101121,"2022-07-03",Female,"13-15",Rajahmundry,Google Ads
+C101122,"2022-11-06",Female,"13-15",Delhi,Google Ads
+C101123,"2022-01-15",Female,"16-18",Vijayawada,School Partnership
+C101124,"2023-12-27",Female,"16-18",Rajahmundry,Organic
+C101125,"2023-07-01",Female,"13-15",Bengaluru,Google Ads
+C101126,"2022-05-10",Male,"13-15",Chennai,FB Ads
+C101127,"2022-10-08",Male,"16-18",Rajahmundry,Organic
+C101128,"2022-02-16",Male,"10-12",Rajahmundry,Google Ads
+C101129,"2022-02-25",Male,"10-12",Hyderabad,FB Ads
+C101130,"2023-07-21",Female,"10-12",Bengaluru,Google Ads
+C101131,"2022-10-27",Female,"10-12",Delhi,Organic
+C101132,"2023-12-16",Male,"13-15",Chennai,FB Ads
+C101133,"2022-05-10",Male,"13-15",Vijayawada,Google Ads
+C101134,"2023-10-16",Female,"13-15",Rajahmundry,FB Ads
+C101135,"2024-06-08",Male,"10-12",Delhi,Organic
+C101136,"2024-02-10",Female,"13-15",Chennai,School Partnership
+C101137,"2023-05-18",Female,"13-15",Vijayawada,FB Ads
+C101138,"2022-04-16",Female,"13-15",Delhi,Google Ads
+C101139,"2024-06-12",Female,"13-15",Bengaluru,FB Ads
+C101140,"2022-01-13",Female,"13-15",Bengaluru,FB Ads
+C101141,"2023-08-11",Male,"10-12",Chennai,FB Ads
+C101142,"2022-10-19",Female,"10-12",Vijayawada,FB Ads
+C101143,"2023-04-26",Female,"16-18",Bengaluru,FB Ads
+C101144,"2023-05-06",Male,"16-18",Chennai,FB Ads
+C101145,"2023-03-28",Female,"13-15",Bengaluru,FB Ads
+C101146,"2022-12-15",Female,"10-12",Bengaluru,Organic
+C101147,"2022-07-08",Female,"13-15",Delhi,FB Ads
+C101148,"2022-02-22",Female,"13-15",Delhi,Organic
+C101149,"2022-09-16",Female,"16-18",Bengaluru,Organic
+C101150,"2024-06-01",Female,"10-12",Hyderabad,School Partnership
+C101151,"2023-05-05",Female,"10-12",Delhi,Google Ads
+C101152,"2022-04-27",Female,"13-15",Vijayawada,Google Ads
+C101153,"2024-04-21",Female,"13-15",Chennai,FB Ads
+C101154,"2022-03-08",Female,"10-12",Chennai,School Partnership
+C101155,"2023-02-15",Female,"10-12",Vijayawada,Google Ads
+C101156,"2023-05-19",Male,"13-15",Vijayawada,Google Ads
+C101157,"2022-03-17",Female,"16-18",Vijayawada,FB Ads
+C101158,"2023-08-14",Female,"16-18",Vijayawada,School Partnership
+C101159,"2023-10-07",Male,"13-15",Rajahmundry,Referral
+C101160,"2023-12-04",Female,"13-15",Chennai,Referral
+C101161,"2022-02-24",Male,"10-12",Rajahmundry,Organic
+C101162,"2022-06-05",Male,"13-15",Bengaluru,Organic
+C101163,"2022-06-02",Female,"13-15",Bengaluru,Organic
+C101164,"2024-04-10",Male,"13-15",Chennai,Organic
+C101165,"2023-07-31",Female,"13-15",Bengaluru,Referral
+C101166,"2022-11-08",Female,"10-12",Vijayawada,Organic
+C101167,"2022-03-29",Female,"10-12",Rajahmundry,Organic
+C101168,"2022-09-12",Male,"13-15",Vijayawada,Organic
+C101169,"2022-05-02",Male,"10-12",Bengaluru,Organic
+C101170,"2023-07-26",Female,"10-12",Delhi,Organic
+C101171,"2024-02-22",Other,"16-18",Rajahmundry,Google Ads
+C101172,"2023-03-03",Female,"13-15",Vijayawada,FB Ads
+C101173,"2023-09-13",Male,"13-15",Chennai,Organic
+C101174,"2023-09-03",Female,"16-18",Vijayawada,FB Ads
+C101175,"2024-03-20",Female,"16-18",Delhi,FB Ads
+C101176,"2023-09-26",Female,"13-15",Bengaluru,Organic
+C101177,"2022-08-20",Male,"16-18",Rajahmundry,Google Ads
+C101178,"2024-03-05",Female,"13-15",Chennai,Google Ads
+C101179,"2023-06-20",Female,"13-15",Rajahmundry,Google Ads
+C101180,"2023-01-25",Other,"13-15",Chennai,Google Ads
+C101181,"2023-04-07",Male,"13-15",Rajahmundry,Organic
+C101182,"2023-03-30",Female,"13-15",Bengaluru,School Partnership
+C101183,"2022-11-01",Female,"13-15",Chennai,Referral
+C101184,"2024-05-30",Male,"10-12",Hyderabad,School Partnership
+C101185,"2023-08-26",Female,"13-15",Rajahmundry,Organic
+C101186,"2023-03-16",Female,"10-12",Rajahmundry,School Partnership
+C101187,"2022-11-09",Male,"13-15",Vijayawada,Referral
+C101188,"2023-08-06",Male,"13-15",Chennai,Referral
+C101189,"2023-09-28",Female,"13-15",Delhi,Organic
+C101190,"2022-03-03",Male,"16-18",Hyderabad,Google Ads
+C101191,"2023-09-17",Female,"16-18",Bengaluru,School Partnership
+C101192,"2024-01-28",Male,"13-15",Vijayawada,Google Ads
+C101193,"2022-04-12",Female,"13-15",Hyderabad,FB Ads
+C101194,"2024-02-21",Male,"13-15",Chennai,School Partnership
+C101195,"2022-08-01",Female,"10-12",Hyderabad,FB Ads
+C101196,"2023-10-03",Other,"10-12",Rajahmundry,FB Ads
+C101197,"2022-08-05",Other,"10-12",Rajahmundry,FB Ads
+C101198,"2022-09-28",Female,"13-15",Vijayawada,School Partnership
+C101199,"2023-11-08",Male,"13-15",Chennai,Organic
+C101200,"2022-03-25",Female,"16-18",Chennai,FB Ads
+C101201,"2022-06-10",Male,"10-12",Hyderabad,Google Ads
+C101202,"2022-09-03",Male,"10-12",Vijayawada,Google Ads
+C101203,"2022-06-27",Male,"16-18",Chennai,FB Ads
+C101204,"2023-07-20",Female,"10-12",Delhi,School Partnership
+C101205,"2022-03-18",Female,"13-15",Delhi,School Partnership
+C101206,"2022-06-10",Female,"13-15",Rajahmundry,Organic
+C101207,"2022-01-03",Male,"13-15",Hyderabad,FB Ads
+C101208,"2023-02-23",Male,"10-12",Bengaluru,Organic
+C101209,"2023-04-07",Other,"10-12",Rajahmundry,Organic
+C101210,"2023-12-07",Male,"10-12",Vijayawada,FB Ads
+C101211,"2023-09-01",Male,"13-15",Chennai,School Partnership
+C101212,"2023-04-27",Male,"13-15",Rajahmundry,Referral
+C101213,"2022-10-26",Female,"10-12",Bengaluru,Organic
+C101214,"2022-02-03",Female,"13-15",Bengaluru,Organic
+C101215,"2022-08-26",Male,"16-18",Delhi,FB Ads
+C101216,"2022-10-23",Male,"10-12",Vijayawada,FB Ads
+C101217,"2023-12-25",Female,"13-15",Rajahmundry,Organic
+C101218,"2022-10-17",Female,"13-15",Hyderabad,Referral
+C101219,"2023-12-21",Male,"10-12",Rajahmundry,School Partnership
+C101220,"2024-05-30",Female,"13-15",Delhi,FB Ads
+C101221,"2023-04-10",Male,"13-15",Bengaluru,Referral
+C101222,"2022-03-14",Male,"16-18",Vijayawada,FB Ads
+C101223,"2023-12-05",Female,"16-18",Vijayawada,Google Ads
+C101224,"2022-08-28",Male,"13-15",Hyderabad,FB Ads
+C101225,"2022-09-28",Female,"13-15",Vijayawada,Organic
+C101226,"2024-03-17",Male,"13-15",Delhi,School Partnership
+C101227,"2024-03-21",Male,"13-15",Delhi,FB Ads
+C101228,"2023-10-03",Other,"13-15",Delhi,Google Ads
+C101229,"2023-08-27",Male,"10-12",Vijayawada,FB Ads
+C101230,"2023-11-09",Female,"13-15",Vijayawada,Organic
+C101231,"2024-04-03",Male,"13-15",Delhi,Organic
+C101232,"2022-07-22",Male,"13-15",Vijayawada,FB Ads
+C101233,"2023-03-12",Male,"16-18",Vijayawada,Google Ads
+C101234,"2022-04-28",Female,"10-12",Bengaluru,Organic
+C101235,"2023-07-12",Male,"13-15",Rajahmundry,Google Ads
+C101236,"2022-08-19",Female,"10-12",Chennai,Google Ads
+C101237,"2023-10-26",Male,"16-18",Vijayawada,Google Ads
+C101238,"2022-06-02",Other,"13-15",Chennai,FB Ads
+C101239,"2022-09-30",Male,"13-15",Chennai,School Partnership
+C101240,"2024-04-26",Female,"13-15",Bengaluru,FB Ads
+C101241,"2022-05-26",Female,"13-15",Vijayawada,FB Ads
+C101242,"2022-03-15",Female,"16-18",Delhi,Organic
+C101243,"2022-03-03",Female,"13-15",Chennai,Organic
+C101244,"2022-06-19",Female,"13-15",Vijayawada,Organic
+C101245,"2024-03-22",Female,"16-18",Hyderabad,Google Ads
+C101246,"2022-11-11",Male,"10-12",Delhi,Organic
+C101247,"2023-09-02",Male,"10-12",Hyderabad,Organic
+C101248,"2024-02-06",Female,"13-15",Hyderabad,Google Ads
+C101249,"2024-04-24",Female,"16-18",Chennai,Organic
+C101250,"2023-08-06",Female,"13-15",Hyderabad,Organic
+C101251,"2022-10-23",Female,"10-12",Bengaluru,Organic
+C101252,"2023-03-26",Male,"13-15",Bengaluru,Google Ads
+C101253,"2022-05-08",Male,"13-15",Chennai,Organic
+C101254,"2023-04-25",Female,"10-12",Vijayawada,FB Ads
+C101255,"2023-12-07",Male,"13-15",Rajahmundry,FB Ads
+C101256,"2022-11-08",Male,"16-18",Vijayawada,Google Ads
+C101257,"2023-12-18",Female,"13-15",Vijayawada,Google Ads
+C101258,"2023-02-17",Male,"13-15",Vijayawada,Referral
+C101259,"2022-10-06",Female,"13-15",Vijayawada,Organic
+C101260,"2023-05-28",Male,"10-12",Delhi,Organic
+C101261,"2023-07-07",Female,"16-18",Rajahmundry,Organic
+C101262,"2023-05-21",Male,"13-15",Delhi,Organic
+C101263,"2023-03-25",Male,"13-15",Hyderabad,Organic
+C101264,"2022-03-24",Male,"13-15",Vijayawada,Organic
+C101265,"2023-09-05",Male,"13-15",Bengaluru,FB Ads
+C101266,"2022-02-10",Male,"13-15",Chennai,Google Ads
+C101267,"2023-03-19",Male,"10-12",Chennai,FB Ads
+C101268,"2024-01-23",Female,"16-18",Delhi,Google Ads
+C101269,"2022-11-27",Male,"16-18",Delhi,Organic
+C101270,"2023-09-11",Female,"13-15",Bengaluru,Organic
+C101271,"2022-09-14",Female,"16-18",Vijayawada,FB Ads
+C101272,"2022-01-27",Female,"10-12",Rajahmundry,Organic
+C101273,"2022-04-04",Male,"13-15",Hyderabad,Organic
+C101274,"2022-08-23",Female,"13-15",Chennai,FB Ads
+C101275,"2023-11-22",Male,"13-15",Hyderabad,School Partnership
+C101276,"2024-05-06",Male,"13-15",Rajahmundry,Google Ads
+C101277,"2024-05-31",Other,"13-15",Delhi,Organic
+C101278,"2023-08-13",Male,"10-12",Chennai,Referral
+C101279,"2023-08-25",Female,"13-15",Hyderabad,Google Ads
+C101280,"2022-01-22",Female,"10-12",Delhi,Google Ads
+C101281,"2024-02-23",Female,"13-15",Rajahmundry,Referral
+C101282,"2023-11-20",Female,"10-12",Hyderabad,FB Ads
+C101283,"2024-04-21",Male,"10-12",Vijayawada,Organic
+C101284,"2022-10-03",Male,"13-15",Delhi,FB Ads
+C101285,"2023-08-14",Female,"13-15",Rajahmundry,FB Ads
+C101286,"2022-02-11",Male,"16-18",Hyderabad,FB Ads
+C101287,"2024-02-21",Male,"13-15",Vijayawada,FB Ads
+C101288,"2024-02-14",Male,"13-15",Vijayawada,School Partnership
+C101289,"2022-06-29",Male,"16-18",Rajahmundry,School Partnership
+C101290,"2023-04-27",Male,"13-15",Bengaluru,Referral
+C101291,"2023-06-16",Male,"10-12",Chennai,Referral
+C101292,"2023-10-30",Female,"13-15",Rajahmundry,School Partnership
+C101293,"2023-03-29",Female,"16-18",Vijayawada,Organic
+C101294,"2022-10-12",Female,"13-15",Vijayawada,Organic
+C101295,"2022-07-05",Male,"10-12",Rajahmundry,FB Ads
+C101296,"2023-08-23",Male,"10-12",Bengaluru,Referral
+C101297,"2023-03-23",Male,"10-12",Chennai,FB Ads
+C101298,"2023-10-13",Female,"13-15",Hyderabad,Google Ads
+C101299,"2024-04-13",Female,"13-15",Rajahmundry,Organic
+C101300,"2023-05-19",Male,"10-12",Chennai,Organic
+C101301,"2022-04-04",Female,"16-18",Chennai,Google Ads
+C101302,"2023-04-27",Male,"16-18",Delhi,Organic
+C101303,"2022-12-23",Female,"13-15",Vijayawada,FB Ads
+C101304,"2023-02-23",Female,"16-18",Hyderabad,Organic
+C101305,"2022-12-08",Female,"10-12",Rajahmundry,Organic
+C101306,"2022-11-25",Female,"13-15",Vijayawada,Google Ads
+C101307,"2023-11-18",Female,"13-15",Delhi,FB Ads
+C101308,"2022-04-18",Male,"16-18",Delhi,FB Ads
+C101309,"2024-05-28",Female,"16-18",Vijayawada,Organic
+C101310,"2022-06-14",Male,"10-12",Bengaluru,Referral
+C101311,"2022-12-04",Female,"16-18",Chennai,FB Ads
+C101312,"2023-02-26",Female,"10-12",Rajahmundry,Google Ads
+C101313,"2023-12-12",Female,"16-18",Rajahmundry,Google Ads
+C101314,"2023-05-23",Male,"16-18",Rajahmundry,Organic
+C101315,"2022-10-23",Female,"10-12",Vijayawada,Referral
+C101316,"2023-11-10",Female,"13-15",Bengaluru,Google Ads
+C101317,"2023-02-15",Female,"10-12",Hyderabad,FB Ads
+C101318,"2024-04-13",Male,"13-15",Delhi,Organic
+C101319,"2024-02-18",Male,"13-15",Vijayawada,School Partnership
+C101320,"2023-07-18",Male,"13-15",Hyderabad,Google Ads
+C101321,"2022-02-07",Male,"16-18",Delhi,Organic
+C101322,"2023-04-11",Female,"13-15",Delhi,Organic
+C101323,"2022-04-01",Male,"13-15",Bengaluru,Referral
+C101324,"2022-11-19",Other,"16-18",Chennai,Google Ads
+C101325,"2022-09-16",Male,"16-18",Rajahmundry,Google Ads
+C101326,"2022-11-28",Male,"10-12",Hyderabad,FB Ads
+C101327,"2022-04-29",Female,"16-18",Vijayawada,Google Ads
+C101328,"2024-03-02",Female,"10-12",Hyderabad,FB Ads
+C101329,"2023-02-18",Female,"16-18",Chennai,Organic
+C101330,"2024-06-04",Female,"10-12",Rajahmundry,Google Ads
+C101331,"2023-06-11",Female,"10-12",Hyderabad,School Partnership
+C101332,"2024-04-24",Male,"13-15",Chennai,Organic
+C101333,"2022-01-02",Other,"13-15",Vijayawada,FB Ads
+C101334,"2023-11-05",Other,"13-15",Bengaluru,Google Ads
+C101335,"2024-06-09",Female,"10-12",Delhi,FB Ads
+C101336,"2023-07-10",Male,"13-15",Vijayawada,Referral
+C101337,"2023-04-19",Female,"16-18",Rajahmundry,Google Ads
+C101338,"2023-02-28",Male,"13-15",Delhi,Organic
+C101339,"2022-02-25",Male,"10-12",Vijayawada,School Partnership
+C101340,"2022-07-12",Male,"13-15",Vijayawada,Google Ads
+C101341,"2023-06-15",Male,"10-12",Vijayawada,Referral
+C101342,"2023-01-06",Female,"16-18",Vijayawada,Google Ads
+C101343,"2023-09-30",Female,"16-18",Delhi,Referral
+C101344,"2024-02-14",Female,"13-15",Rajahmundry,Organic
+C101345,"2023-05-26",Male,"13-15",Chennai,Organic
+C101346,"2023-10-03",Male,"16-18",Hyderabad,Referral
+C101347,"2023-03-29",Male,"13-15",Bengaluru,Organic
+C101348,"2024-02-18",Other,"16-18",Hyderabad,Organic
+C101349,"2022-02-22",Male,"13-15",Hyderabad,Google Ads
+C101350,"2022-07-28",Female,"16-18",Bengaluru,Referral
+C101351,"2022-10-01",Female,"13-15",Delhi,Organic
+C101352,"2023-07-17",Male,"13-15",Rajahmundry,Referral
+C101353,"2022-05-15",Female,"16-18",Bengaluru,Google Ads
+C101354,"2022-10-22",Female,"13-15",Rajahmundry,FB Ads
+C101355,"2023-03-25",Female,"13-15",Delhi,Referral
+C101356,"2023-12-17",Female,"10-12",Hyderabad,FB Ads
+C101357,"2023-05-12",Male,"13-15",Rajahmundry,Organic
+C101358,"2022-05-05",Male,"13-15",Delhi,Organic
+C101359,"2022-01-30",Female,"10-12",Delhi,FB Ads
+C101360,"2023-10-08",Female,"10-12",Chennai,FB Ads
+C101361,"2023-09-16",Male,"13-15",Bengaluru,Referral
+C101362,"2024-03-29",Female,"16-18",Chennai,Google Ads
+C101363,"2022-09-03",Female,"13-15",Hyderabad,FB Ads
+C101364,"2023-12-28",Female,"10-12",Bengaluru,Google Ads
+C101365,"2022-06-12",Male,"13-15",Hyderabad,Organic
+C101366,"2022-11-15",Female,"10-12",Chennai,Organic
+C101367,"2023-07-19",Female,"13-15",Delhi,Referral
+C101368,"2022-01-15",Male,"10-12",Hyderabad,Organic
+C101369,"2023-07-20",Male,"10-12",Bengaluru,Organic
+C101370,"2023-02-22",Other,"10-12",Bengaluru,Google Ads
+C101371,"2022-04-06",Male,"13-15",Hyderabad,FB Ads
+C101372,"2022-08-19",Female,"10-12",Bengaluru,Referral
+C101373,"2024-05-11",Female,"13-15",Delhi,Organic
+C101374,"2022-04-27",Male,"13-15",Delhi,Organic
+C101375,"2023-04-18",Female,"13-15",Bengaluru,Organic
+C101376,"2022-05-01",Male,"13-15",Hyderabad,FB Ads
+C101377,"2023-10-26",Female,"16-18",Chennai,FB Ads
+C101378,"2024-05-02",Male,"10-12",Bengaluru,FB Ads
+C101379,"2022-06-07",Female,"13-15",Bengaluru,Referral
+C101380,"2023-05-26",Male,"10-12",Bengaluru,School Partnership
+C101381,"2024-01-04",Male,"10-12",Bengaluru,Organic
+C101382,"2022-10-26",Other,"13-15",Hyderabad,FB Ads
+C101383,"2023-06-06",Male,"13-15",Chennai,FB Ads
+C101384,"2023-12-24",Female,"16-18",Chennai,School Partnership
+C101385,"2022-10-07",Male,"13-15",Rajahmundry,School Partnership
+C101386,"2023-03-02",Female,"16-18",Bengaluru,Organic
+C101387,"2024-05-04",Male,"10-12",Bengaluru,Google Ads
+C101388,"2023-05-10",Other,"10-12",Rajahmundry,FB Ads
+C101389,"2023-04-29",Male,"10-12",Chennai,Organic
+C101390,"2022-09-07",Male,"10-12",Vijayawada,Organic
+C101391,"2023-04-13",Male,"13-15",Delhi,FB Ads
+C101392,"2023-07-19",Male,"13-15",Vijayawada,FB Ads
+C101393,"2022-05-29",Female,"10-12",Chennai,Organic
+C101394,"2023-01-28",Male,"16-18",Bengaluru,Google Ads
+C101395,"2022-07-15",Female,"16-18",Vijayawada,Organic
+C101396,"2023-09-06",Male,"10-12",Hyderabad,FB Ads
+C101397,"2023-06-05",Male,"10-12",Hyderabad,Organic
+C101398,"2024-02-04",Female,"10-12",Rajahmundry,Organic
+C101399,"2024-06-19",Female,"10-12",Chennai,FB Ads
+C101400,"2022-05-20",Male,"10-12",Chennai,Organic
+C101401,"2024-06-03",Male,"13-15",Vijayawada,FB Ads
+C101402,"2022-03-13",Male,"10-12",Bengaluru,Organic
+C101403,"2022-10-10",Female,"13-15",Chennai,FB Ads
+C101404,"2024-03-02",Female,"16-18",Vijayawada,Organic
+C101405,"2024-03-19",Male,"13-15",Vijayawada,Google Ads
+C101406,"2024-05-24",Female,"16-18",Delhi,Google Ads
+C101407,"2023-03-01",Female,"10-12",Delhi,Organic
+C101408,"2022-12-15",Female,"13-15",Chennai,FB Ads
+C101409,"2024-03-17",Female,"13-15",Vijayawada,Organic
+C101410,"2023-06-04",Male,"10-12",Rajahmundry,FB Ads
+C101411,"2022-10-01",Male,"10-12",Rajahmundry,Organic
+C101412,"2024-04-20",Male,"13-15",Delhi,FB Ads
+C101413,"2022-01-03",Male,"13-15",Chennai,FB Ads
+C101414,"2022-10-17",Female,"13-15",Bengaluru,School Partnership
+C101415,"2024-01-14",Female,"13-15",Rajahmundry,FB Ads
+C101416,"2022-11-02",Male,"13-15",Rajahmundry,FB Ads
+C101417,"2024-05-07",Male,"10-12",Delhi,FB Ads
+C101418,"2023-08-25",Male,"13-15",Delhi,School Partnership
+C101419,"2023-08-17",Female,"10-12",Chennai,Google Ads
+C101420,"2023-11-07",Male,"10-12",Delhi,Organic
+C101421,"2023-05-17",Female,"16-18",Hyderabad,Referral
+C101422,"2024-06-05",Male,"13-15",Vijayawada,FB Ads
+C101423,"2022-06-02",Male,"13-15",Rajahmundry,Referral
+C101424,"2023-04-03",Other,"13-15",Hyderabad,Referral
+C101425,"2023-07-06",Other,"13-15",Bengaluru,Organic
+C101426,"2023-05-11",Male,"10-12",Hyderabad,Google Ads
+C101427,"2022-12-20",Female,"10-12",Chennai,Organic
+C101428,"2022-12-07",Female,"10-12",Bengaluru,Organic
+C101429,"2023-07-20",Female,"16-18",Bengaluru,Organic
+C101430,"2024-02-21",Male,"13-15",Delhi,Google Ads
+C101431,"2023-07-11",Female,"13-15",Hyderabad,Organic
+C101432,"2023-01-22",Female,"13-15",Chennai,Organic
+C101433,"2023-04-12",Female,"16-18",Rajahmundry,Google Ads
+C101434,"2022-11-26",Male,"10-12",Delhi,Organic
+C101435,"2024-06-09",Male,"10-12",Hyderabad,Organic
+C101436,"2022-07-13",Male,"13-15",Rajahmundry,Organic
+C101437,"2023-12-16",Female,"16-18",Hyderabad,FB Ads
+C101438,"2022-09-02",Male,"16-18",Delhi,FB Ads
+C101439,"2023-08-09",Female,"10-12",Rajahmundry,Organic
+C101440,"2023-01-28",Other,"16-18",Delhi,School Partnership
+C101441,"2022-08-28",Male,"16-18",Hyderabad,Google Ads
+C101442,"2024-05-26",Female,"10-12",Bengaluru,Organic
+C101443,"2024-03-05",Male,"13-15",Vijayawada,Organic
+C101444,"2023-02-25",Female,"13-15",Bengaluru,FB Ads
+C101445,"2022-02-14",Male,"16-18",Delhi,Google Ads
+C101446,"2022-11-22",Female,"10-12",Delhi,Organic
+C101447,"2024-02-02",Female,"16-18",Delhi,Organic
+C101448,"2023-04-30",Female,"13-15",Rajahmundry,Referral
+C101449,"2023-12-24",Female,"13-15",Chennai,Organic
+C101450,"2024-04-10",Female,"13-15",Delhi,FB Ads
+C101451,"2023-01-26",Female,"13-15",Bengaluru,Referral
+C101452,"2023-01-31",Female,"16-18",Vijayawada,Google Ads
+C101453,"2023-11-11",Female,"16-18",Delhi,Organic
+C101454,"2024-03-22",Male,"16-18",Delhi,Google Ads
+C101455,"2024-04-20",Female,"10-12",Delhi,Organic
+C101456,"2023-10-30",Female,"13-15",Rajahmundry,Google Ads
+C101457,"2022-06-05",Female,"10-12",Delhi,FB Ads
+C101458,"2023-05-23",Male,"13-15",Bengaluru,Referral
+C101459,"2022-02-07",Female,"13-15",Hyderabad,School Partnership
+C101460,"2022-05-10",Male,"13-15",Chennai,School Partnership
+C101461,"2023-05-30",Female,"13-15",Delhi,School Partnership
+C101462,"2023-08-28",Male,"16-18",Rajahmundry,FB Ads
+C101463,"2022-12-06",Female,"10-12",Bengaluru,FB Ads
+C101464,"2024-06-09",Other,"13-15",Delhi,FB Ads
+C101465,"2022-04-13",Male,"13-15",Rajahmundry,Google Ads
+C101466,"2024-06-14",Other,"10-12",Hyderabad,Referral
+C101467,"2024-05-15",Male,"10-12",Vijayawada,Organic
+C101468,"2023-03-27",Female,"16-18",Delhi,School Partnership
+C101469,"2022-04-13",Female,"16-18",Bengaluru,Referral
+C101470,"2023-06-23",Female,"16-18",Rajahmundry,School Partnership
+C101471,"2023-04-13",Female,"16-18",Rajahmundry,Referral
+C101472,"2022-01-16",Female,"10-12",Delhi,Organic
+C101473,"2024-01-10",Male,"13-15",Rajahmundry,Organic
+C101474,"2022-05-28",Male,"13-15",Vijayawada,Organic
+C101475,"2023-02-24",Female,"13-15",Rajahmundry,Organic
+C101476,"2024-06-10",Female,"13-15",Chennai,Google Ads
+C101477,"2023-11-02",Female,"13-15",Chennai,Referral
+C101478,"2022-06-08",Female,"13-15",Rajahmundry,Referral
+C101479,"2022-03-18",Male,"13-15",Delhi,Google Ads
+C101480,"2023-04-26",Female,"10-12",Chennai,Organic
+C101481,"2024-03-11",Male,"13-15",Bengaluru,Organic
+C101482,"2022-09-29",Female,"13-15",Chennai,Organic
+C101483,"2022-12-13",Male,"13-15",Rajahmundry,FB Ads
+C101484,"2023-10-01",Male,"10-12",Delhi,FB Ads
+C101485,"2023-12-11",Male,"13-15",Hyderabad,Organic
+C101486,"2023-02-12",Male,"10-12",Delhi,Organic
+C101487,"2023-10-28",Female,"13-15",Delhi,Organic
+C101488,"2022-03-24",Male,"16-18",Delhi,Google Ads
+C101489,"2024-05-22",Male,"13-15",Bengaluru,FB Ads
+C101490,"2022-12-03",Male,"10-12",Vijayawada,FB Ads
+C101491,"2024-05-22",Male,"13-15",Rajahmundry,FB Ads
+C101492,"2023-11-22",Male,"13-15",Vijayawada,School Partnership
+C101493,"2024-05-29",Male,"16-18",Hyderabad,Organic
+C101494,"2023-07-01",Female,"13-15",Vijayawada,FB Ads
+C101495,"2023-01-25",Female,"13-15",Rajahmundry,Google Ads
+C101496,"2022-11-21",Female,"13-15",Rajahmundry,FB Ads
+C101497,"2023-10-04",Male,"10-12",Hyderabad,School Partnership
+C101498,"2024-01-06",Male,"10-12",Rajahmundry,FB Ads
+C101499,"2024-02-17",Female,"13-15",Hyderabad,FB Ads
+C101500,"2023-05-15",Female,"13-15",Hyderabad,Organic
+C101501,"2024-06-12",Male,"13-15",Rajahmundry,Google Ads
+C101502,"2023-07-09",Male,"10-12",Chennai,Organic
+C101503,"2022-02-06",Male,"10-12",Hyderabad,Organic
+C101504,"2023-09-25",Male,"13-15",Rajahmundry,FB Ads
+C101505,"2022-03-12",Male,"10-12",Chennai,FB Ads
+C101506,"2022-08-29",Female,"13-15",Hyderabad,Organic
+C101507,"2023-10-09",Female,"10-12",Chennai,Google Ads
+C101508,"2023-12-02",Female,"13-15",Bengaluru,Google Ads
+C101509,"2022-10-22",Female,"16-18",Delhi,Organic
+C101510,"2022-08-21",Female,"10-12",Bengaluru,FB Ads
+C101511,"2024-02-04",Female,"13-15",Chennai,Google Ads
+C101512,"2022-04-03",Female,"10-12",Hyderabad,FB Ads
+C101513,"2023-03-21",Male,"13-15",Rajahmundry,FB Ads
+C101514,"2022-04-11",Male,"13-15",Vijayawada,Organic
+C101515,"2024-02-18",Male,"13-15",Rajahmundry,Google Ads
+C101516,"2023-10-11",Female,"13-15",Vijayawada,School Partnership
+C101517,"2023-12-22",Female,"16-18",Vijayawada,Google Ads
+C101518,"2024-06-12",Male,"10-12",Hyderabad,Organic
+C101519,"2022-04-13",Female,"10-12",Chennai,FB Ads
+C101520,"2023-03-31",Male,"16-18",Rajahmundry,Referral
+C101521,"2022-06-20",Female,"13-15",Chennai,Organic
+C101522,"2023-12-12",Male,"16-18",Bengaluru,School Partnership
+C101523,"2022-11-03",Male,"13-15",Hyderabad,School Partnership
+C101524,"2022-01-30",Female,"16-18",Hyderabad,Organic
+C101525,"2022-02-17",Male,"13-15",Bengaluru,School Partnership
+C101526,"2022-11-29",Male,"13-15",Rajahmundry,FB Ads
+C101527,"2024-03-26",Male,"16-18",Delhi,Referral
+C101528,"2022-02-27",Female,"13-15",Bengaluru,FB Ads
+C101529,"2022-10-28",Female,"10-12",Rajahmundry,FB Ads
+C101530,"2023-01-03",Male,"10-12",Vijayawada,Google Ads
+C101531,"2023-01-19",Female,"10-12",Hyderabad,Google Ads
+C101532,"2023-03-18",Female,"10-12",Rajahmundry,Organic
+C101533,"2022-05-30",Male,"13-15",Chennai,FB Ads
+C101534,"2022-09-08",Male,"13-15",Chennai,Organic
+C101535,"2023-06-28",Male,"13-15",Hyderabad,Organic
+C101536,"2023-02-26",Male,"13-15",Bengaluru,Organic
+C101537,"2023-08-03",Female,"13-15",Delhi,FB Ads
+C101538,"2023-11-30",Male,"10-12",Bengaluru,Organic
+C101539,"2024-03-22",Female,"10-12",Rajahmundry,Organic
+C101540,"2022-07-04",Female,"10-12",Bengaluru,Organic
+C101541,"2022-06-24",Male,"13-15",Hyderabad,Organic
+C101542,"2022-06-29",Female,"10-12",Rajahmundry,FB Ads
+C101543,"2022-03-22",Male,"10-12",Vijayawada,School Partnership
+C101544,"2023-09-17",Other,"13-15",Bengaluru,Organic
+C101545,"2024-06-10",Female,"16-18",Bengaluru,School Partnership
+C101546,"2023-01-27",Female,"10-12",Delhi,Google Ads
+C101547,"2023-09-27",Female,"13-15",Rajahmundry,Google Ads
+C101548,"2023-12-01",Male,"13-15",Chennai,Google Ads
+C101549,"2022-09-04",Female,"16-18",Bengaluru,Referral
+C101550,"2023-05-25",Female,"16-18",Hyderabad,Organic
+C101551,"2023-08-21",Female,"10-12",Bengaluru,FB Ads
+C101552,"2022-05-27",Female,"10-12",Delhi,Google Ads
+C101553,"2022-08-26",Female,"16-18",Vijayawada,FB Ads
+C101554,"2023-04-18",Male,"13-15",Delhi,Referral
+C101555,"2023-10-16",Male,"13-15",Bengaluru,Organic
+C101556,"2022-09-18",Female,"13-15",Chennai,Google Ads
+C101557,"2023-04-16",Male,"13-15",Bengaluru,FB Ads
+C101558,"2022-09-19",Female,"16-18",Rajahmundry,FB Ads
+C101559,"2023-11-14",Female,"16-18",Bengaluru,Organic
+C101560,"2022-01-10",Male,"13-15",Chennai,Google Ads
+C101561,"2024-04-03",Male,"10-12",Rajahmundry,Referral
+C101562,"2023-04-22",Female,"16-18",Hyderabad,FB Ads
+C101563,"2022-10-22",Male,"10-12",Rajahmundry,Referral
+C101564,"2023-11-25",Female,"10-12",Delhi,FB Ads
+C101565,"2023-07-14",Male,"16-18",Vijayawada,Organic
+C101566,"2022-06-11",Female,"10-12",Delhi,Organic
+C101567,"2022-03-17",Male,"10-12",Rajahmundry,Organic
+C101568,"2023-03-29",Female,"10-12",Hyderabad,FB Ads
+C101569,"2022-12-20",Male,"16-18",Bengaluru,Organic
+C101570,"2023-08-25",Female,"13-15",Rajahmundry,Google Ads
+C101571,"2022-11-03",Male,"13-15",Delhi,Google Ads
+C101572,"2023-10-17",Female,"10-12",Rajahmundry,Organic
+C101573,"2023-03-11",Female,"16-18",Rajahmundry,Organic
+C101574,"2023-12-08",Male,"16-18",Rajahmundry,Organic
+C101575,"2022-09-14",Male,"13-15",Hyderabad,FB Ads
+C101576,"2023-04-13",Male,"13-15",Chennai,Organic
+C101577,"2024-05-15",Female,"10-12",Chennai,Organic
+C101578,"2022-11-06",Female,"16-18",Rajahmundry,School Partnership
+C101579,"2022-07-23",Female,"13-15",Hyderabad,Referral
+C101580,"2023-01-29",Male,"16-18",Hyderabad,Organic
+C101581,"2024-05-23",Male,"13-15",Rajahmundry,FB Ads
+C101582,"2023-05-10",Female,"16-18",Delhi,FB Ads
+C101583,"2022-04-20",Female,"16-18",Delhi,Google Ads
+C101584,"2022-08-31",Other,"13-15",Vijayawada,FB Ads
+C101585,"2023-01-26",Male,"16-18",Rajahmundry,Organic
+C101586,"2023-08-09",Female,"13-15",Vijayawada,Google Ads
+C101587,"2023-01-03",Male,"10-12",Delhi,FB Ads
+C101588,"2023-08-12",Male,"13-15",Delhi,Organic
+C101589,"2022-10-30",Female,"13-15",Rajahmundry,FB Ads
+C101590,"2023-12-18",Female,"13-15",Vijayawada,FB Ads
+C101591,"2022-10-30",Other,"10-12",Vijayawada,Organic
+C101592,"2022-01-23",Male,"13-15",Rajahmundry,Organic
+C101593,"2024-04-29",Male,"13-15",Vijayawada,FB Ads
+C101594,"2023-11-06",Female,"13-15",Bengaluru,Organic
+C101595,"2023-02-10",Female,"13-15",Delhi,Google Ads
+C101596,"2022-10-09",Male,"13-15",Chennai,Organic
+C101597,"2022-01-09",Male,"10-12",Hyderabad,Organic
+C101598,"2023-08-03",Male,"13-15",Vijayawada,Google Ads
+C101599,"2024-06-04",Female,"10-12",Vijayawada,Google Ads
+C101600,"2023-12-04",Male,"10-12",Hyderabad,Referral
+C101601,"2024-03-07",Male,"16-18",Vijayawada,FB Ads
+C101602,"2024-02-02",Male,"16-18",Hyderabad,Organic
+C101603,"2022-02-20",Male,"13-15",Rajahmundry,Google Ads
+C101604,"2023-09-13",Male,"16-18",Bengaluru,Google Ads
+C101605,"2024-02-03",Female,"16-18",Bengaluru,Organic
+C101606,"2023-05-24",Male,"16-18",Delhi,School Partnership
+C101607,"2024-05-02",Female,"10-12",Chennai,Organic
+C101608,"2022-10-21",Male,"16-18",Vijayawada,School Partnership
+C101609,"2024-03-05",Female,"13-15",Chennai,Referral
+C101610,"2024-03-29",Female,"13-15",Rajahmundry,Google Ads
+C101611,"2022-08-24",Female,"10-12",Bengaluru,School Partnership
+C101612,"2023-09-14",Female,"13-15",Rajahmundry,Google Ads
+C101613,"2024-04-01",Male,"10-12",Rajahmundry,Organic
+C101614,"2022-12-27",Male,"10-12",Vijayawada,FB Ads
+C101615,"2022-08-13",Female,"13-15",Rajahmundry,Organic
+C101616,"2023-10-14",Other,"16-18",Bengaluru,FB Ads
+C101617,"2022-07-14",Female,"16-18",Chennai,Google Ads
+C101618,"2023-09-28",Female,"13-15",Bengaluru,FB Ads
+C101619,"2022-09-14",Female,"16-18",Vijayawada,Organic
+C101620,"2023-11-26",Male,"16-18",Bengaluru,FB Ads
+C101621,"2024-02-13",Male,"16-18",Hyderabad,Referral
+C101622,"2024-01-09",Female,"10-12",Chennai,Organic
+C101623,"2024-02-25",Female,"13-15",Hyderabad,FB Ads
+C101624,"2023-11-07",Male,"16-18",Hyderabad,Organic
+C101625,"2023-11-29",Female,"13-15",Delhi,Google Ads
+C101626,"2024-05-08",Male,"13-15",Vijayawada,Organic
+C101627,"2022-05-21",Female,"13-15",Rajahmundry,Google Ads
+C101628,"2023-10-06",Male,"13-15",Hyderabad,Organic
+C101629,"2022-04-10",Male,"13-15",Bengaluru,Organic
+C101630,"2023-10-05",Female,"10-12",Rajahmundry,School Partnership
+C101631,"2023-10-24",Male,"13-15",Bengaluru,Organic
+C101632,"2022-02-10",Female,"16-18",Bengaluru,FB Ads
+C101633,"2022-11-13",Female,"16-18",Rajahmundry,Organic
+C101634,"2024-03-18",Female,"10-12",Rajahmundry,FB Ads
+C101635,"2023-03-28",Male,"16-18",Bengaluru,FB Ads
+C101636,"2022-02-04",Male,"13-15",Vijayawada,Organic
+C101637,"2023-08-17",Male,"13-15",Chennai,Organic
+C101638,"2023-01-09",Other,"16-18",Delhi,FB Ads
+C101639,"2024-01-20",Female,"16-18",Chennai,Google Ads
+C101640,"2022-05-15",Female,"16-18",Vijayawada,Google Ads
+C101641,"2022-04-03",Female,"13-15",Delhi,FB Ads
+C101642,"2022-10-30",Female,"16-18",Rajahmundry,FB Ads
+C101643,"2022-12-01",Female,"10-12",Delhi,Organic
+C101644,"2024-02-05",Male,"13-15",Bengaluru,Organic
+C101645,"2023-03-02",Female,"13-15",Chennai,Organic
+C101646,"2022-06-29",Male,"13-15",Delhi,Organic
+C101647,"2022-07-25",Female,"10-12",Bengaluru,Organic
+C101648,"2022-05-16",Female,"16-18",Vijayawada,FB Ads
+C101649,"2024-03-16",Female,"10-12",Delhi,FB Ads
+C101650,"2023-07-07",Male,"10-12",Bengaluru,School Partnership
+C101651,"2024-06-16",Male,"13-15",Vijayawada,Organic
+C101652,"2023-01-10",Male,"13-15",Rajahmundry,Google Ads
+C101653,"2023-06-28",Male,"16-18",Vijayawada,Referral
+C101654,"2023-05-29",Male,"13-15",Vijayawada,FB Ads
+C101655,"2022-10-07",Female,"10-12",Chennai,Organic
+C101656,"2024-04-30",Female,"16-18",Bengaluru,Organic
+C101657,"2022-06-18",Male,"13-15",Delhi,Organic
+C101658,"2022-09-21",Male,"10-12",Chennai,Organic
+C101659,"2024-04-24",Male,"13-15",Hyderabad,Google Ads
+C101660,"2023-05-09",Female,"13-15",Vijayawada,Organic
+C101661,"2024-04-05",Female,"13-15",Hyderabad,Organic
+C101662,"2022-10-30",Female,"13-15",Chennai,Google Ads
+C101663,"2024-02-04",Female,"16-18",Bengaluru,Google Ads
+C101664,"2024-06-10",Other,"16-18",Chennai,FB Ads
+C101665,"2022-12-13",Female,"13-15",Bengaluru,Google Ads
+C101666,"2024-04-03",Male,"10-12",Bengaluru,FB Ads
+C101667,"2022-04-28",Female,"16-18",Rajahmundry,Organic
+C101668,"2023-04-25",Male,"13-15",Vijayawada,FB Ads
+C101669,"2022-03-19",Female,"13-15",Chennai,FB Ads
+C101670,"2022-05-25",Male,"13-15",Bengaluru,School Partnership
+C101671,"2024-02-12",Female,"16-18",Chennai,Organic
+C101672,"2022-08-20",Female,"13-15",Chennai,FB Ads
+C101673,"2024-05-30",Female,"10-12",Bengaluru,Organic
+C101674,"2023-11-24",Female,"13-15",Delhi,FB Ads
+C101675,"2024-01-12",Male,"16-18",Hyderabad,Organic
+C101676,"2023-11-22",Male,"10-12",Vijayawada,Organic
+C101677,"2023-02-11",Male,"16-18",Vijayawada,Referral
+C101678,"2024-05-16",Male,"13-15",Delhi,FB Ads
+C101679,"2024-04-03",Female,"13-15",Rajahmundry,FB Ads
+C101680,"2023-07-25",Male,"10-12",Delhi,Organic
+C101681,"2023-01-10",Other,"10-12",Rajahmundry,Organic
+C101682,"2022-04-03",Female,"16-18",Rajahmundry,FB Ads
+C101683,"2024-03-20",Female,"10-12",Delhi,Referral
+C101684,"2023-02-09",Male,"16-18",Vijayawada,School Partnership
+C101685,"2022-01-15",Female,"13-15",Hyderabad,FB Ads
+C101686,"2022-09-28",Female,"10-12",Vijayawada,FB Ads
+C101687,"2023-07-04",Female,"10-12",Vijayawada,Referral
+C101688,"2022-05-07",Female,"13-15",Vijayawada,FB Ads
+C101689,"2023-04-11",Female,"16-18",Delhi,FB Ads
+C101690,"2023-01-13",Male,"13-15",Delhi,Organic
+C101691,"2023-11-20",Female,"13-15",Delhi,Google Ads
+C101692,"2024-02-06",Male,"13-15",Vijayawada,FB Ads
+C101693,"2023-11-20",Male,"13-15",Hyderabad,Referral
+C101694,"2022-09-26",Male,"13-15",Rajahmundry,Google Ads
+C101695,"2023-08-22",Male,"16-18",Chennai,Organic
+C101696,"2023-01-26",Male,"13-15",Rajahmundry,Google Ads
+C101697,"2024-04-22",Male,"13-15",Rajahmundry,Referral
+C101698,"2023-10-16",Other,"10-12",Chennai,Organic
+C101699,"2023-01-16",Female,"16-18",Vijayawada,Organic
+C101700,"2022-04-21",Other,"10-12",Hyderabad,Organic
+C101701,"2023-11-23",Male,"10-12",Hyderabad,FB Ads
+C101702,"2022-08-28",Male,"13-15",Rajahmundry,FB Ads
+C101703,"2023-04-28",Female,"13-15",Chennai,FB Ads
+C101704,"2022-01-26",Male,"13-15",Bengaluru,Organic
+C101705,"2023-09-27",Male,"13-15",Vijayawada,Referral
+C101706,"2023-07-29",Female,"16-18",Rajahmundry,Organic
+C101707,"2022-12-02",Male,"10-12",Hyderabad,Organic
+C101708,"2023-09-17",Female,"16-18",Delhi,FB Ads
+C101709,"2022-08-15",Female,"13-15",Delhi,FB Ads
+C101710,"2023-10-26",Male,"13-15",Chennai,Organic
+C101711,"2022-03-06",Male,"13-15",Chennai,Organic
+C101712,"2023-10-13",Female,"10-12",Rajahmundry,Organic
+C101713,"2024-04-23",Male,"16-18",Bengaluru,Google Ads
+C101714,"2023-04-21",Male,"13-15",Hyderabad,Google Ads
+C101715,"2023-12-19",Other,"13-15",Rajahmundry,FB Ads
+C101716,"2022-11-06",Male,"13-15",Bengaluru,Google Ads
+C101717,"2023-10-27",Female,"16-18",Chennai,Google Ads
+C101718,"2023-02-23",Other,"13-15",Delhi,Organic
+C101719,"2022-04-30",Male,"16-18",Vijayawada,School Partnership
+C101720,"2022-05-24",Male,"13-15",Delhi,Referral
+C101721,"2022-02-16",Male,"10-12",Hyderabad,Organic
+C101722,"2022-02-08",Male,"10-12",Hyderabad,Organic
+C101723,"2022-11-08",Male,"13-15",Delhi,Organic
+C101724,"2023-05-20",Female,"10-12",Delhi,Organic
+C101725,"2022-04-29",Male,"10-12",Bengaluru,Google Ads
+C101726,"2022-04-10",Female,"16-18",Rajahmundry,FB Ads
+C101727,"2022-08-29",Other,"16-18",Chennai,Google Ads
+C101728,"2023-07-05",Female,"13-15",Bengaluru,Google Ads
+C101729,"2022-05-19",Female,"10-12",Vijayawada,Google Ads
+C101730,"2023-02-02",Male,"10-12",Delhi,Google Ads
+C101731,"2023-04-10",Female,"10-12",Vijayawada,Organic
+C101732,"2023-01-15",Female,"13-15",Vijayawada,Organic
+C101733,"2023-11-18",Male,"16-18",Bengaluru,Google Ads
+C101734,"2024-01-31",Male,"13-15",Chennai,Organic
+C101735,"2023-12-15",Female,"10-12",Hyderabad,Organic
+C101736,"2023-07-08",Male,"13-15",Rajahmundry,Referral
+C101737,"2023-03-06",Male,"13-15",Hyderabad,Google Ads
+C101738,"2023-08-25",Male,"13-15",Chennai,Organic
+C101739,"2024-01-31",Male,"13-15",Hyderabad,Google Ads
+C101740,"2024-01-15",Female,"13-15",Delhi,Google Ads
+C101741,"2022-06-08",Female,"10-12",Delhi,Organic
+C101742,"2023-03-01",Female,"10-12",Bengaluru,Organic
+C101743,"2023-11-02",Male,"16-18",Vijayawada,School Partnership
+C101744,"2022-04-12",Male,"10-12",Chennai,Organic
+C101745,"2024-05-03",Female,"10-12",Chennai,Organic
+C101746,"2023-05-17",Male,"10-12",Hyderabad,FB Ads
+C101747,"2023-09-23",Male,"10-12",Bengaluru,Google Ads
+C101748,"2023-02-22",Female,"13-15",Hyderabad,Organic
+C101749,"2022-10-14",Male,"16-18",Hyderabad,Organic
+C101750,"2022-02-03",Female,"13-15",Chennai,Organic
+C101751,"2023-12-08",Male,"13-15",Hyderabad,School Partnership
+C101752,"2023-01-15",Male,"13-15",Vijayawada,Organic
+C101753,"2022-08-11",Male,"13-15",Hyderabad,FB Ads
+C101754,"2023-03-31",Other,"16-18",Vijayawada,School Partnership
+C101755,"2023-04-01",Female,"16-18",Chennai,Organic
+C101756,"2022-08-30",Female,"10-12",Bengaluru,School Partnership
+C101757,"2024-05-25",Female,"16-18",Delhi,School Partnership
+C101758,"2023-01-07",Male,"13-15",Vijayawada,Referral
+C101759,"2022-04-12",Female,"16-18",Bengaluru,Organic
+C101760,"2023-12-04",Male,"13-15",Bengaluru,Google Ads
+C101761,"2023-01-12",Female,"16-18",Vijayawada,Google Ads
+C101762,"2023-07-12",Male,"16-18",Chennai,School Partnership
+C101763,"2023-10-23",Female,"10-12",Rajahmundry,Organic
+C101764,"2023-01-03",Male,"13-15",Bengaluru,Google Ads
+C101765,"2022-03-04",Male,"16-18",Bengaluru,Organic
+C101766,"2023-02-12",Female,"16-18",Chennai,Organic
+C101767,"2022-10-10",Male,"10-12",Chennai,FB Ads
+C101768,"2022-07-14",Male,"13-15",Hyderabad,Google Ads
+C101769,"2022-05-06",Male,"13-15",Chennai,FB Ads
+C101770,"2024-05-18",Male,"10-12",Bengaluru,FB Ads
+C101771,"2024-04-23",Female,"13-15",Vijayawada,School Partnership
+C101772,"2023-04-11",Female,"10-12",Rajahmundry,FB Ads
+C101773,"2022-04-04",Female,"16-18",Hyderabad,Google Ads
+C101774,"2023-11-10",Female,"13-15",Vijayawada,FB Ads
+C101775,"2022-08-06",Male,"16-18",Rajahmundry,FB Ads
+C101776,"2023-10-20",Female,"10-12",Rajahmundry,Google Ads
+C101777,"2023-10-17",Male,"13-15",Rajahmundry,School Partnership
+C101778,"2023-09-04",Male,"10-12",Delhi,FB Ads
+C101779,"2022-01-22",Female,"10-12",Vijayawada,Google Ads
+C101780,"2022-02-21",Male,"10-12",Hyderabad,Organic
+C101781,"2024-03-16",Female,"10-12",Hyderabad,Organic
+C101782,"2022-12-08",Male,"13-15",Rajahmundry,FB Ads
+C101783,"2022-09-07",Female,"10-12",Vijayawada,Organic
+C101784,"2022-05-09",Female,"13-15",Delhi,Organic
+C101785,"2024-03-16",Female,"13-15",Rajahmundry,FB Ads
+C101786,"2023-08-02",Female,"16-18",Chennai,Organic
+C101787,"2022-07-30",Female,"16-18",Hyderabad,Organic
+C101788,"2022-03-12",Male,"13-15",Bengaluru,FB Ads
+C101789,"2024-04-29",Female,"13-15",Rajahmundry,FB Ads
+C101790,"2024-02-23",Male,"10-12",Chennai,School Partnership
+C101791,"2023-07-22",Female,"16-18",Hyderabad,Google Ads
+C101792,"2022-08-01",Female,"10-12",Delhi,FB Ads
+C101793,"2023-08-24",Female,"10-12",Vijayawada,School Partnership
+C101794,"2022-08-10",Male,"10-12",Hyderabad,Google Ads
+C101795,"2024-04-12",Male,"13-15",Vijayawada,Organic
+C101796,"2024-06-09",Female,"10-12",Vijayawada,Organic
+C101797,"2022-08-27",Male,"16-18",Delhi,Google Ads
+C101798,"2022-12-03",Male,"10-12",Delhi,FB Ads
+C101799,"2024-03-03",Male,"13-15",Rajahmundry,Google Ads
+C101800,"2022-06-01",Female,"10-12",Rajahmundry,Google Ads
+C101801,"2024-03-18",Female,"10-12",Hyderabad,Google Ads
+C101802,"2023-09-03",Male,"16-18",Delhi,School Partnership
+C101803,"2022-01-03",Male,"10-12",Chennai,FB Ads
+C101804,"2022-10-11",Male,"16-18",Hyderabad,Organic
+C101805,"2024-05-29",Female,"13-15",Bengaluru,Referral
+C101806,"2022-05-29",Female,"10-12",Vijayawada,Organic
+C101807,"2022-05-14",Male,"16-18",Vijayawada,Google Ads
+C101808,"2023-07-08",Male,"10-12",Rajahmundry,School Partnership
+C101809,"2022-09-14",Male,"16-18",Chennai,Google Ads
+C101810,"2024-03-28",Female,"10-12",Delhi,FB Ads
+C101811,"2022-06-28",Female,"16-18",Delhi,FB Ads
+C101812,"2022-04-23",Male,"10-12",Rajahmundry,FB Ads
+C101813,"2023-11-08",Male,"13-15",Bengaluru,FB Ads
+C101814,"2024-06-06",Male,"16-18",Hyderabad,Google Ads
+C101815,"2022-01-27",Other,"16-18",Hyderabad,Google Ads
+C101816,"2022-05-15",Male,"16-18",Chennai,Google Ads
+C101817,"2022-01-16",Female,"16-18",Rajahmundry,Organic
+C101818,"2023-01-02",Female,"16-18",Rajahmundry,FB Ads
+C101819,"2024-03-19",Male,"10-12",Bengaluru,Google Ads
+C101820,"2024-03-18",Male,"10-12",Hyderabad,FB Ads
+C101821,"2022-09-01",Male,"10-12",Rajahmundry,FB Ads
+C101822,"2023-08-26",Female,"13-15",Delhi,Google Ads
+C101823,"2022-11-28",Female,"13-15",Chennai,Google Ads
+C101824,"2022-01-17",Female,"13-15",Hyderabad,FB Ads
+C101825,"2022-06-28",Female,"10-12",Bengaluru,Referral
+C101826,"2022-09-29",Male,"13-15",Chennai,Organic
+C101827,"2022-02-23",Other,"10-12",Vijayawada,School Partnership
+C101828,"2022-05-10",Female,"13-15",Delhi,Organic
+C101829,"2024-01-30",Male,"13-15",Bengaluru,Organic
+C101830,"2023-03-08",Other,"16-18",Chennai,Referral
+C101831,"2023-06-23",Female,"13-15",Rajahmundry,Organic
+C101832,"2022-04-27",Female,"13-15",Vijayawada,Google Ads
+C101833,"2024-02-03",Female,"10-12",Bengaluru,Referral
+C101834,"2022-03-07",Female,"13-15",Rajahmundry,Referral
+C101835,"2023-05-03",Female,"10-12",Delhi,School Partnership
+C101836,"2023-04-05",Male,"13-15",Vijayawada,Organic
+C101837,"2024-03-07",Male,"13-15",Hyderabad,Google Ads
+C101838,"2023-01-06",Female,"10-12",Rajahmundry,Organic
+C101839,"2023-06-10",Male,"10-12",Chennai,FB Ads
+C101840,"2023-08-31",Male,"16-18",Bengaluru,Referral
+C101841,"2022-04-22",Male,"16-18",Vijayawada,FB Ads
+C101842,"2023-04-08",Male,"13-15",Rajahmundry,FB Ads
+C101843,"2023-05-31",Female,"10-12",Hyderabad,FB Ads
+C101844,"2022-08-15",Female,"10-12",Bengaluru,Google Ads
+C101845,"2023-09-22",Male,"13-15",Bengaluru,School Partnership
+C101846,"2022-02-14",Male,"16-18",Rajahmundry,Organic
+C101847,"2024-01-15",Male,"10-12",Hyderabad,FB Ads
+C101848,"2024-03-13",Female,"16-18",Delhi,Referral
+C101849,"2024-06-06",Female,"10-12",Delhi,FB Ads
+C101850,"2023-11-06",Male,"16-18",Vijayawada,Organic
+C101851,"2023-06-18",Female,"13-15",Rajahmundry,FB Ads
+C101852,"2022-11-05",Female,"16-18",Vijayawada,Organic
+C101853,"2023-04-15",Female,"13-15",Delhi,Organic
+C101854,"2023-10-21",Female,"13-15",Bengaluru,Referral
+C101855,"2022-02-01",Male,"10-12",Vijayawada,FB Ads
+C101856,"2022-03-04",Female,"10-12",Hyderabad,School Partnership
+C101857,"2023-05-06",Male,"16-18",Chennai,Referral
+C101858,"2024-05-17",Female,"16-18",Delhi,Google Ads
+C101859,"2023-02-16",Female,"16-18",Delhi,Organic
+C101860,"2023-03-13",Female,"13-15",Hyderabad,FB Ads
+C101861,"2023-12-04",Female,"16-18",Vijayawada,Organic
+C101862,"2022-04-21",Male,"10-12",Rajahmundry,School Partnership
+C101863,"2023-05-18",Female,"13-15",Bengaluru,Organic
+C101864,"2023-12-31",Other,"13-15",Chennai,Organic
+C101865,"2023-03-31",Female,"13-15",Rajahmundry,FB Ads
+C101866,"2022-03-17",Male,"13-15",Rajahmundry,Organic
+C101867,"2022-03-24",Male,"10-12",Hyderabad,Organic
+C101868,"2022-11-26",Male,"13-15",Vijayawada,FB Ads
+C101869,"2023-09-15",Female,"16-18",Delhi,Organic
+C101870,"2022-06-01",Female,"13-15",Delhi,Organic
+C101871,"2022-03-09",Male,"10-12",Hyderabad,FB Ads
+C101872,"2022-05-10",Female,"10-12",Vijayawada,Google Ads
+C101873,"2022-10-09",Female,"10-12",Hyderabad,FB Ads
+C101874,"2023-10-02",Female,"10-12",Delhi,FB Ads
+C101875,"2023-10-11",Female,"13-15",Rajahmundry,FB Ads
+C101876,"2023-08-23",Female,"13-15",Bengaluru,FB Ads
+C101877,"2023-07-16",Female,"13-15",Vijayawada,School Partnership
+C101878,"2023-12-31",Male,"13-15",Chennai,Organic
+C101879,"2022-11-29",Female,"16-18",Chennai,Google Ads
+C101880,"2023-01-26",Female,"10-12",Rajahmundry,Referral
+C101881,"2023-09-04",Female,"13-15",Hyderabad,Referral
+C101882,"2023-06-28",Female,"16-18",Hyderabad,Organic
+C101883,"2022-10-29",Female,"10-12",Delhi,Organic
+C101884,"2023-04-10",Male,"10-12",Rajahmundry,Google Ads
+C101885,"2023-06-02",Male,"16-18",Delhi,Organic
+C101886,"2023-09-12",Male,"13-15",Delhi,Referral
+C101887,"2023-03-17",Male,"13-15",Chennai,Google Ads
+C101888,"2022-04-12",Female,"10-12",Delhi,Google Ads
+C101889,"2024-03-23",Other,"13-15",Delhi,Organic
+C101890,"2023-12-20",Male,"13-15",Chennai,Google Ads
+C101891,"2022-04-28",Male,"10-12",Hyderabad,Google Ads
+C101892,"2024-05-23",Female,"13-15",Vijayawada,Referral
+C101893,"2023-11-02",Male,"10-12",Bengaluru,Organic
+C101894,"2023-10-29",Female,"13-15",Delhi,Organic
+C101895,"2024-06-17",Female,"10-12",Vijayawada,FB Ads
+C101896,"2024-02-27",Female,"10-12",Chennai,Organic
+C101897,"2023-07-19",Male,"10-12",Vijayawada,FB Ads
+C101898,"2024-01-09",Male,"10-12",Bengaluru,School Partnership
+C101899,"2024-06-05",Female,"16-18",Vijayawada,FB Ads
+C101900,"2022-08-09",Female,"10-12",Vijayawada,Referral
+C101901,"2023-03-17",Male,"13-15",Vijayawada,Organic
+C101902,"2023-04-08",Female,"10-12",Vijayawada,Organic
+C101903,"2022-08-22",Male,"13-15",Rajahmundry,Organic
+C101904,"2023-02-28",Female,"16-18",Delhi,Organic
+C101905,"2022-12-14",Male,"10-12",Chennai,School Partnership
+C101906,"2024-04-27",Female,"16-18",Bengaluru,Organic
+C101907,"2023-04-10",Male,"10-12",Chennai,Google Ads
+C101908,"2023-02-13",Male,"13-15",Rajahmundry,FB Ads
+C101909,"2023-03-02",Male,"13-15",Rajahmundry,School Partnership
+C101910,"2024-01-18",Male,"16-18",Rajahmundry,Organic
+C101911,"2022-04-08",Female,"13-15",Delhi,Organic
+C101912,"2022-11-17",Other,"13-15",Rajahmundry,Organic
+C101913,"2023-03-14",Male,"10-12",Vijayawada,FB Ads
+C101914,"2022-11-17",Male,"10-12",Chennai,Organic
+C101915,"2023-11-13",Female,"16-18",Hyderabad,Referral
+C101916,"2022-09-19",Female,"13-15",Bengaluru,Google Ads
+C101917,"2023-01-19",Female,"13-15",Rajahmundry,Google Ads
+C101918,"2022-06-06",Male,"16-18",Chennai,FB Ads
+C101919,"2023-12-05",Male,"13-15",Rajahmundry,Organic
+C101920,"2023-05-01",Female,"16-18",Delhi,FB Ads
+C101921,"2022-03-10",Male,"13-15",Rajahmundry,School Partnership
+C101922,"2022-04-04",Female,"13-15",Rajahmundry,Referral
+C101923,"2024-05-01",Male,"16-18",Rajahmundry,Referral
+C101924,"2022-03-29",Female,"10-12",Rajahmundry,Referral
+C101925,"2022-04-06",Male,"10-12",Bengaluru,Organic
+C101926,"2023-03-19",Female,"13-15",Chennai,Organic
+C101927,"2022-04-09",Female,"10-12",Delhi,Organic
+C101928,"2024-02-02",Female,"13-15",Rajahmundry,Organic
+C101929,"2024-01-27",Male,"16-18",Rajahmundry,Organic
+C101930,"2023-01-17",Female,"13-15",Rajahmundry,FB Ads
+C101931,"2024-04-11",Female,"13-15",Rajahmundry,Google Ads
+C101932,"2022-05-14",Female,"16-18",Vijayawada,Referral
+C101933,"2023-07-24",Female,"13-15",Vijayawada,Google Ads
+C101934,"2022-03-03",Female,"13-15",Hyderabad,School Partnership
+C101935,"2023-08-24",Female,"13-15",Rajahmundry,Organic
+C101936,"2023-07-30",Male,"16-18",Hyderabad,Organic
+C101937,"2023-07-30",Female,"13-15",Bengaluru,Google Ads
+C101938,"2022-12-04",Female,"16-18",Hyderabad,Organic
+C101939,"2023-11-18",Male,"16-18",Chennai,Organic
+C101940,"2022-05-06",Male,"13-15",Vijayawada,Organic
+C101941,"2023-02-25",Male,"13-15",Vijayawada,Organic
+C101942,"2022-12-29",Female,"16-18",Rajahmundry,FB Ads
+C101943,"2024-06-13",Female,"13-15",Rajahmundry,FB Ads
+C101944,"2023-11-13",Female,"16-18",Bengaluru,FB Ads
+C101945,"2024-02-08",Female,"16-18",Delhi,Google Ads
+C101946,"2023-03-10",Male,"13-15",Bengaluru,FB Ads
+C101947,"2024-06-07",Male,"13-15",Chennai,Organic
+C101948,"2024-01-09",Male,"16-18",Rajahmundry,Organic
+C101949,"2022-02-22",Male,"16-18",Rajahmundry,Organic
+C101950,"2022-10-22",Male,"13-15",Bengaluru,Google Ads
+C101951,"2023-09-07",Male,"10-12",Bengaluru,Google Ads
+C101952,"2022-11-16",Female,"13-15",Bengaluru,Google Ads
+C101953,"2022-12-27",Female,"13-15",Vijayawada,Organic
+C101954,"2022-04-17",Other,"13-15",Hyderabad,FB Ads
+C101955,"2023-08-15",Female,"13-15",Hyderabad,FB Ads
+C101956,"2023-06-04",Female,"13-15",Rajahmundry,FB Ads
+C101957,"2022-08-06",Male,"13-15",Vijayawada,FB Ads
+C101958,"2022-06-08",Female,"10-12",Bengaluru,FB Ads
+C101959,"2023-11-04",Female,"13-15",Rajahmundry,FB Ads
+C101960,"2023-05-09",Male,"13-15",Vijayawada,Google Ads
+C101961,"2022-08-18",Male,"10-12",Chennai,Organic
+C101962,"2024-05-17",Female,"10-12",Delhi,Google Ads
+C101963,"2022-04-21",Male,"13-15",Vijayawada,Organic
+C101964,"2022-12-25",Female,"13-15",Rajahmundry,Organic
+C101965,"2024-05-15",Female,"10-12",Hyderabad,School Partnership
+C101966,"2023-07-24",Male,"16-18",Bengaluru,School Partnership
+C101967,"2023-01-12",Male,"13-15",Delhi,Organic
+C101968,"2022-04-28",Male,"16-18",Chennai,FB Ads
+C101969,"2024-02-20",Male,"13-15",Delhi,Organic
+C101970,"2022-10-13",Male,"13-15",Delhi,FB Ads
+C101971,"2023-08-11",Female,"16-18",Vijayawada,Referral
+C101972,"2022-08-20",Male,"13-15",Rajahmundry,School Partnership
+C101973,"2024-04-06",Female,"13-15",Rajahmundry,Google Ads
+C101974,"2023-03-16",Male,"10-12",Delhi,FB Ads
+C101975,"2024-05-15",Female,"13-15",Bengaluru,Google Ads
+C101976,"2023-07-29",Male,"10-12",Rajahmundry,Organic
+C101977,"2024-02-25",Male,"10-12",Delhi,School Partnership
+C101978,"2024-04-18",Female,"10-12",Rajahmundry,Referral
+C101979,"2023-09-29",Female,"10-12",Bengaluru,FB Ads
+C101980,"2023-09-21",Male,"16-18",Chennai,Organic
+C101981,"2023-11-23",Female,"10-12",Delhi,Organic
+C101982,"2023-10-21",Male,"13-15",Hyderabad,Organic
+C101983,"2023-07-25",Female,"16-18",Hyderabad,Referral
+C101984,"2022-01-27",Male,"13-15",Delhi,FB Ads
+C101985,"2023-09-16",Male,"10-12",Vijayawada,Organic
+C101986,"2023-11-05",Female,"13-15",Chennai,FB Ads
+C101987,"2024-04-29",Female,"13-15",Vijayawada,Referral
+C101988,"2023-12-12",Male,"13-15",Hyderabad,Organic
+C101989,"2022-10-01",Female,"16-18",Bengaluru,Referral
+C101990,"2022-01-30",Female,"16-18",Delhi,Referral
+C101991,"2022-07-04",Male,"13-15",Rajahmundry,School Partnership
+C101992,"2022-10-07",Female,"13-15",Hyderabad,FB Ads
+C101993,"2023-12-21",Male,"13-15",Chennai,Organic
+C101994,"2024-02-20",Female,"10-12",Hyderabad,FB Ads
+C101995,"2022-11-13",Female,"16-18",Chennai,Organic
+C101996,"2022-12-14",Female,"10-12",Chennai,Organic
+C101997,"2022-12-26",Male,"13-15",Delhi,Google Ads
+C101998,"2022-01-07",Male,"16-18",Chennai,FB Ads
+C101999,"2022-07-05",Male,"13-15",Vijayawada,Referral
+C102000,"2024-06-09",Male,"13-15",Bengaluru,Organic
+C102001,"2022-05-27",Male,"13-15",Hyderabad,Google Ads
+C102002,"2023-08-03",Female,"16-18",Bengaluru,Google Ads
+C102003,"2023-11-05",Male,"13-15",Rajahmundry,Google Ads
+C102004,"2023-02-15",Male,"16-18",Hyderabad,Referral
+C102005,"2022-03-13",Female,"10-12",Bengaluru,Google Ads
+C102006,"2022-05-26",Male,"16-18",Bengaluru,School Partnership
+C102007,"2024-01-29",Female,"16-18",Delhi,Organic
+C102008,"2023-10-11",Male,"10-12",Delhi,FB Ads
+C102009,"2022-02-01",Female,"13-15",Rajahmundry,Organic
+C102010,"2022-04-04",Male,"10-12",Chennai,Organic
+C102011,"2024-02-04",Male,"13-15",Hyderabad,Organic
+C102012,"2023-06-28",Female,"13-15",Delhi,Organic
+C102013,"2022-08-09",Male,"13-15",Hyderabad,Organic
+C102014,"2023-01-21",Female,"10-12",Rajahmundry,Organic
+C102015,"2023-03-06",Male,"10-12",Delhi,Organic
+C102016,"2023-04-10",Male,"10-12",Delhi,School Partnership
+C102017,"2022-12-16",Female,"13-15",Chennai,Organic
+C102018,"2022-06-11",Male,"13-15",Hyderabad,Google Ads
+C102019,"2023-01-14",Female,"16-18",Hyderabad,Organic
+C102020,"2022-11-16",Other,"13-15",Hyderabad,School Partnership
+C102021,"2024-01-09",Female,"13-15",Chennai,Referral
+C102022,"2022-11-29",Female,"16-18",Delhi,Google Ads
+C102023,"2024-03-06",Male,"13-15",Rajahmundry,Google Ads
+C102024,"2023-08-05",Male,"16-18",Hyderabad,Organic
+C102025,"2023-09-03",Male,"13-15",Bengaluru,School Partnership
+C102026,"2022-03-28",Female,"10-12",Chennai,Referral
+C102027,"2022-02-23",Other,"10-12",Vijayawada,Referral
+C102028,"2022-06-09",Male,"13-15",Rajahmundry,Google Ads
+C102029,"2022-06-11",Female,"10-12",Bengaluru,Organic
+C102030,"2024-02-12",Male,"13-15",Hyderabad,Referral
+C102031,"2023-09-25",Female,"13-15",Vijayawada,Organic
+C102032,"2022-02-20",Male,"13-15",Rajahmundry,FB Ads
+C102033,"2023-11-22",Other,"13-15",Chennai,Organic
+C102034,"2022-03-25",Female,"10-12",Vijayawada,School Partnership
+C102035,"2022-10-06",Male,"13-15",Delhi,Organic
+C102036,"2023-03-30",Male,"13-15",Vijayawada,Organic
+C102037,"2023-11-09",Male,"16-18",Bengaluru,FB Ads
+C102038,"2023-03-11",Male,"13-15",Rajahmundry,Google Ads
+C102039,"2023-05-13",Male,"16-18",Bengaluru,Google Ads
+C102040,"2023-09-14",Female,"16-18",Bengaluru,Organic
+C102041,"2023-03-29",Female,"13-15",Hyderabad,Organic
+C102042,"2023-03-01",Female,"10-12",Chennai,Google Ads
+C102043,"2022-10-07",Male,"13-15",Vijayawada,School Partnership
+C102044,"2022-08-09",Female,"13-15",Rajahmundry,Referral
+C102045,"2024-02-13",Female,"13-15",Delhi,FB Ads
+C102046,"2023-06-09",Male,"13-15",Chennai,School Partnership
+C102047,"2022-04-27",Female,"13-15",Chennai,FB Ads
+C102048,"2022-12-20",Female,"13-15",Rajahmundry,FB Ads
+C102049,"2023-03-17",Male,"13-15",Chennai,FB Ads
+C102050,"2022-04-24",Male,"10-12",Hyderabad,FB Ads
+C102051,"2022-10-18",Female,"16-18",Chennai,Google Ads
+C102052,"2023-11-26",Male,"10-12",Hyderabad,FB Ads
+C102053,"2023-11-26",Female,"10-12",Vijayawada,Organic
+C102054,"2023-08-31",Female,"13-15",Vijayawada,Organic
+C102055,"2023-05-14",Female,"13-15",Bengaluru,Organic
+C102056,"2023-06-24",Male,"13-15",Hyderabad,FB Ads
+C102057,"2023-11-15",Male,"10-12",Delhi,Organic
+C102058,"2022-11-12",Female,"13-15",Vijayawada,Organic
+C102059,"2022-02-16",Female,"13-15",Chennai,Google Ads
+C102060,"2022-08-14",Male,"16-18",Rajahmundry,Google Ads
+C102061,"2023-02-09",Female,"16-18",Rajahmundry,Google Ads
+C102062,"2023-09-06",Female,"13-15",Hyderabad,FB Ads
+C102063,"2022-02-26",Male,"13-15",Delhi,Referral
+C102064,"2022-01-08",Male,"13-15",Bengaluru,School Partnership
+C102065,"2022-07-29",Female,"10-12",Chennai,Referral
+C102066,"2022-11-05",Male,"13-15",Hyderabad,Google Ads
+C102067,"2022-08-05",Male,"13-15",Rajahmundry,Organic
+C102068,"2024-02-25",Male,"16-18",Hyderabad,School Partnership
+C102069,"2022-05-21",Male,"10-12",Chennai,Organic
+C102070,"2024-02-22",Female,"13-15",Delhi,Organic
+C102071,"2022-09-19",Female,"13-15",Delhi,FB Ads
+C102072,"2022-10-24",Male,"13-15",Vijayawada,Organic
+C102073,"2022-12-02",Female,"10-12",Chennai,School Partnership
+C102074,"2022-05-03",Female,"16-18",Vijayawada,FB Ads
+C102075,"2022-01-08",Female,"13-15",Vijayawada,FB Ads
+C102076,"2023-05-25",Male,"13-15",Vijayawada,Google Ads
+C102077,"2024-02-04",Male,"10-12",Hyderabad,FB Ads
+C102078,"2023-03-17",Other,"13-15",Rajahmundry,Organic
+C102079,"2022-06-29",Female,"13-15",Delhi,Google Ads
+C102080,"2022-05-13",Male,"10-12",Hyderabad,Google Ads
+C102081,"2023-01-25",Male,"10-12",Rajahmundry,FB Ads
+C102082,"2023-06-30",Male,"16-18",Delhi,Google Ads
+C102083,"2023-12-22",Female,"10-12",Chennai,Organic
+C102084,"2022-08-24",Female,"10-12",Delhi,Organic
+C102085,"2023-05-28",Female,"13-15",Delhi,Organic
+C102086,"2023-07-27",Male,"16-18",Delhi,FB Ads
+C102087,"2024-05-03",Female,"10-12",Bengaluru,Referral
+C102088,"2023-11-16",Female,"13-15",Chennai,Referral
+C102089,"2024-04-05",Male,"10-12",Hyderabad,FB Ads
+C102090,"2022-12-29",Female,"10-12",Hyderabad,FB Ads
+C102091,"2022-03-15",Other,"10-12",Rajahmundry,Google Ads
+C102092,"2023-02-11",Male,"16-18",Hyderabad,Organic
+C102093,"2024-06-01",Female,"10-12",Vijayawada,Organic
+C102094,"2024-01-30",Male,"10-12",Delhi,School Partnership
+C102095,"2022-02-13",Female,"13-15",Hyderabad,Google Ads
+C102096,"2023-03-23",Female,"16-18",Rajahmundry,School Partnership
+C102097,"2022-01-20",Female,"10-12",Rajahmundry,Organic
+C102098,"2023-04-16",Female,"13-15",Vijayawada,Google Ads
+C102099,"2022-03-21",Male,"10-12",Rajahmundry,Organic
+C102100,"2024-06-01",Female,"13-15",Bengaluru,Organic
+C102101,"2022-11-17",Female,"13-15",Delhi,FB Ads
+C102102,"2023-08-13",Male,"13-15",Delhi,Organic
+C102103,"2023-03-16",Female,"13-15",Delhi,Organic
+C102104,"2023-08-11",Female,"13-15",Chennai,Organic
+C102105,"2023-02-19",Male,"10-12",Hyderabad,Organic
+C102106,"2023-12-28",Female,"13-15",Bengaluru,Google Ads
+C102107,"2023-10-18",Female,"10-12",Hyderabad,FB Ads
+C102108,"2023-03-04",Male,"16-18",Bengaluru,Organic
+C102109,"2022-10-24",Other,"16-18",Hyderabad,Organic
+C102110,"2022-04-28",Male,"16-18",Vijayawada,Organic
+C102111,"2023-02-19",Male,"16-18",Rajahmundry,Google Ads
+C102112,"2022-01-22",Male,"13-15",Rajahmundry,Organic
+C102113,"2022-11-29",Female,"13-15",Vijayawada,Google Ads
+C102114,"2022-06-25",Female,"10-12",Bengaluru,Organic
+C102115,"2024-03-31",Male,"13-15",Chennai,Organic
+C102116,"2023-09-25",Male,"13-15",Bengaluru,Referral
+C102117,"2023-04-17",Female,"13-15",Rajahmundry,Google Ads
+C102118,"2024-05-01",Male,"16-18",Chennai,Organic
+C102119,"2023-12-08",Female,"10-12",Hyderabad,Referral
+C102120,"2023-01-06",Female,"13-15",Chennai,FB Ads
+C102121,"2022-04-01",Female,"16-18",Bengaluru,Referral
+C102122,"2023-03-24",Other,"10-12",Vijayawada,Google Ads
+C102123,"2024-05-14",Male,"13-15",Hyderabad,Google Ads
+C102124,"2022-04-19",Other,"16-18",Bengaluru,School Partnership
+C102125,"2022-09-07",Female,"13-15",Hyderabad,Organic
+C102126,"2023-03-23",Female,"13-15",Chennai,Google Ads
+C102127,"2023-08-27",Male,"10-12",Rajahmundry,FB Ads
+C102128,"2023-02-15",Female,"13-15",Bengaluru,Organic
+C102129,"2023-06-21",Male,"16-18",Vijayawada,Organic
+C102130,"2022-03-22",Male,"13-15",Chennai,Organic
+C102131,"2023-02-10",Male,"13-15",Bengaluru,Google Ads
+C102132,"2024-06-10",Female,"10-12",Vijayawada,FB Ads
+C102133,"2022-11-14",Female,"10-12",Bengaluru,FB Ads
+C102134,"2024-02-03",Female,"16-18",Chennai,Organic
+C102135,"2022-12-14",Female,"13-15",Bengaluru,FB Ads
+C102136,"2022-08-15",Male,"13-15",Hyderabad,School Partnership
+C102137,"2022-12-08",Female,"10-12",Chennai,FB Ads
+C102138,"2024-03-08",Male,"13-15",Bengaluru,Google Ads
+C102139,"2022-06-22",Female,"16-18",Rajahmundry,Google Ads
+C102140,"2022-03-20",Female,"13-15",Bengaluru,Google Ads
+C102141,"2023-06-07",Female,"10-12",Hyderabad,FB Ads
+C102142,"2023-10-11",Female,"13-15",Vijayawada,Referral
+C102143,"2022-04-27",Male,"16-18",Vijayawada,FB Ads
+C102144,"2023-06-28",Male,"13-15",Vijayawada,Referral
+C102145,"2023-06-07",Female,"16-18",Rajahmundry,Organic
+C102146,"2022-07-18",Male,"13-15",Hyderabad,Organic
+C102147,"2024-03-05",Male,"16-18",Chennai,Organic
+C102148,"2022-12-24",Female,"13-15",Vijayawada,Google Ads
+C102149,"2022-12-26",Female,"10-12",Hyderabad,FB Ads
+C102150,"2024-01-15",Male,"13-15",Bengaluru,Organic
+C102151,"2024-04-18",Male,"10-12",Rajahmundry,Organic
+C102152,"2023-10-23",Female,"16-18",Hyderabad,School Partnership
+C102153,"2024-04-14",Female,"16-18",Hyderabad,Referral
+C102154,"2022-06-01",Male,"13-15",Chennai,FB Ads
+C102155,"2022-08-30",Male,"13-15",Hyderabad,Google Ads
+C102156,"2022-04-16",Male,"10-12",Chennai,FB Ads
+C102157,"2022-05-30",Male,"16-18",Rajahmundry,FB Ads
+C102158,"2022-09-20",Male,"13-15",Rajahmundry,School Partnership
+C102159,"2022-07-22",Female,"10-12",Bengaluru,Organic
+C102160,"2022-06-27",Female,"13-15",Chennai,FB Ads
+C102161,"2023-09-09",Female,"10-12",Chennai,Organic
+C102162,"2022-06-06",Male,"13-15",Vijayawada,FB Ads
+C102163,"2024-02-18",Female,"13-15",Vijayawada,FB Ads
+C102164,"2024-02-17",Male,"10-12",Bengaluru,FB Ads
+C102165,"2023-11-03",Other,"16-18",Rajahmundry,Organic
+C102166,"2022-03-19",Female,"10-12",Delhi,FB Ads
+C102167,"2022-07-01",Male,"10-12",Vijayawada,Organic
+C102168,"2024-03-02",Female,"10-12",Hyderabad,Organic
+C102169,"2023-10-06",Male,"16-18",Rajahmundry,Organic
+C102170,"2023-05-21",Female,"13-15",Delhi,Google Ads
+C102171,"2023-04-21",Male,"13-15",Hyderabad,FB Ads
+C102172,"2024-02-12",Male,"10-12",Chennai,Google Ads
+C102173,"2023-08-01",Female,"10-12",Rajahmundry,Google Ads
+C102174,"2024-02-18",Male,"13-15",Bengaluru,Google Ads
+C102175,"2023-08-17",Female,"16-18",Chennai,FB Ads
+C102176,"2023-04-05",Male,"16-18",Chennai,FB Ads
+C102177,"2023-11-29",Female,"10-12",Hyderabad,FB Ads
+C102178,"2023-08-02",Female,"13-15",Chennai,Google Ads
+C102179,"2023-10-21",Female,"16-18",Vijayawada,FB Ads
+C102180,"2023-10-13",Male,"13-15",Rajahmundry,Referral
+C102181,"2023-10-02",Male,"16-18",Vijayawada,Referral
+C102182,"2022-11-27",Male,"10-12",Hyderabad,Organic
+C102183,"2024-06-03",Male,"16-18",Delhi,Organic
+C102184,"2023-10-05",Female,"16-18",Hyderabad,Google Ads
+C102185,"2022-11-20",Female,"16-18",Rajahmundry,Organic
+C102186,"2022-06-04",Female,"13-15",Chennai,Organic
+C102187,"2023-03-27",Female,"13-15",Bengaluru,Referral
+C102188,"2022-03-11",Female,"16-18",Hyderabad,Organic
+C102189,"2023-04-26",Female,"10-12",Rajahmundry,School Partnership
+C102190,"2023-03-29",Male,"13-15",Bengaluru,Google Ads
+C102191,"2023-10-09",Female,"13-15",Chennai,Google Ads
+C102192,"2022-11-07",Female,"16-18",Delhi,Organic
+C102193,"2024-03-26",Female,"16-18",Hyderabad,Organic
+C102194,"2022-10-09",Male,"10-12",Delhi,FB Ads
+C102195,"2023-08-29",Male,"16-18",Rajahmundry,Organic
+C102196,"2022-02-27",Male,"13-15",Delhi,Organic
+C102197,"2022-12-27",Female,"10-12",Delhi,Organic
+C102198,"2023-06-04",Female,"13-15",Rajahmundry,Organic
+C102199,"2022-03-17",Male,"10-12",Rajahmundry,Organic
+C102200,"2022-11-14",Other,"13-15",Hyderabad,Google Ads
+C102201,"2023-04-18",Male,"16-18",Delhi,Organic
+C102202,"2023-04-08",Male,"13-15",Bengaluru,Organic
+C102203,"2022-02-08",Male,"13-15",Rajahmundry,Google Ads
+C102204,"2022-02-28",Female,"16-18",Chennai,School Partnership
+C102205,"2023-01-13",Female,"13-15",Delhi,Organic
+C102206,"2024-05-01",Male,"16-18",Rajahmundry,Organic
+C102207,"2022-10-21",Female,"13-15",Bengaluru,FB Ads
+C102208,"2022-03-20",Male,"16-18",Hyderabad,School Partnership
+C102209,"2023-10-23",Female,"10-12",Delhi,Google Ads
+C102210,"2024-06-03",Female,"16-18",Rajahmundry,Google Ads
+C102211,"2024-05-25",Female,"10-12",Rajahmundry,Organic
+C102212,"2022-04-03",Male,"13-15",Chennai,FB Ads
+C102213,"2023-09-22",Other,"16-18",Chennai,Organic
+C102214,"2023-09-01",Female,"13-15",Delhi,Google Ads
+C102215,"2023-06-04",Male,"13-15",Rajahmundry,Google Ads
+C102216,"2023-01-29",Female,"13-15",Delhi,School Partnership
+C102217,"2023-04-19",Male,"13-15",Rajahmundry,Organic
+C102218,"2023-08-18",Female,"10-12",Chennai,Organic
+C102219,"2023-07-22",Male,"10-12",Bengaluru,FB Ads
+C102220,"2024-03-21",Female,"10-12",Vijayawada,Google Ads
+C102221,"2024-01-27",Female,"13-15",Vijayawada,Google Ads
+C102222,"2022-02-12",Male,"10-12",Rajahmundry,Organic
+C102223,"2023-04-06",Male,"13-15",Chennai,Organic
+C102224,"2024-04-09",Male,"13-15",Hyderabad,FB Ads
+C102225,"2023-08-09",Male,"10-12",Hyderabad,Organic
+C102226,"2023-10-30",Male,"13-15",Vijayawada,Referral
+C102227,"2022-07-12",Female,"16-18",Bengaluru,FB Ads
+C102228,"2022-11-26",Male,"10-12",Vijayawada,Google Ads
+C102229,"2023-09-12",Male,"13-15",Rajahmundry,FB Ads
+C102230,"2023-05-03",Female,"13-15",Bengaluru,Google Ads
+C102231,"2023-05-29",Male,"13-15",Hyderabad,Organic
+C102232,"2022-06-04",Female,"13-15",Chennai,Referral
+C102233,"2022-03-05",Female,"13-15",Chennai,Organic
+C102234,"2023-04-07",Female,"13-15",Rajahmundry,FB Ads
+C102235,"2022-04-16",Female,"10-12",Vijayawada,Organic
+C102236,"2024-04-10",Female,"13-15",Rajahmundry,FB Ads
+C102237,"2024-05-07",Male,"13-15",Chennai,Organic
+C102238,"2022-12-18",Male,"10-12",Hyderabad,Organic
+C102239,"2024-01-02",Male,"13-15",Chennai,School Partnership
+C102240,"2022-03-28",Female,"16-18",Bengaluru,Organic
+C102241,"2023-06-01",Male,"13-15",Delhi,Google Ads
+C102242,"2023-10-24",Female,"13-15",Chennai,School Partnership
+C102243,"2022-06-26",Other,"16-18",Chennai,Organic
+C102244,"2022-02-10",Female,"13-15",Delhi,Google Ads
+C102245,"2022-09-11",Female,"13-15",Bengaluru,Organic
+C102246,"2023-12-26",Male,"16-18",Vijayawada,Organic
+C102247,"2023-03-25",Female,"16-18",Chennai,FB Ads
+C102248,"2023-03-26",Female,"13-15",Rajahmundry,School Partnership
+C102249,"2023-06-21",Male,"13-15",Chennai,Organic
+C102250,"2023-06-20",Male,"13-15",Rajahmundry,FB Ads
+C102251,"2023-09-17",Female,"16-18",Bengaluru,FB Ads
+C102252,"2022-06-12",Female,"13-15",Chennai,Referral
+C102253,"2023-01-08",Female,"10-12",Bengaluru,Organic
+C102254,"2023-01-17",Female,"16-18",Bengaluru,Google Ads
+C102255,"2022-10-17",Female,"13-15",Vijayawada,Google Ads
+C102256,"2023-02-01",Female,"10-12",Chennai,Google Ads
+C102257,"2023-02-23",Male,"13-15",Rajahmundry,School Partnership
+C102258,"2024-03-04",Male,"13-15",Rajahmundry,Referral
+C102259,"2022-12-13",Male,"16-18",Chennai,Organic
+C102260,"2023-11-27",Female,"10-12",Delhi,FB Ads
+C102261,"2023-09-05",Female,"16-18",Vijayawada,FB Ads
+C102262,"2022-02-23",Female,"13-15",Vijayawada,Organic
+C102263,"2024-03-19",Male,"10-12",Vijayawada,FB Ads
+C102264,"2023-10-09",Female,"16-18",Rajahmundry,FB Ads
+C102265,"2023-10-25",Female,"13-15",Bengaluru,FB Ads
+C102266,"2022-12-09",Female,"10-12",Delhi,School Partnership
+C102267,"2022-03-09",Female,"13-15",Vijayawada,Organic
+C102268,"2022-12-04",Male,"16-18",Rajahmundry,School Partnership
+C102269,"2022-04-07",Female,"13-15",Rajahmundry,FB Ads
+C102270,"2023-07-26",Male,"10-12",Bengaluru,Google Ads
+C102271,"2023-11-26",Male,"10-12",Chennai,Referral
+C102272,"2023-01-31",Female,"10-12",Chennai,FB Ads
+C102273,"2022-10-18",Female,"16-18",Vijayawada,FB Ads
+C102274,"2022-09-16",Female,"13-15",Vijayawada,FB Ads
+C102275,"2024-01-12",Female,"10-12",Delhi,FB Ads
+C102276,"2024-05-22",Female,"10-12",Bengaluru,School Partnership
+C102277,"2023-11-04",Female,"13-15",Vijayawada,Referral
+C102278,"2023-09-10",Female,"16-18",Bengaluru,Organic
+C102279,"2024-06-13",Male,"13-15",Rajahmundry,Organic
+C102280,"2022-06-03",Male,"16-18",Vijayawada,FB Ads
+C102281,"2022-12-08",Male,"13-15",Rajahmundry,Organic
+C102282,"2022-03-25",Male,"10-12",Hyderabad,Google Ads
+C102283,"2023-08-20",Male,"16-18",Bengaluru,Organic
+C102284,"2023-11-11",Male,"13-15",Hyderabad,FB Ads
+C102285,"2022-05-25",Male,"13-15",Vijayawada,Organic
+C102286,"2022-12-25",Other,"16-18",Rajahmundry,Organic
+C102287,"2022-11-14",Male,"10-12",Vijayawada,Google Ads
+C102288,"2023-11-03",Female,"10-12",Hyderabad,FB Ads
+C102289,"2023-12-17",Male,"13-15",Vijayawada,School Partnership
+C102290,"2023-11-10",Female,"10-12",Delhi,Referral
+C102291,"2023-02-06",Male,"10-12",Chennai,FB Ads
+C102292,"2022-05-13",Male,"10-12",Hyderabad,Organic
+C102293,"2023-09-02",Female,"10-12",Vijayawada,Referral
+C102294,"2023-12-27",Male,"16-18",Rajahmundry,School Partnership
+C102295,"2022-03-28",Male,"10-12",Vijayawada,Referral
+C102296,"2022-11-14",Male,"13-15",Rajahmundry,Organic
+C102297,"2023-07-27",Male,"13-15",Chennai,School Partnership
+C102298,"2023-01-21",Male,"13-15",Vijayawada,Organic
+C102299,"2023-10-21",Male,"10-12",Chennai,Google Ads
+C102300,"2024-03-21",Female,"16-18",Hyderabad,School Partnership
+C102301,"2022-12-03",Female,"10-12",Rajahmundry,Organic
+C102302,"2024-04-12",Female,"16-18",Delhi,School Partnership
+C102303,"2022-05-11",Male,"16-18",Hyderabad,Organic
+C102304,"2023-11-18",Female,"13-15",Rajahmundry,School Partnership
+C102305,"2023-12-21",Male,"13-15",Chennai,Organic
+C102306,"2024-04-28",Male,"13-15",Bengaluru,School Partnership
+C102307,"2024-01-27",Female,"13-15",Vijayawada,Organic
+C102308,"2023-12-03",Male,"16-18",Chennai,Google Ads
+C102309,"2023-06-24",Male,"16-18",Rajahmundry,FB Ads
+C102310,"2022-04-06",Female,"13-15",Rajahmundry,FB Ads
+C102311,"2023-10-24",Female,"13-15",Rajahmundry,Organic
+C102312,"2023-11-18",Female,"16-18",Rajahmundry,Google Ads
+C102313,"2023-03-10",Female,"16-18",Vijayawada,Organic
+C102314,"2023-06-05",Other,"13-15",Hyderabad,FB Ads
+C102315,"2023-01-06",Male,"13-15",Delhi,Organic
+C102316,"2022-01-19",Male,"10-12",Bengaluru,School Partnership
+C102317,"2023-01-07",Male,"16-18",Vijayawada,Organic
+C102318,"2022-11-13",Male,"10-12",Rajahmundry,Organic
+C102319,"2022-07-04",Male,"13-15",Vijayawada,Organic
+C102320,"2022-08-08",Female,"10-12",Chennai,FB Ads
+C102321,"2022-12-16",Female,"10-12",Delhi,Organic
+C102322,"2024-02-24",Female,"13-15",Rajahmundry,FB Ads
+C102323,"2023-05-13",Male,"16-18",Bengaluru,Referral
+C102324,"2022-07-16",Female,"10-12",Rajahmundry,Google Ads
+C102325,"2022-08-20",Female,"13-15",Delhi,FB Ads
+C102326,"2022-05-21",Female,"10-12",Bengaluru,Organic
+C102327,"2022-06-08",Male,"10-12",Delhi,Google Ads
+C102328,"2022-03-21",Female,"13-15",Bengaluru,Organic
+C102329,"2022-10-30",Male,"13-15",Hyderabad,Google Ads
+C102330,"2024-05-14",Male,"10-12",Hyderabad,Organic
+C102331,"2024-03-18",Male,"13-15",Vijayawada,FB Ads
+C102332,"2022-04-14",Female,"10-12",Vijayawada,FB Ads
+C102333,"2023-06-04",Female,"13-15",Bengaluru,Referral
+C102334,"2024-02-29",Male,"16-18",Rajahmundry,Organic
+C102335,"2023-07-07",Male,"16-18",Chennai,FB Ads
+C102336,"2024-05-05",Male,"13-15",Chennai,Organic
+C102337,"2024-01-27",Male,"13-15",Rajahmundry,Google Ads
+C102338,"2023-06-24",Male,"16-18",Rajahmundry,School Partnership
+C102339,"2022-02-08",Male,"10-12",Hyderabad,FB Ads
+C102340,"2023-11-09",Female,"16-18",Chennai,FB Ads
+C102341,"2022-12-11",Male,"16-18",Bengaluru,School Partnership
+C102342,"2024-06-16",Male,"10-12",Delhi,FB Ads
+C102343,"2024-02-24",Male,"10-12",Vijayawada,FB Ads
+C102344,"2023-09-25",Female,"16-18",Delhi,FB Ads
+C102345,"2022-05-15",Female,"13-15",Hyderabad,Google Ads
+C102346,"2023-09-04",Female,"10-12",Chennai,Organic
+C102347,"2023-01-21",Male,"10-12",Rajahmundry,Referral
+C102348,"2022-06-07",Female,"13-15",Chennai,FB Ads
+C102349,"2022-06-16",Male,"13-15",Bengaluru,Organic
+C102350,"2022-07-05",Female,"13-15",Hyderabad,Google Ads
+C102351,"2024-05-01",Female,"16-18",Rajahmundry,FB Ads
+C102352,"2023-12-11",Female,"10-12",Delhi,Organic
+C102353,"2024-02-29",Female,"13-15",Bengaluru,Google Ads
+C102354,"2023-10-02",Female,"13-15",Delhi,Referral
+C102355,"2024-04-08",Male,"13-15",Vijayawada,Referral
+C102356,"2022-06-19",Female,"10-12",Hyderabad,School Partnership
+C102357,"2024-01-09",Male,"16-18",Bengaluru,Referral
+C102358,"2023-03-25",Female,"16-18",Bengaluru,Organic
+C102359,"2022-02-14",Male,"13-15",Delhi,FB Ads
+C102360,"2023-02-25",Male,"13-15",Rajahmundry,Referral
+C102361,"2023-01-09",Male,"10-12",Vijayawada,FB Ads
+C102362,"2023-11-24",Male,"13-15",Delhi,Google Ads
+C102363,"2024-01-07",Female,"13-15",Bengaluru,Google Ads
+C102364,"2022-09-01",Female,"13-15",Hyderabad,FB Ads
+C102365,"2023-03-31",Male,"16-18",Bengaluru,School Partnership
+C102366,"2023-09-18",Male,"13-15",Chennai,FB Ads
+C102367,"2022-10-19",Female,"13-15",Hyderabad,FB Ads
+C102368,"2024-02-10",Male,"16-18",Hyderabad,School Partnership
+C102369,"2024-02-06",Female,"10-12",Bengaluru,FB Ads
+C102370,"2024-03-13",Female,"13-15",Rajahmundry,Organic
+C102371,"2023-04-05",Female,"13-15",Hyderabad,FB Ads
+C102372,"2022-08-28",Female,"13-15",Chennai,Referral
+C102373,"2023-07-01",Male,"16-18",Delhi,Google Ads
+C102374,"2022-09-02",Female,"13-15",Rajahmundry,Google Ads
+C102375,"2022-11-13",Male,"16-18",Rajahmundry,Google Ads
+C102376,"2024-04-08",Male,"13-15",Rajahmundry,Organic
+C102377,"2024-03-14",Female,"13-15",Hyderabad,Referral
+C102378,"2023-04-26",Male,"16-18",Rajahmundry,Referral
+C102379,"2024-05-05",Female,"10-12",Bengaluru,Organic
+C102380,"2022-07-18",Female,"10-12",Rajahmundry,Organic
+C102381,"2023-01-12",Female,"13-15",Chennai,School Partnership
+C102382,"2023-11-26",Female,"10-12",Vijayawada,Referral
+C102383,"2023-08-08",Male,"10-12",Chennai,Referral
+C102384,"2023-03-28",Male,"13-15",Hyderabad,Referral
+C102385,"2023-04-18",Female,"13-15",Rajahmundry,FB Ads
+C102386,"2024-02-27",Male,"13-15",Rajahmundry,Google Ads
+C102387,"2022-10-16",Female,"16-18",Bengaluru,FB Ads
+C102388,"2024-03-07",Female,"13-15",Delhi,Organic
+C102389,"2023-01-27",Female,"16-18",Rajahmundry,Google Ads
+C102390,"2023-05-30",Male,"10-12",Chennai,FB Ads
+C102391,"2023-06-25",Male,"13-15",Hyderabad,Google Ads
+C102392,"2023-03-05",Male,"16-18",Vijayawada,FB Ads
+C102393,"2022-06-15",Male,"13-15",Rajahmundry,FB Ads
+C102394,"2024-04-16",Female,"13-15",Vijayawada,Organic
+C102395,"2022-07-24",Male,"13-15",Rajahmundry,Organic
+C102396,"2024-03-31",Male,"10-12",Hyderabad,Organic
+C102397,"2023-09-12",Male,"13-15",Delhi,Organic
+C102398,"2022-05-22",Female,"13-15",Chennai,School Partnership
+C102399,"2024-06-12",Female,"16-18",Hyderabad,Organic
+C102400,"2022-09-14",Male,"10-12",Vijayawada,Organic
+C102401,"2022-02-23",Male,"16-18",Rajahmundry,FB Ads
+C102402,"2023-10-19",Male,"16-18",Vijayawada,Google Ads
+C102403,"2023-05-08",Male,"10-12",Chennai,Organic
+C102404,"2024-06-14",Female,"13-15",Hyderabad,Google Ads
+C102405,"2023-01-16",Female,"16-18",Vijayawada,Google Ads
+C102406,"2023-07-22",Male,"16-18",Vijayawada,Organic
+C102407,"2022-04-16",Male,"13-15",Chennai,Organic
+C102408,"2023-12-30",Other,"13-15",Rajahmundry,School Partnership
+C102409,"2024-05-16",Male,"13-15",Vijayawada,Referral
+C102410,"2023-06-13",Female,"13-15",Chennai,Google Ads
+C102411,"2024-05-21",Male,"10-12",Rajahmundry,Organic
+C102412,"2022-05-08",Female,"13-15",Delhi,FB Ads
+C102413,"2022-10-19",Male,"10-12",Rajahmundry,FB Ads
+C102414,"2022-03-27",Female,"10-12",Delhi,Organic
+C102415,"2024-02-21",Other,"13-15",Hyderabad,FB Ads
+C102416,"2022-06-14",Male,"13-15",Chennai,Google Ads
+C102417,"2022-10-07",Male,"13-15",Rajahmundry,Organic
+C102418,"2023-04-06",Male,"13-15",Delhi,Google Ads
+C102419,"2023-06-10",Male,"13-15",Delhi,Referral
+C102420,"2022-05-31",Male,"10-12",Hyderabad,Organic
+C102421,"2024-04-30",Male,"13-15",Bengaluru,Referral
+C102422,"2023-03-24",Female,"16-18",Chennai,Organic
+C102423,"2022-04-04",Male,"13-15",Bengaluru,Referral
+C102424,"2022-08-16",Male,"13-15",Rajahmundry,Organic
+C102425,"2024-04-16",Female,"13-15",Chennai,Organic
+C102426,"2023-04-07",Male,"16-18",Hyderabad,Google Ads
+C102427,"2022-12-24",Female,"10-12",Rajahmundry,FB Ads
+C102428,"2022-01-28",Male,"13-15",Chennai,School Partnership
+C102429,"2023-03-01",Female,"13-15",Chennai,FB Ads
+C102430,"2022-02-24",Female,"13-15",Bengaluru,Organic
+C102431,"2023-02-10",Female,"10-12",Rajahmundry,FB Ads
+C102432,"2023-05-30",Other,"13-15",Hyderabad,FB Ads
+C102433,"2023-01-18",Male,"10-12",Hyderabad,Organic
+C102434,"2022-08-30",Other,"13-15",Rajahmundry,Google Ads
+C102435,"2023-01-31",Male,"13-15",Rajahmundry,Google Ads
+C102436,"2022-03-25",Male,"10-12",Delhi,Referral
+C102437,"2023-01-19",Male,"16-18",Vijayawada,School Partnership
+C102438,"2022-08-18",Female,"10-12",Bengaluru,Organic
+C102439,"2022-01-29",Male,"16-18",Rajahmundry,Google Ads
+C102440,"2022-11-23",Female,"13-15",Rajahmundry,FB Ads
+C102441,"2022-04-12",Female,"10-12",Vijayawada,Google Ads
+C102442,"2024-05-09",Female,"10-12",Vijayawada,FB Ads
+C102443,"2024-01-02",Female,"16-18",Chennai,School Partnership
+C102444,"2023-10-28",Male,"10-12",Hyderabad,Google Ads
+C102445,"2022-12-10",Male,"10-12",Bengaluru,School Partnership
+C102446,"2024-03-21",Male,"13-15",Chennai,Referral
+C102447,"2022-05-30",Male,"13-15",Rajahmundry,School Partnership
+C102448,"2022-05-21",Male,"13-15",Vijayawada,Referral
+C102449,"2022-02-09",Male,"10-12",Delhi,FB Ads
+C102450,"2022-10-21",Male,"10-12",Hyderabad,Organic
+C102451,"2024-04-29",Other,"10-12",Chennai,FB Ads
+C102452,"2023-04-29",Female,"10-12",Delhi,Organic
+C102453,"2023-12-14",Male,"13-15",Hyderabad,FB Ads
+C102454,"2024-05-01",Female,"13-15",Delhi,FB Ads
+C102455,"2022-05-23",Male,"10-12",Vijayawada,FB Ads
+C102456,"2024-02-17",Male,"13-15",Chennai,School Partnership
+C102457,"2023-12-24",Female,"13-15",Chennai,School Partnership
+C102458,"2023-04-26",Female,"16-18",Hyderabad,Organic
+C102459,"2023-04-05",Male,"16-18",Delhi,FB Ads
+C102460,"2023-09-23",Other,"16-18",Vijayawada,FB Ads
+C102461,"2022-01-06",Female,"10-12",Rajahmundry,FB Ads
+C102462,"2022-03-23",Female,"10-12",Chennai,Google Ads
+C102463,"2022-01-20",Female,"13-15",Rajahmundry,FB Ads
+C102464,"2022-09-20",Female,"10-12",Vijayawada,FB Ads
+C102465,"2022-08-09",Male,"13-15",Chennai,Referral
+C102466,"2024-05-05",Male,"16-18",Chennai,Referral
+C102467,"2022-06-03",Male,"16-18",Delhi,Organic
+C102468,"2023-07-16",Male,"16-18",Rajahmundry,Google Ads
+C102469,"2024-01-15",Female,"13-15",Delhi,FB Ads
+C102470,"2023-09-16",Male,"13-15",Bengaluru,Organic
+C102471,"2023-06-25",Other,"13-15",Rajahmundry,Organic
+C102472,"2023-03-10",Female,"10-12",Rajahmundry,FB Ads
+C102473,"2022-04-24",Female,"13-15",Bengaluru,FB Ads
+C102474,"2024-03-05",Female,"10-12",Vijayawada,Organic
+C102475,"2022-10-23",Female,"13-15",Vijayawada,Google Ads
+C102476,"2022-09-01",Male,"13-15",Chennai,Google Ads
+C102477,"2022-11-05",Female,"13-15",Hyderabad,Organic
+C102478,"2022-05-05",Male,"16-18",Delhi,Organic
+C102479,"2022-02-18",Female,"13-15",Hyderabad,Referral
+C102480,"2022-09-02",Male,"16-18",Chennai,Organic
+C102481,"2023-03-06",Female,"10-12",Hyderabad,School Partnership
+C102482,"2023-10-17",Female,"13-15",Rajahmundry,Google Ads
+C102483,"2024-03-23",Male,"13-15",Rajahmundry,Organic
+C102484,"2023-09-30",Male,"13-15",Bengaluru,Organic
+C102485,"2023-04-14",Other,"16-18",Bengaluru,Organic
+C102486,"2022-03-06",Female,"10-12",Chennai,Organic
+C102487,"2022-04-24",Female,"13-15",Chennai,Organic
+C102488,"2024-05-06",Female,"13-15",Chennai,Google Ads
+C102489,"2023-05-27",Male,"16-18",Rajahmundry,Organic
+C102490,"2023-09-04",Male,"10-12",Hyderabad,FB Ads
+C102491,"2023-07-03",Male,"16-18",Delhi,FB Ads
+C102492,"2022-01-17",Female,"13-15",Chennai,Organic
+C102493,"2023-10-10",Male,"10-12",Chennai,Organic
+C102494,"2023-06-12",Female,"13-15",Rajahmundry,Organic
+C102495,"2023-08-12",Female,"13-15",Delhi,Organic
+C102496,"2022-09-05",Female,"13-15",Rajahmundry,Google Ads
+C102497,"2024-01-06",Female,"16-18",Delhi,Organic
+C102498,"2022-05-28",Other,"13-15",Rajahmundry,Google Ads
+C102499,"2022-10-26",Male,"13-15",Hyderabad,FB Ads
+C102500,"2023-03-16",Female,"13-15",Chennai,FB Ads
+C102501,"2022-01-02",Female,"10-12",Vijayawada,FB Ads
+C102502,"2023-09-22",Female,"10-12",Vijayawada,Google Ads
+C102503,"2022-12-28",Female,"13-15",Chennai,Organic
+C102504,"2022-09-04",Male,"13-15",Chennai,Organic
+C102505,"2023-08-08",Male,"10-12",Chennai,FB Ads
+C102506,"2023-03-03",Female,"13-15",Chennai,Organic
+C102507,"2022-07-11",Male,"13-15",Delhi,FB Ads
+C102508,"2023-11-12",Female,"10-12",Hyderabad,Google Ads
+C102509,"2023-11-16",Female,"13-15",Vijayawada,FB Ads
+C102510,"2022-03-29",Male,"10-12",Bengaluru,Google Ads
+C102511,"2023-06-21",Female,"16-18",Vijayawada,FB Ads
+C102512,"2023-01-05",Male,"16-18",Vijayawada,Google Ads
+C102513,"2022-03-11",Female,"13-15",Rajahmundry,Google Ads
+C102514,"2023-06-23",Female,"10-12",Chennai,FB Ads
+C102515,"2023-07-12",Female,"16-18",Chennai,Google Ads
+C102516,"2023-06-04",Male,"16-18",Chennai,Referral
+C102517,"2024-03-16",Male,"16-18",Rajahmundry,FB Ads
+C102518,"2023-06-04",Female,"10-12",Hyderabad,FB Ads
+C102519,"2023-07-22",Female,"13-15",Hyderabad,Google Ads
+C102520,"2022-01-21",Female,"16-18",Bengaluru,FB Ads
+C102521,"2023-02-04",Male,"13-15",Hyderabad,Organic
+C102522,"2024-06-13",Male,"13-15",Hyderabad,Referral
+C102523,"2023-04-27",Male,"13-15",Chennai,Organic
+C102524,"2022-02-14",Female,"13-15",Delhi,Google Ads
+C102525,"2023-10-13",Male,"10-12",Vijayawada,Google Ads
+C102526,"2023-02-01",Male,"13-15",Hyderabad,School Partnership
+C102527,"2023-01-18",Female,"10-12",Hyderabad,Organic
+C102528,"2022-09-17",Male,"13-15",Rajahmundry,FB Ads
+C102529,"2024-02-05",Other,"10-12",Bengaluru,FB Ads
+C102530,"2022-01-17",Female,"13-15",Delhi,Organic
+C102531,"2023-01-01",Female,"10-12",Rajahmundry,Organic
+C102532,"2024-03-18",Male,"13-15",Chennai,FB Ads
+C102533,"2022-03-11",Male,"16-18",Vijayawada,FB Ads
+C102534,"2022-12-20",Female,"10-12",Bengaluru,Organic
+C102535,"2022-09-04",Female,"10-12",Rajahmundry,Google Ads
+C102536,"2024-01-21",Female,"10-12",Hyderabad,Google Ads
+C102537,"2023-11-04",Male,"16-18",Hyderabad,Google Ads
+C102538,"2023-10-06",Female,"13-15",Bengaluru,School Partnership
+C102539,"2022-04-17",Female,"13-15",Hyderabad,FB Ads
+C102540,"2024-03-01",Female,"10-12",Rajahmundry,School Partnership
+C102541,"2023-08-19",Female,"13-15",Rajahmundry,Referral
+C102542,"2024-01-23",Female,"16-18",Hyderabad,Organic
+C102543,"2024-02-14",Female,"16-18",Hyderabad,Organic
+C102544,"2022-12-07",Male,"13-15",Chennai,FB Ads
+C102545,"2022-05-17",Female,"10-12",Vijayawada,FB Ads
+C102546,"2022-02-15",Male,"10-12",Bengaluru,FB Ads
+C102547,"2022-12-27",Male,"10-12",Rajahmundry,FB Ads
+C102548,"2023-07-14",Male,"10-12",Bengaluru,Google Ads
+C102549,"2022-12-13",Male,"10-12",Chennai,FB Ads
+C102550,"2024-04-13",Male,"10-12",Rajahmundry,Organic
+C102551,"2023-10-21",Male,"13-15",Chennai,Referral
+C102552,"2022-06-29",Female,"16-18",Chennai,Organic
+C102553,"2024-04-30",Female,"13-15",Delhi,School Partnership
+C102554,"2024-03-08",Male,"16-18",Hyderabad,Organic
+C102555,"2023-12-03",Female,"13-15",Delhi,School Partnership
+C102556,"2023-04-21",Female,"10-12",Bengaluru,Organic
+C102557,"2023-12-14",Male,"13-15",Bengaluru,Organic
+C102558,"2023-05-06",Male,"10-12",Hyderabad,Organic
+C102559,"2023-10-09",Female,"13-15",Delhi,Google Ads
+C102560,"2022-07-06",Female,"13-15",Bengaluru,Referral
+C102561,"2024-04-10",Female,"16-18",Delhi,FB Ads
+C102562,"2022-05-19",Male,"10-12",Hyderabad,School Partnership
+C102563,"2022-03-06",Male,"10-12",Rajahmundry,FB Ads
+C102564,"2024-01-04",Male,"16-18",Chennai,Google Ads
+C102565,"2024-03-05",Male,"10-12",Chennai,Referral
+C102566,"2023-04-14",Male,"13-15",Delhi,Organic
+C102567,"2022-02-07",Male,"13-15",Bengaluru,FB Ads
+C102568,"2022-10-28",Female,"16-18",Delhi,School Partnership
+C102569,"2022-07-26",Female,"16-18",Delhi,School Partnership
+C102570,"2022-02-14",Male,"16-18",Vijayawada,School Partnership
+C102571,"2024-03-21",Female,"10-12",Chennai,School Partnership
+C102572,"2022-07-24",Male,"16-18",Hyderabad,Organic
+C102573,"2022-02-12",Male,"13-15",Delhi,Referral
+C102574,"2022-11-20",Male,"13-15",Vijayawada,FB Ads
+C102575,"2022-11-14",Female,"10-12",Vijayawada,School Partnership
+C102576,"2023-06-12",Other,"13-15",Chennai,FB Ads
+C102577,"2023-02-12",Female,"16-18",Chennai,FB Ads
+C102578,"2024-04-14",Male,"16-18",Chennai,FB Ads
+C102579,"2023-07-11",Female,"13-15",Hyderabad,Organic
+C102580,"2023-04-30",Male,"10-12",Vijayawada,Organic
+C102581,"2022-09-17",Female,"13-15",Bengaluru,Referral
+C102582,"2022-02-07",Female,"16-18",Hyderabad,Referral
+C102583,"2024-02-11",Male,"13-15",Rajahmundry,Organic
+C102584,"2023-10-25",Female,"13-15",Delhi,Google Ads
+C102585,"2022-07-15",Female,"10-12",Chennai,Google Ads
+C102586,"2022-10-20",Male,"13-15",Vijayawada,FB Ads
+C102587,"2023-01-01",Female,"13-15",Delhi,Organic
+C102588,"2024-06-01",Male,"16-18",Hyderabad,Referral
+C102589,"2024-03-10",Female,"13-15",Rajahmundry,Google Ads
+C102590,"2022-02-18",Female,"13-15",Hyderabad,FB Ads
+C102591,"2024-06-05",Female,"13-15",Hyderabad,Google Ads
+C102592,"2023-11-03",Female,"10-12",Bengaluru,Organic
+C102593,"2022-12-06",Female,"16-18",Delhi,FB Ads
+C102594,"2022-10-07",Male,"13-15",Bengaluru,Organic
+C102595,"2022-05-08",Female,"13-15",Hyderabad,Organic
+C102596,"2024-03-29",Male,"13-15",Rajahmundry,Google Ads
+C102597,"2023-01-12",Female,"13-15",Vijayawada,School Partnership
+C102598,"2023-03-24",Male,"13-15",Vijayawada,FB Ads
+C102599,"2023-02-14",Male,"13-15",Delhi,Organic
+C102600,"2024-02-01",Female,"10-12",Chennai,Google Ads
+C102601,"2023-03-27",Male,"13-15",Chennai,Referral
+C102602,"2023-01-31",Female,"10-12",Vijayawada,Google Ads
+C102603,"2022-12-14",Male,"13-15",Hyderabad,Referral
+C102604,"2022-07-11",Male,"10-12",Hyderabad,FB Ads
+C102605,"2023-05-24",Female,"13-15",Bengaluru,Google Ads
+C102606,"2023-12-10",Male,"16-18",Delhi,Organic
+C102607,"2023-05-25",Male,"16-18",Bengaluru,Organic
+C102608,"2023-01-12",Female,"13-15",Chennai,FB Ads
+C102609,"2024-03-27",Male,"13-15",Vijayawada,FB Ads
+C102610,"2023-06-16",Female,"10-12",Hyderabad,School Partnership
+C102611,"2022-10-01",Male,"13-15",Vijayawada,Referral
+C102612,"2024-03-31",Male,"16-18",Rajahmundry,Organic
+C102613,"2022-03-26",Female,"10-12",Vijayawada,Organic
+C102614,"2024-01-15",Male,"13-15",Rajahmundry,FB Ads
+C102615,"2023-03-11",Male,"16-18",Bengaluru,Organic
+C102616,"2022-03-22",Male,"16-18",Bengaluru,Google Ads
+C102617,"2023-03-17",Male,"10-12",Chennai,School Partnership
+C102618,"2023-09-09",Female,"13-15",Vijayawada,School Partnership
+C102619,"2024-04-22",Male,"10-12",Vijayawada,Google Ads
+C102620,"2022-07-04",Female,"10-12",Rajahmundry,Referral
+C102621,"2023-07-13",Female,"16-18",Bengaluru,FB Ads
+C102622,"2022-10-28",Male,"16-18",Rajahmundry,Organic
+C102623,"2022-11-25",Female,"16-18",Bengaluru,FB Ads
+C102624,"2022-04-16",Male,"10-12",Rajahmundry,FB Ads
+C102625,"2022-03-23",Other,"16-18",Bengaluru,Google Ads
+C102626,"2022-12-02",Male,"13-15",Rajahmundry,Organic
+C102627,"2023-11-08",Female,"13-15",Bengaluru,FB Ads
+C102628,"2022-10-30",Female,"13-15",Delhi,FB Ads
+C102629,"2022-11-10",Male,"10-12",Rajahmundry,School Partnership
+C102630,"2023-04-02",Female,"16-18",Vijayawada,FB Ads
+C102631,"2023-09-10",Female,"13-15",Chennai,Google Ads
+C102632,"2024-01-05",Male,"10-12",Delhi,Google Ads
+C102633,"2023-03-13",Male,"10-12",Delhi,Organic
+C102634,"2022-06-20",Female,"10-12",Rajahmundry,FB Ads
+C102635,"2023-12-08",Female,"10-12",Chennai,Referral
+C102636,"2023-03-31",Other,"13-15",Vijayawada,FB Ads
+C102637,"2022-12-26",Female,"16-18",Delhi,School Partnership
+C102638,"2023-04-03",Female,"10-12",Vijayawada,Organic
+C102639,"2022-02-13",Female,"10-12",Bengaluru,Organic
+C102640,"2024-01-15",Male,"13-15",Chennai,Referral
+C102641,"2024-06-09",Male,"16-18",Hyderabad,Referral
+C102642,"2022-12-28",Female,"13-15",Bengaluru,School Partnership
+C102643,"2023-09-22",Female,"13-15",Chennai,Google Ads
+C102644,"2023-03-22",Male,"13-15",Rajahmundry,School Partnership
+C102645,"2022-10-09",Male,"10-12",Rajahmundry,Referral
+C102646,"2023-10-17",Female,"10-12",Vijayawada,Referral
+C102647,"2024-03-21",Female,"13-15",Delhi,FB Ads
+C102648,"2022-02-28",Male,"13-15",Hyderabad,FB Ads
+C102649,"2022-03-18",Male,"13-15",Rajahmundry,School Partnership
+C102650,"2023-11-19",Male,"13-15",Chennai,FB Ads
+C102651,"2023-10-15",Male,"13-15",Delhi,FB Ads
+C102652,"2023-02-20",Male,"10-12",Delhi,FB Ads
+C102653,"2023-01-08",Male,"13-15",Chennai,FB Ads
+C102654,"2023-06-10",Female,"10-12",Delhi,FB Ads
+C102655,"2024-03-31",Male,"10-12",Rajahmundry,Organic
+C102656,"2024-02-07",Female,"13-15",Chennai,Referral
+C102657,"2023-11-27",Female,"16-18",Chennai,FB Ads
+C102658,"2022-06-13",Male,"16-18",Vijayawada,FB Ads
+C102659,"2022-02-01",Female,"13-15",Hyderabad,Organic
+C102660,"2022-05-27",Male,"10-12",Vijayawada,Organic
+C102661,"2024-05-19",Female,"10-12",Hyderabad,Organic
+C102662,"2023-09-15",Male,"16-18",Chennai,Google Ads
+C102663,"2023-11-26",Female,"13-15",Delhi,Organic
+C102664,"2024-03-11",Female,"13-15",Hyderabad,School Partnership
+C102665,"2023-03-25",Male,"16-18",Chennai,Organic
+C102666,"2022-02-05",Male,"13-15",Chennai,Organic
+C102667,"2022-05-10",Female,"16-18",Vijayawada,Organic
+C102668,"2022-03-10",Female,"10-12",Vijayawada,Organic
+C102669,"2022-08-30",Male,"13-15",Delhi,Google Ads
+C102670,"2024-03-08",Female,"16-18",Bengaluru,Referral
+C102671,"2023-10-23",Male,"10-12",Rajahmundry,Google Ads
+C102672,"2023-01-11",Female,"13-15",Bengaluru,Organic
+C102673,"2023-01-06",Male,"13-15",Bengaluru,Organic
+C102674,"2023-01-28",Female,"16-18",Delhi,FB Ads
+C102675,"2023-08-04",Male,"10-12",Hyderabad,School Partnership
+C102676,"2022-02-03",Male,"13-15",Delhi,Organic
+C102677,"2023-09-12",Male,"10-12",Delhi,Google Ads
+C102678,"2022-06-07",Male,"13-15",Chennai,FB Ads
+C102679,"2023-11-27",Female,"10-12",Chennai,Organic
+C102680,"2023-04-06",Male,"10-12",Chennai,FB Ads
+C102681,"2023-01-15",Female,"13-15",Rajahmundry,Organic
+C102682,"2023-01-16",Male,"16-18",Hyderabad,Google Ads
+C102683,"2023-03-31",Male,"10-12",Hyderabad,Organic
+C102684,"2024-02-21",Male,"10-12",Chennai,Google Ads
+C102685,"2022-03-20",Male,"16-18",Bengaluru,Organic
+C102686,"2023-08-11",Male,"13-15",Rajahmundry,School Partnership
+C102687,"2022-05-21",Male,"16-18",Bengaluru,Organic
+C102688,"2023-06-27",Female,"10-12",Vijayawada,Referral
+C102689,"2023-01-11",Male,"13-15",Hyderabad,Referral
+C102690,"2023-02-12",Female,"10-12",Hyderabad,School Partnership
+C102691,"2022-11-18",Female,"10-12",Bengaluru,FB Ads
+C102692,"2023-10-28",Male,"13-15",Rajahmundry,Google Ads
+C102693,"2022-10-13",Male,"13-15",Hyderabad,FB Ads
+C102694,"2022-09-13",Other,"16-18",Bengaluru,Organic
+C102695,"2022-04-27",Female,"13-15",Delhi,FB Ads
+C102696,"2022-01-27",Female,"13-15",Delhi,Organic
+C102697,"2024-01-24",Male,"13-15",Rajahmundry,School Partnership
+C102698,"2022-07-10",Female,"16-18",Bengaluru,Organic
+C102699,"2023-05-27",Female,"10-12",Delhi,FB Ads
+C102700,"2023-06-15",Female,"10-12",Rajahmundry,Google Ads
+C102701,"2023-02-01",Other,"13-15",Chennai,FB Ads
+C102702,"2023-07-30",Male,"13-15",Rajahmundry,Google Ads
+C102703,"2022-05-01",Male,"10-12",Vijayawada,Organic
+C102704,"2022-09-26",Female,"16-18",Chennai,FB Ads
+C102705,"2024-03-04",Female,"10-12",Bengaluru,Organic
+C102706,"2022-09-24",Male,"16-18",Chennai,School Partnership
+C102707,"2023-12-22",Male,"10-12",Chennai,Google Ads
+C102708,"2023-04-02",Male,"13-15",Bengaluru,School Partnership
+C102709,"2022-08-08",Male,"16-18",Bengaluru,Organic
+C102710,"2023-09-19",Female,"10-12",Delhi,Organic
+C102711,"2022-10-20",Female,"16-18",Vijayawada,Organic
+C102712,"2023-12-12",Male,"13-15",Bengaluru,Organic
+C102713,"2023-05-18",Male,"16-18",Hyderabad,Organic
+C102714,"2022-07-24",Male,"13-15",Hyderabad,Google Ads
+C102715,"2022-05-06",Male,"13-15",Vijayawada,Organic
+C102716,"2022-05-19",Female,"10-12",Rajahmundry,FB Ads
+C102717,"2024-05-23",Other,"13-15",Rajahmundry,Referral
+C102718,"2022-03-17",Female,"10-12",Hyderabad,Google Ads
+C102719,"2023-04-08",Male,"10-12",Bengaluru,FB Ads
+C102720,"2022-06-26",Female,"10-12",Vijayawada,FB Ads
+C102721,"2024-01-01",Female,"13-15",Rajahmundry,FB Ads
+C102722,"2023-04-01",Female,"16-18",Rajahmundry,Organic
+C102723,"2022-03-31",Male,"10-12",Chennai,Google Ads
+C102724,"2024-04-09",Male,"10-12",Hyderabad,FB Ads
+C102725,"2023-11-30",Male,"13-15",Bengaluru,Referral
+C102726,"2024-05-15",Male,"10-12",Vijayawada,Google Ads
+C102727,"2022-11-24",Male,"10-12",Rajahmundry,Google Ads
+C102728,"2023-11-15",Male,"10-12",Chennai,FB Ads
+C102729,"2022-12-22",Female,"16-18",Hyderabad,Organic
+C102730,"2023-12-28",Female,"16-18",Hyderabad,Google Ads
+C102731,"2022-03-08",Male,"13-15",Vijayawada,FB Ads
+C102732,"2023-07-18",Male,"13-15",Rajahmundry,Organic
+C102733,"2023-07-10",Female,"13-15",Vijayawada,Organic
+C102734,"2022-10-25",Female,"13-15",Vijayawada,Organic
+C102735,"2022-11-04",Female,"13-15",Delhi,Google Ads
+C102736,"2024-05-21",Other,"13-15",Chennai,Organic
+C102737,"2022-06-11",Female,"10-12",Hyderabad,FB Ads
+C102738,"2023-12-30",Other,"10-12",Delhi,FB Ads
+C102739,"2023-12-28",Male,"13-15",Bengaluru,FB Ads
+C102740,"2023-12-19",Male,"16-18",Hyderabad,Referral
+C102741,"2023-10-16",Male,"13-15",Hyderabad,Referral
+C102742,"2022-06-28",Male,"16-18",Chennai,FB Ads
+C102743,"2024-03-23",Male,"16-18",Bengaluru,Organic
+C102744,"2023-01-06",Female,"10-12",Rajahmundry,FB Ads
+C102745,"2023-06-05",Female,"13-15",Bengaluru,Google Ads
+C102746,"2022-08-18",Female,"13-15",Rajahmundry,FB Ads
+C102747,"2022-05-05",Male,"16-18",Bengaluru,Google Ads
+C102748,"2022-07-25",Female,"16-18",Vijayawada,Organic
+C102749,"2024-03-22",Female,"13-15",Bengaluru,Google Ads
+C102750,"2022-05-23",Male,"10-12",Delhi,Organic
+C102751,"2022-08-31",Female,"16-18",Delhi,Google Ads
+C102752,"2024-03-20",Male,"10-12",Chennai,Organic
+C102753,"2023-05-21",Male,"16-18",Rajahmundry,Google Ads
+C102754,"2022-01-27",Female,"16-18",Hyderabad,Organic
+C102755,"2023-01-05",Male,"13-15",Chennai,FB Ads
+C102756,"2023-07-22",Male,"13-15",Delhi,Google Ads
+C102757,"2023-08-10",Female,"13-15",Delhi,Organic
+C102758,"2023-01-13",Female,"13-15",Rajahmundry,Google Ads
+C102759,"2023-04-24",Male,"13-15",Delhi,Google Ads
+C102760,"2024-04-02",Male,"16-18",Delhi,FB Ads
+C102761,"2023-07-19",Male,"16-18",Rajahmundry,FB Ads
+C102762,"2022-05-13",Female,"16-18",Delhi,FB Ads
+C102763,"2023-09-19",Male,"10-12",Hyderabad,FB Ads
+C102764,"2022-03-30",Male,"16-18",Vijayawada,FB Ads
+C102765,"2022-03-09",Female,"13-15",Chennai,Google Ads
+C102766,"2022-11-13",Female,"10-12",Hyderabad,FB Ads
+C102767,"2023-02-12",Male,"10-12",Hyderabad,Organic
+C102768,"2024-01-05",Female,"10-12",Vijayawada,Organic
+C102769,"2024-01-07",Female,"16-18",Chennai,Organic
+C102770,"2023-05-06",Male,"13-15",Hyderabad,Organic
+C102771,"2023-06-23",Male,"13-15",Delhi,Google Ads
+C102772,"2023-02-25",Female,"10-12",Vijayawada,Google Ads
+C102773,"2024-02-27",Male,"13-15",Chennai,Organic
+C102774,"2023-02-24",Female,"10-12",Bengaluru,School Partnership
+C102775,"2024-04-23",Male,"13-15",Rajahmundry,FB Ads
+C102776,"2023-08-12",Male,"13-15",Delhi,School Partnership
+C102777,"2022-03-17",Male,"10-12",Vijayawada,Google Ads
+C102778,"2022-05-09",Male,"16-18",Rajahmundry,Google Ads
+C102779,"2022-11-21",Male,"10-12",Bengaluru,Organic
+C102780,"2023-10-20",Male,"13-15",Hyderabad,Organic
+C102781,"2022-03-17",Female,"13-15",Hyderabad,Organic
+C102782,"2023-04-06",Other,"13-15",Chennai,Google Ads
+C102783,"2023-04-23",Female,"10-12",Vijayawada,Organic
+C102784,"2023-11-28",Female,"10-12",Vijayawada,Google Ads
+C102785,"2023-06-14",Male,"16-18",Chennai,Organic
+C102786,"2022-12-19",Other,"10-12",Rajahmundry,Referral
+C102787,"2022-05-12",Male,"16-18",Hyderabad,Organic
+C102788,"2024-06-18",Female,"16-18",Hyderabad,Organic
+C102789,"2024-04-28",Other,"10-12",Vijayawada,Organic
+C102790,"2024-03-09",Female,"10-12",Vijayawada,FB Ads
+C102791,"2023-07-19",Other,"13-15",Chennai,Organic
+C102792,"2023-10-18",Female,"16-18",Bengaluru,Google Ads
+C102793,"2023-08-25",Male,"16-18",Rajahmundry,Organic
+C102794,"2022-07-06",Male,"13-15",Delhi,FB Ads
+C102795,"2024-02-26",Female,"16-18",Bengaluru,Referral
+C102796,"2022-05-13",Male,"10-12",Bengaluru,Organic
+C102797,"2023-03-20",Female,"16-18",Vijayawada,School Partnership
+C102798,"2023-05-30",Other,"16-18",Vijayawada,School Partnership
+C102799,"2024-06-08",Male,"10-12",Vijayawada,Organic
+C102800,"2022-02-26",Female,"10-12",Bengaluru,Organic
+C102801,"2024-05-01",Female,"10-12",Rajahmundry,FB Ads
+C102802,"2022-05-08",Female,"10-12",Vijayawada,Google Ads
+C102803,"2023-06-15",Other,"16-18",Hyderabad,FB Ads
+C102804,"2022-06-06",Female,"13-15",Rajahmundry,Google Ads
+C102805,"2022-11-08",Other,"10-12",Hyderabad,Google Ads
+C102806,"2022-06-18",Female,"13-15",Rajahmundry,Organic
+C102807,"2022-06-15",Male,"16-18",Vijayawada,Referral
+C102808,"2022-11-27",Male,"13-15",Delhi,Google Ads
+C102809,"2023-12-28",Female,"13-15",Chennai,FB Ads
+C102810,"2022-08-19",Male,"10-12",Vijayawada,Referral
+C102811,"2022-12-21",Female,"16-18",Bengaluru,Google Ads
+C102812,"2023-06-16",Female,"16-18",Delhi,Organic
+C102813,"2022-10-18",Male,"10-12",Bengaluru,FB Ads
+C102814,"2024-05-16",Female,"10-12",Rajahmundry,FB Ads
+C102815,"2022-03-22",Female,"10-12",Bengaluru,Organic
+C102816,"2022-09-14",Female,"10-12",Delhi,School Partnership
+C102817,"2022-07-21",Male,"13-15",Delhi,Organic
+C102818,"2023-10-13",Male,"16-18",Vijayawada,Google Ads
+C102819,"2023-07-19",Male,"13-15",Hyderabad,FB Ads
+C102820,"2022-10-09",Female,"16-18",Vijayawada,Organic
+C102821,"2022-05-09",Male,"13-15",Rajahmundry,School Partnership
+C102822,"2023-10-03",Female,"13-15",Bengaluru,Referral
+C102823,"2022-11-07",Male,"13-15",Hyderabad,FB Ads
+C102824,"2023-09-22",Male,"10-12",Chennai,Organic
+C102825,"2023-07-01",Female,"13-15",Delhi,Organic
+C102826,"2022-04-06",Female,"13-15",Hyderabad,FB Ads
+C102827,"2023-05-30",Male,"10-12",Hyderabad,Organic
+C102828,"2023-10-19",Male,"13-15",Vijayawada,FB Ads
+C102829,"2022-06-22",Male,"13-15",Chennai,School Partnership
+C102830,"2023-08-30",Female,"16-18",Delhi,FB Ads
+C102831,"2023-08-18",Female,"13-15",Rajahmundry,Referral
+C102832,"2022-06-07",Male,"16-18",Rajahmundry,Google Ads
+C102833,"2022-06-25",Male,"13-15",Hyderabad,FB Ads
+C102834,"2023-11-06",Male,"16-18",Hyderabad,Referral
+C102835,"2023-10-02",Female,"13-15",Bengaluru,FB Ads
+C102836,"2024-01-08",Other,"16-18",Chennai,Referral
+C102837,"2023-09-12",Male,"13-15",Delhi,Organic
+C102838,"2022-12-12",Female,"13-15",Hyderabad,Organic
+C102839,"2024-05-12",Male,"13-15",Bengaluru,Referral
+C102840,"2023-08-01",Male,"13-15",Chennai,FB Ads
+C102841,"2022-02-12",Female,"10-12",Delhi,Referral
+C102842,"2024-04-25",Female,"10-12",Rajahmundry,School Partnership
+C102843,"2024-06-03",Female,"10-12",Bengaluru,Organic
+C102844,"2022-01-30",Female,"16-18",Chennai,FB Ads
+C102845,"2022-03-25",Male,"10-12",Bengaluru,FB Ads
+C102846,"2022-02-16",Female,"10-12",Hyderabad,Google Ads
+C102847,"2023-10-19",Male,"13-15",Vijayawada,Google Ads
+C102848,"2024-02-29",Female,"13-15",Rajahmundry,Organic
+C102849,"2023-08-14",Male,"13-15",Hyderabad,FB Ads
+C102850,"2022-09-29",Female,"10-12",Hyderabad,Google Ads
+C102851,"2023-10-29",Male,"16-18",Chennai,Organic
+C102852,"2022-08-04",Male,"16-18",Bengaluru,Referral
+C102853,"2024-02-25",Female,"16-18",Rajahmundry,Google Ads
+C102854,"2023-08-09",Male,"13-15",Hyderabad,School Partnership
+C102855,"2023-03-03",Female,"16-18",Chennai,Organic
+C102856,"2023-09-25",Male,"10-12",Rajahmundry,Organic
+C102857,"2023-10-17",Male,"10-12",Bengaluru,FB Ads
+C102858,"2022-02-01",Male,"10-12",Hyderabad,Organic
+C102859,"2023-05-25",Male,"13-15",Delhi,School Partnership
+C102860,"2023-10-05",Female,"13-15",Hyderabad,Organic
+C102861,"2023-07-13",Male,"13-15",Hyderabad,Google Ads
+C102862,"2022-10-24",Female,"10-12",Rajahmundry,FB Ads
+C102863,"2023-10-20",Female,"13-15",Rajahmundry,FB Ads
+C102864,"2022-11-06",Male,"13-15",Rajahmundry,Organic
+C102865,"2023-05-10",Female,"13-15",Rajahmundry,Google Ads
+C102866,"2022-09-08",Female,"13-15",Chennai,FB Ads
+C102867,"2024-04-04",Female,"10-12",Vijayawada,Organic
+C102868,"2024-04-06",Male,"16-18",Chennai,School Partnership
+C102869,"2023-12-03",Male,"13-15",Hyderabad,Organic
+C102870,"2023-02-20",Female,"10-12",Chennai,FB Ads
+C102871,"2022-11-01",Female,"10-12",Bengaluru,FB Ads
+C102872,"2023-04-10",Female,"13-15",Delhi,Organic
+C102873,"2022-03-16",Male,"16-18",Rajahmundry,School Partnership
+C102874,"2023-12-07",Female,"13-15",Bengaluru,FB Ads
+C102875,"2022-03-03",Male,"10-12",Delhi,Organic
+C102876,"2022-06-11",Female,"16-18",Bengaluru,FB Ads
+C102877,"2023-03-27",Male,"13-15",Hyderabad,Google Ads
+C102878,"2023-03-02",Female,"13-15",Rajahmundry,FB Ads
+C102879,"2023-05-11",Male,"13-15",Bengaluru,Google Ads
+C102880,"2023-04-21",Male,"10-12",Hyderabad,Organic
+C102881,"2022-07-28",Female,"13-15",Rajahmundry,Organic
+C102882,"2022-12-15",Male,"13-15",Vijayawada,Referral
+C102883,"2023-09-14",Male,"16-18",Hyderabad,Organic
+C102884,"2022-05-28",Male,"13-15",Chennai,Referral
+C102885,"2022-11-17",Female,"13-15",Rajahmundry,Organic
+C102886,"2024-06-01",Female,"13-15",Bengaluru,Referral
+C102887,"2024-01-06",Male,"16-18",Delhi,FB Ads
+C102888,"2022-11-23",Female,"16-18",Bengaluru,Google Ads
+C102889,"2024-01-22",Female,"13-15",Chennai,Organic
+C102890,"2024-05-31",Male,"13-15",Chennai,Organic
+C102891,"2022-12-20",Female,"13-15",Bengaluru,Organic
+C102892,"2023-02-13",Female,"13-15",Delhi,Organic
+C102893,"2022-05-14",Female,"10-12",Rajahmundry,Organic
+C102894,"2024-02-18",Male,"13-15",Hyderabad,FB Ads
+C102895,"2023-01-15",Female,"10-12",Chennai,FB Ads
+C102896,"2023-06-12",Female,"16-18",Chennai,Google Ads
+C102897,"2023-07-30",Male,"13-15",Chennai,Google Ads
+C102898,"2022-04-19",Male,"16-18",Delhi,Google Ads
+C102899,"2022-11-23",Male,"13-15",Vijayawada,FB Ads
+C102900,"2022-09-05",Male,"13-15",Delhi,FB Ads
+C102901,"2023-04-23",Female,"13-15",Rajahmundry,FB Ads
+C102902,"2022-05-06",Male,"10-12",Rajahmundry,Referral
+C102903,"2022-10-01",Male,"13-15",Rajahmundry,Organic
+C102904,"2023-04-06",Female,"10-12",Rajahmundry,Organic
+C102905,"2022-09-11",Male,"13-15",Rajahmundry,Google Ads
+C102906,"2022-05-25",Other,"13-15",Bengaluru,Organic
+C102907,"2022-04-10",Male,"16-18",Chennai,Referral
+C102908,"2022-02-21",Male,"10-12",Delhi,Referral
+C102909,"2022-10-25",Male,"10-12",Bengaluru,Organic
+C102910,"2023-01-29",Male,"13-15",Delhi,Organic
+C102911,"2024-06-03",Male,"16-18",Vijayawada,FB Ads
+C102912,"2023-09-23",Female,"13-15",Hyderabad,Google Ads
+C102913,"2023-03-05",Other,"13-15",Chennai,Organic
+C102914,"2022-09-12",Male,"13-15",Vijayawada,Google Ads
+C102915,"2024-06-05",Female,"10-12",Bengaluru,FB Ads
+C102916,"2022-06-13",Female,"16-18",Hyderabad,Organic
+C102917,"2024-04-13",Female,"13-15",Vijayawada,Organic
+C102918,"2022-12-02",Male,"10-12",Delhi,Google Ads
+C102919,"2023-08-15",Male,"13-15",Hyderabad,Organic
+C102920,"2024-01-09",Male,"10-12",Delhi,Referral
+C102921,"2022-11-17",Female,"16-18",Vijayawada,FB Ads
+C102922,"2022-07-14",Female,"10-12",Bengaluru,FB Ads
+C102923,"2024-02-21",Male,"13-15",Delhi,Referral
+C102924,"2022-06-13",Male,"10-12",Hyderabad,Referral
+C102925,"2023-05-26",Female,"13-15",Vijayawada,FB Ads
+C102926,"2023-06-12",Female,"16-18",Delhi,Organic
+C102927,"2023-04-24",Other,"13-15",Bengaluru,Google Ads
+C102928,"2023-05-26",Female,"13-15",Chennai,FB Ads
+C102929,"2024-06-19",Male,"16-18",Bengaluru,Organic
+C102930,"2022-11-12",Female,"10-12",Bengaluru,School Partnership
+C102931,"2023-05-25",Female,"13-15",Chennai,Organic
+C102932,"2022-01-24",Male,"10-12",Bengaluru,Organic
+C102933,"2022-04-03",Female,"16-18",Chennai,Organic
+C102934,"2023-02-07",Female,"13-15",Chennai,Google Ads
+C102935,"2023-06-02",Male,"13-15",Delhi,Google Ads
+C102936,"2023-04-14",Female,"13-15",Delhi,Organic
+C102937,"2022-09-04",Female,"10-12",Chennai,Organic
+C102938,"2022-08-09",Female,"10-12",Vijayawada,Organic
+C102939,"2023-08-21",Male,"10-12",Hyderabad,Google Ads
+C102940,"2022-12-28",Male,"13-15",Vijayawada,Organic
+C102941,"2022-02-19",Female,"10-12",Chennai,School Partnership
+C102942,"2022-02-21",Male,"10-12",Hyderabad,Organic
+C102943,"2022-10-16",Female,"16-18",Delhi,School Partnership
+C102944,"2023-05-22",Female,"16-18",Hyderabad,Organic
+C102945,"2023-09-04",Male,"13-15",Chennai,Google Ads
+C102946,"2024-05-13",Female,"13-15",Delhi,Organic
+C102947,"2023-11-01",Female,"10-12",Hyderabad,Organic
+C102948,"2023-11-20",Male,"13-15",Hyderabad,Referral
+C102949,"2023-04-27",Female,"16-18",Vijayawada,Referral
+C102950,"2022-10-20",Female,"10-12",Hyderabad,FB Ads
+C102951,"2023-07-04",Female,"10-12",Chennai,Google Ads
+C102952,"2022-01-09",Female,"16-18",Rajahmundry,FB Ads
+C102953,"2024-05-17",Male,"13-15",Rajahmundry,Referral
+C102954,"2022-04-21",Female,"10-12",Rajahmundry,Organic
+C102955,"2023-03-18",Female,"13-15",Chennai,FB Ads
+C102956,"2022-05-18",Female,"13-15",Rajahmundry,FB Ads
+C102957,"2022-09-28",Female,"13-15",Vijayawada,FB Ads
+C102958,"2024-01-15",Male,"16-18",Chennai,Referral
+C102959,"2023-01-10",Female,"16-18",Delhi,Organic
+C102960,"2024-02-22",Male,"13-15",Chennai,Organic
+C102961,"2023-02-17",Male,"16-18",Chennai,FB Ads
+C102962,"2023-01-10",Male,"13-15",Hyderabad,Google Ads
+C102963,"2022-02-16",Other,"16-18",Hyderabad,Organic
+C102964,"2023-02-15",Female,"13-15",Hyderabad,FB Ads
+C102965,"2022-02-22",Female,"16-18",Bengaluru,School Partnership
+C102966,"2023-08-07",Female,"16-18",Vijayawada,Organic
+C102967,"2023-07-30",Female,"10-12",Chennai,Google Ads
+C102968,"2022-07-19",Female,"16-18",Chennai,Google Ads
+C102969,"2023-01-07",Female,"16-18",Hyderabad,FB Ads
+C102970,"2023-07-21",Male,"16-18",Chennai,School Partnership
+C102971,"2022-10-23",Male,"10-12",Delhi,Google Ads
+C102972,"2022-03-17",Female,"16-18",Chennai,FB Ads
+C102973,"2023-01-31",Female,"16-18",Rajahmundry,FB Ads
+C102974,"2023-06-01",Male,"10-12",Delhi,Google Ads
+C102975,"2023-04-07",Male,"16-18",Delhi,FB Ads
+C102976,"2024-02-22",Female,"10-12",Chennai,Referral
+C102977,"2023-07-18",Male,"10-12",Bengaluru,FB Ads
+C102978,"2022-10-14",Female,"13-15",Hyderabad,Organic
+C102979,"2024-04-25",Other,"13-15",Vijayawada,Organic
+C102980,"2023-10-01",Male,"13-15",Vijayawada,Organic
+C102981,"2023-11-28",Male,"10-12",Rajahmundry,Organic
+C102982,"2023-09-18",Female,"16-18",Vijayawada,Referral
+C102983,"2022-05-02",Female,"10-12",Vijayawada,Google Ads
+C102984,"2022-05-12",Female,"10-12",Hyderabad,Google Ads
+C102985,"2022-04-10",Other,"10-12",Hyderabad,Google Ads
+C102986,"2023-02-08",Male,"13-15",Bengaluru,Referral
+C102987,"2023-01-18",Female,"16-18",Rajahmundry,FB Ads
+C102988,"2024-03-24",Female,"13-15",Vijayawada,Referral
+C102989,"2022-12-14",Female,"16-18",Bengaluru,FB Ads
+C102990,"2023-07-26",Male,"10-12",Rajahmundry,School Partnership
+C102991,"2023-01-10",Female,"13-15",Delhi,Google Ads
+C102992,"2024-02-13",Female,"13-15",Vijayawada,Organic
+C102993,"2022-05-28",Male,"13-15",Vijayawada,FB Ads
+C102994,"2022-07-23",Male,"10-12",Hyderabad,FB Ads
+C102995,"2023-09-09",Female,"13-15",Chennai,Organic
+C102996,"2023-06-06",Male,"13-15",Rajahmundry,FB Ads
+C102997,"2023-02-16",Male,"16-18",Vijayawada,Organic
+C102998,"2023-05-28",Male,"13-15",Rajahmundry,Organic
+C102999,"2022-02-11",Female,"10-12",Bengaluru,School Partnership
