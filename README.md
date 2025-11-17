@@ -133,4 +133,36 @@ The project contains a **4-page interactive dashboard**:
 ---
 
 ## 📂 Project Structure
+edlearn-churn-analysis/
+├── data/
+│   ├── payments.csv
+│   ├── revenue_by_month.csv
+│   ├── customers.csv
+│   ├── customer_segments.csv
+│   ├── customer_revenue.csv
+│   ├── churn_by_month.csv
+│   ├── usage.csv
+│   ├── support.csv
+│   ├── surveys.csv
+│   ├── subscriptions.csv
+│   └── cohort_ltv.csv
+│
+├── powerbi/
+│   ├── edlearn_dashboard.pbix
+│   └── dashboard_report.pdf
+│
+└── README.md
+ Final Note
 
+This project was created as part of my analytics learning journey.
+It showcases beginner → intermediate skills in:
+
+Data cleaning
+
+Data modeling
+
+DAX
+
+Visualization
+
+Business storytelling
